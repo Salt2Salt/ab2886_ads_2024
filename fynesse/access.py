@@ -2,6 +2,7 @@ from .config import *
 import requests
 import zipfile
 import io
+import pymysql
 """These are the types of import we might expect in this file
 import httplib2
 import oauth2
