@@ -33,3 +33,10 @@ def download_price_paid_data(year_from, year_to):
                 with open("." + file_name.replace("<year>", str(year)).replace("<part>", str(part)), "wb") as file:
                     file.write(response.content)
 
+def download_open_postcode_geo():
+    source = "https://www.getthedata.com/downloads/open_postcode_geo.csv.zip"
+    response = requests.get(source)
+    if response.status_code = 200:
+        zipped_file = zipfile.ZipFile(io.BytesIO(response.content))
+        zipped_file.extractall('.')
+        print("Open Postcode Geo Dataset downloaded!")
