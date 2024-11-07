@@ -36,7 +36,31 @@ def download_price_paid_data(year_from, year_to):
 def download_open_postcode_geo():
     source = "https://www.getthedata.com/downloads/open_postcode_geo.csv.zip"
     response = requests.get(source)
-    if response.status_code = 200:
+    if response.status_code == 200:
         zipped_file = zipfile.ZipFile(io.BytesIO(response.content))
         zipped_file.extractall('.')
         print("Open Postcode Geo Dataset downloaded!")
+
+def create_connection(user, password, host, database, port=3306):
+    """ Create a database connection to the MariaDB database
+        specified by the host url and database name.
+    :param user: username
+    :param password: password
+    :param host: host url
+    :param database: database name
+    :param port: port number
+    :return: Connection object or None
+    """
+    conn = None
+    try:
+        conn = pymysql.connect(user=user,
+                               passwd=password,
+                               host=host,
+                               port=port,
+                               local_infile=1,
+                               db=database
+                               )
+        print(f"Connection established with {database}!")
+    except Exception as e:
+        print(f"Error connecting to the MariaDB '{database}' Server: {e}")
+    return conn
