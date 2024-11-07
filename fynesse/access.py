@@ -15,3 +15,5 @@ def data():
     """Read the data from the web or local file, returning structured format such as a data frame"""
     raise NotImplementedError
 
+def hello_world():
+  print("Hello from the data science library!")
