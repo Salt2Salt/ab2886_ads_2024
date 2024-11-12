@@ -42,9 +42,10 @@ def count_pois_near_coordinates(latitude: float, longitude: float, tags: dict, d
     (north, east), (south,west) = getBoundingBox((latitude, longitude), distance_km*2)
     places_of_interest = ox.geometries_from_bbox(north, south, east, west, tags)
     origin = (latitude, longitude)
-    poi_loc = (row.geometry.centroid.x, row.geometry.centroid.y)
-    print(f"Is {poi_loc} near {origin}?")
-    isWithinDistance = lambda row : (distance(origin, poi_loc).km < distance_km)
+    def isWithinDistance(row):
+      poi_loc = (row.geometry.centroid.x, row.geometry.centroid.y)
+      print(f"Is {poi_loc} near {origin}?")
+      return distance(origin, poi_loc).km < distance_km
     return len(places_of_interest.loc[isWithinDistance])
 
 if __name__ == "__main__":
