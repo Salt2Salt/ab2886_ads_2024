@@ -1,6 +1,7 @@
 # This file contains code for suporting addressing questions in the data
 import numpy as np
 from geopy.distance import distance
+import osmnx as ox
 """# Here are some of the imports we might expect 
 import sklearn.model_selection  as ms
 import sklearn.linear_model as lm
