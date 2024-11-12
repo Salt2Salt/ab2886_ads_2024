@@ -1,6 +1,7 @@
 # This file contains code for suporting addressing questions in the data
 import numpy as np
 from geopy.distance import distance
+import osmnx as ox
 """# Here are some of the imports we might expect 
 import sklearn.model_selection  as ms
 import sklearn.linear_model as lm
@@ -42,7 +43,7 @@ def count_pois_near_coordinates(latitude: float, longitude: float, tags: dict, d
     places_of_interest = ox.geometries_from_bbox(north, south, east, west, tags)
     origin = (latitude, longitude)
     isWithinDistance = lambda row : distance(origin, (row.geometry.centroid.x, geometry.centroid.y)).km < distance_km
-    return len(pois_df[isWithinDistance])
+    return len(places_of_interest[isWithinDistance])
 
 if __name__ == "__main__":
   print("Test")
