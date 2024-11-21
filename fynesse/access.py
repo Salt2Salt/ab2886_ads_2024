@@ -92,3 +92,17 @@ def housing_upload_join_data(conn, year):
   print('Storing data for year: ' + str(year))
   cur.execute(f"LOAD DATA LOCAL INFILE '" + csv_file_path + "' INTO TABLE `prices_coordinates_data` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED by '\"' LINES STARTING BY '' TERMINATED BY '\n';")
   print('Data stored for year: ' + str(year))
+
+
+def geo():
+    tags = {
+        "amenity": True,
+        "buildings": True,
+        "historic": True,
+        "leisure": True,
+        "shop": True,
+        "tourism": True,
+        "religion": True,
+        "memorial": True
+    }
+    ox.geometries_from_bbox(north, south, east, west, tags)
