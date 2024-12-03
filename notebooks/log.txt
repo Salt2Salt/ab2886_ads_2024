@@ -1,0 +1,2410 @@
+Selecting data for 1995/03 | (1995-03-01---1995-03-05) | 14:04:56
+Selecting data for 1995/03 | (1995-03-06---1995-03-10) | 14:05:10
+Selecting data for 1995/03 | (1995-03-11---1995-03-15) | 14:05:14
+Selecting data for 1995/03 | (1995-03-16---1995-03-20) | 14:05:23
+Selecting data for 1995/03 | (1995-03-21---1995-03-25) | 14:05:35
+Selecting data for 1995/03 | (1995-03-26---1995-03-31) | 14:05:57
+Selecting data for 1995/04 | (1995-04-01---1995-04-05) | 14:06:03
+Selecting data for 1995/04 | (1995-04-06---1995-04-10) | 14:06:14
+Selecting data for 1995/04 | (1995-04-11---1995-04-15) | 14:06:24
+Selecting data for 1995/04 | (1995-04-16---1995-04-20) | 14:06:28
+Selecting data for 1995/04 | (1995-04-21---1995-04-25) | 14:06:36
+Selecting data for 1995/04 | (1995-04-26---1995-04-31) | 14:06:52
+Selecting data for 1995/05 | (1995-05-01---1995-05-05) | 14:07:06
+Selecting data for 1995/05 | (1995-05-06---1995-05-10) | 14:07:08
+Selecting data for 1995/05 | (1995-05-11---1995-05-15) | 14:07:16
+Selecting data for 1995/05 | (1995-05-16---1995-05-20) | 14:07:26
+Selecting data for 1995/05 | (1995-05-21---1995-05-25) | 14:07:32
+Selecting data for 1995/05 | (1995-05-26---1995-05-31) | 14:07:51
+Selecting data for 1995/06 | (1995-06-01---1995-06-05) | 14:07:59
+Selecting data for 1995/06 | (1995-06-06---1995-06-10) | 14:08:10
+Selecting data for 1995/06 | (1995-06-11---1995-06-15) | 14:08:14
+Selecting data for 1995/06 | (1995-06-16---1995-06-20) | 14:08:23
+Selecting data for 1995/06 | (1995-06-21---1995-06-25) | 14:08:32
+Selecting data for 1995/06 | (1995-06-26---1995-06-31) | 14:08:57
+Selecting data for 1995/07 | (1995-07-01---1995-07-05) | 14:09:03
+Selecting data for 1995/07 | (1995-07-06---1995-07-10) | 14:09:13
+Selecting data for 1995/07 | (1995-07-11---1995-07-15) | 14:09:24
+Selecting data for 1995/07 | (1995-07-16---1995-07-20) | 14:09:30
+Selecting data for 1995/07 | (1995-07-21---1995-07-25) | 14:09:40
+Selecting data for 1995/07 | (1995-07-26---1995-07-31) | 14:10:04
+Selecting data for 1995/08 | (1995-08-01---1995-08-05) | 14:10:15
+Selecting data for 1995/08 | (1995-08-06---1995-08-10) | 14:10:21
+Selecting data for 1995/08 | (1995-08-11---1995-08-15) | 14:10:31
+Selecting data for 1995/08 | (1995-08-16---1995-08-20) | 14:10:42
+Selecting data for 1995/08 | (1995-08-21---1995-08-25) | 14:11:04
+Selecting data for 1995/08 | (1995-08-26---1995-08-31) | 14:11:16
+Selecting data for 1995/09 | (1995-09-01---1995-09-05) | 14:11:24
+Selecting data for 1995/09 | (1995-09-06---1995-09-10) | 14:11:33
+Selecting data for 1995/09 | (1995-09-11---1995-09-15) | 14:11:45
+Selecting data for 1995/09 | (1995-09-16---1995-09-20) | 14:11:49
+Selecting data for 1995/09 | (1995-09-21---1995-09-25) | 14:11:59
+Selecting data for 1995/09 | (1995-09-26---1995-09-31) | 14:12:24
+Selecting data for 1995/10 | (1995-10-01---1995-10-05) | 14:12:29
+Selecting data for 1995/10 | (1995-10-06---1995-10-10) | 14:12:38
+Selecting data for 1995/10 | (1995-10-11---1995-10-15) | 14:12:47
+Selecting data for 1995/10 | (1995-10-16---1995-10-20) | 14:12:59
+Selecting data for 1995/10 | (1995-10-21---1995-10-25) | 14:13:06
+Selecting data for 1995/10 | (1995-10-26---1995-10-31) | 14:13:24
+Selecting data for 1995/11 | (1995-11-01---1995-11-05) | 14:13:32
+Selecting data for 1995/11 | (1995-11-06---1995-11-10) | 14:13:43
+Selecting data for 1995/11 | (1995-11-11---1995-11-15) | 14:13:47
+Selecting data for 1995/11 | (1995-11-16---1995-11-20) | 14:13:56
+Selecting data for 1995/11 | (1995-11-21---1995-11-25) | 14:14:12
+Selecting data for 1995/11 | (1995-11-26---1995-11-31) | 14:14:27
+Selecting data for 1995/12 | (1995-12-01---1995-12-05) | 14:14:38
+Selecting data for 1995/12 | (1995-12-06---1995-12-10) | 14:14:50
+Selecting data for 1995/12 | (1995-12-11---1995-12-15) | 14:15:15
+Selecting data for 1995/12 | (1995-12-16---1995-12-20) | 14:15:26
+Selecting data for 1995/12 | (1995-12-21---1995-12-25) | 14:15:37
+Selecting data for 1995/12 | (1995-12-26---1995-12-31) | 14:15:39
+>>> for year in range(1996, 2010):
+...   for month in range(1, 13):
+...     download_join(conn, year, month)
+...
+Selecting data for 1996/01 | (1996-01-01---1996-01-05) | 14:19:14
+Selecting data for 1996/01 | (1996-01-06---1996-01-10) | 14:19:20
+Selecting data for 1996/01 | (1996-01-11---1996-01-15) | 14:19:31
+Selecting data for 1996/01 | (1996-01-16---1996-01-20) | 14:19:40
+Selecting data for 1996/01 | (1996-01-21---1996-01-25) | 14:19:46
+Selecting data for 1996/01 | (1996-01-26---1996-01-31) | 14:20:11
+Selecting data for 1996/02 | (1996-02-01---1996-02-05) | 14:20:22
+Selecting data for 1996/02 | (1996-02-06---1996-02-10) | 14:20:33
+Selecting data for 1996/02 | (1996-02-11---1996-02-15) | 14:20:39
+Selecting data for 1996/02 | (1996-02-16---1996-02-20) | 14:20:52
+Selecting data for 1996/02 | (1996-02-21---1996-02-25) | 14:21:07
+Selecting data for 1996/02 | (1996-02-26---1996-02-31) | 14:21:24
+Selecting data for 1996/03 | (1996-03-01---1996-03-05) | 14:21:35
+Selecting data for 1996/03 | (1996-03-06---1996-03-10) | 14:21:46
+Selecting data for 1996/03 | (1996-03-11---1996-03-15) | 14:22:02
+Selecting data for 1996/03 | (1996-03-16---1996-03-20) | 14:22:08
+Selecting data for 1996/03 | (1996-03-21---1996-03-25) | 14:22:24
+Selecting data for 1996/03 | (1996-03-26---1996-03-31) | 14:22:54
+Selecting data for 1996/04 | (1996-04-01---1996-04-05) | 14:23:16
+Selecting data for 1996/04 | (1996-04-06---1996-04-10) | 14:23:21
+Selecting data for 1996/04 | (1996-04-11---1996-04-15) | 14:23:34
+Selecting data for 1996/04 | (1996-04-16---1996-04-20) | 14:23:48
+Selecting data for 1996/04 | (1996-04-21---1996-04-25) | 14:23:56
+Selecting data for 1996/04 | (1996-04-26---1996-04-31) | 14:24:24
+Selecting data for 1996/05 | (1996-05-01---1996-05-05) | 14:24:39
+Selecting data for 1996/05 | (1996-05-06---1996-05-10) | 14:24:53
+Selecting data for 1996/05 | (1996-05-11---1996-05-15) | 14:24:59
+Selecting data for 1996/05 | (1996-05-16---1996-05-20) | 14:25:17
+Selecting data for 1996/05 | (1996-05-21---1996-05-25) | 14:25:42
+Selecting data for 1996/05 | (1996-05-26---1996-05-31) | 14:26:11
+Selecting data for 1996/06 | (1996-06-01---1996-06-05) | 14:26:18
+Selecting data for 1996/06 | (1996-06-06---1996-06-10) | 14:26:32
+Selecting data for 1996/06 | (1996-06-11---1996-06-15) | 14:26:51
+Selecting data for 1996/06 | (1996-06-16---1996-06-20) | 14:26:59
+Selecting data for 1996/06 | (1996-06-21---1996-06-25) | 14:27:18
+Selecting data for 1996/06 | (1996-06-26---1996-06-31) | 14:27:48
+Selecting data for 1996/07 | (1996-07-01---1996-07-05) | 14:28:10
+Selecting data for 1996/07 | (1996-07-06---1996-07-10) | 14:28:18
+Selecting data for 1996/07 | (1996-07-11---1996-07-15) | 14:28:36
+Selecting data for 1996/07 | (1996-07-16---1996-07-20) | 14:28:55
+Selecting data for 1996/07 | (1996-07-21---1996-07-25) | 14:29:09
+Selecting data for 1996/07 | (1996-07-26---1996-07-31) | 14:29:45
+Selecting data for 1996/08 | (1996-08-01---1996-08-05) | 14:30:07
+Selecting data for 1996/08 | (1996-08-06---1996-08-10) | 14:30:27
+Selecting data for 1996/08 | (1996-08-11---1996-08-15) | 14:30:39
+Selecting data for 1996/08 | (1996-08-16---1996-08-20) | 14:30:59
+Selecting data for 1996/08 | (1996-08-21---1996-08-25) | 14:31:23
+Selecting data for 1996/08 | (1996-08-26---1996-08-31) | 14:31:54
+Selecting data for 1996/09 | (1996-09-01---1996-09-05) | 14:32:07
+Selecting data for 1996/09 | (1996-09-06---1996-09-10) | 14:32:25
+Selecting data for 1996/09 | (1996-09-11---1996-09-15) | 14:32:41
+Selecting data for 1996/09 | (1996-09-16---1996-09-20) | 14:33:06
+Selecting data for 1996/09 | (1996-09-21---1996-09-25) | 14:33:14
+Selecting data for 1996/09 | (1996-09-26---1996-09-31) | 14:33:47
+Selecting data for 1996/10 | (1996-10-01---1996-10-05) | 14:34:07
+Selecting data for 1996/10 | (1996-10-06---1996-10-10) | 14:34:17
+Selecting data for 1996/10 | (1996-10-11---1996-10-15) | 14:34:35
+Selecting data for 1996/10 | (1996-10-16---1996-10-20) | 14:34:54
+Selecting data for 1996/10 | (1996-10-21---1996-10-25) | 14:35:25
+Selecting data for 1996/10 | (1996-10-26---1996-10-31) | 14:35:51
+Selecting data for 1996/11 | (1996-11-01---1996-11-05) | 14:36:10
+Selecting data for 1996/11 | (1996-11-06---1996-11-10) | 14:36:27
+Selecting data for 1996/11 | (1996-11-11---1996-11-15) | 14:36:52
+Selecting data for 1996/11 | (1996-11-16---1996-11-20) | 14:37:00
+Selecting data for 1996/11 | (1996-11-21---1996-11-25) | 14:37:22
+Selecting data for 1996/11 | (1996-11-26---1996-11-31) | 14:37:57
+Selecting data for 1996/12 | (1996-12-01---1996-12-05) | 14:38:12
+Selecting data for 1996/12 | (1996-12-06---1996-12-10) | 14:38:35
+Selecting data for 1996/12 | (1996-12-11---1996-12-15) | 14:38:59
+Selecting data for 1996/12 | (1996-12-16---1996-12-20) | 14:39:47
+Selecting data for 1996/12 | (1996-12-21---1996-12-25) | 14:39:53
+Selecting data for 1996/12 | (1996-12-26---1996-12-31) | 14:39:56
+Selecting data for 1997/01 | (1997-01-01---1997-01-05) | 14:40:11
+Selecting data for 1997/01 | (1997-01-06---1997-01-10) | 14:40:34
+Selecting data for 1997/01 | (1997-01-11---1997-01-15) | 14:40:41
+Selecting data for 1997/01 | (1997-01-16---1997-01-20) | 14:40:56
+Selecting data for 1997/01 | (1997-01-21---1997-01-25) | 14:41:15
+Selecting data for 1997/01 | (1997-01-26---1997-01-31) | 14:41:50
+Selecting data for 1997/02 | (1997-02-01---1997-02-05) | 14:41:56
+Selecting data for 1997/02 | (1997-02-06---1997-02-10) | 14:42:14
+Selecting data for 1997/02 | (1997-02-11---1997-02-15) | 14:42:34
+Selecting data for 1997/02 | (1997-02-16---1997-02-20) | 14:42:44
+Selecting data for 1997/02 | (1997-02-21---1997-02-25) | 14:43:01
+Selecting data for 1997/02 | (1997-02-26---1997-02-31) | 14:43:34
+Selecting data for 1997/03 | (1997-03-01---1997-03-05) | 14:43:41
+Selecting data for 1997/03 | (1997-03-06---1997-03-10) | 14:43:58
+Selecting data for 1997/03 | (1997-03-11---1997-03-15) | 14:44:20
+Selecting data for 1997/03 | (1997-03-16---1997-03-20) | 14:44:31
+Selecting data for 1997/03 | (1997-03-21---1997-03-25) | 14:44:55
+Selecting data for 1997/03 | (1997-03-26---1997-03-31) | 14:45:34
+Selecting data for 1997/04 | (1997-04-01---1997-04-05) | 14:45:54
+Selecting data for 1997/04 | (1997-04-06---1997-04-10) | 14:46:07
+Selecting data for 1997/04 | (1997-04-11---1997-04-15) | 14:46:25
+Selecting data for 1997/04 | (1997-04-16---1997-04-20) | 14:46:45
+Selecting data for 1997/04 | (1997-04-21---1997-04-25) | 14:47:17
+Selecting data for 1997/04 | (1997-04-26---1997-04-31) | 14:47:39
+Selecting data for 1997/05 | (1997-05-01---1997-05-05) | 14:48:00
+Selecting data for 1997/05 | (1997-05-06---1997-05-10) | 14:48:23
+Selecting data for 1997/05 | (1997-05-11---1997-05-15) | 14:48:34
+Selecting data for 1997/05 | (1997-05-16---1997-05-20) | 14:48:54
+Selecting data for 1997/05 | (1997-05-21---1997-05-25) | 14:49:23
+Selecting data for 1997/05 | (1997-05-26---1997-05-31) | 14:49:59
+Selecting data for 1997/06 | (1997-06-01---1997-06-05) | 14:50:15
+Selecting data for 1997/06 | (1997-06-06---1997-06-10) | 14:50:38
+Selecting data for 1997/06 | (1997-06-11---1997-06-15) | 14:50:58
+Selecting data for 1997/06 | (1997-06-16---1997-06-20) | 14:51:32
+Selecting data for 1997/06 | (1997-06-21---1997-06-25) | 14:51:43
+Selecting data for 1997/06 | (1997-06-26---1997-06-31) | 14:52:33
+Selecting data for 1997/07 | (1997-07-01---1997-07-05) | 14:53:01
+Selecting data for 1997/07 | (1997-07-06---1997-07-10) | 14:53:16
+Selecting data for 1997/07 | (1997-07-11---1997-07-15) | 14:53:40
+Selecting data for 1997/07 | (1997-07-16---1997-07-20) | 14:54:05
+Selecting data for 1997/07 | (1997-07-21---1997-07-25) | 14:54:40
+Selecting data for 1997/07 | (1997-07-26---1997-07-31) | 14:55:18
+Selecting data for 1997/08 | (1997-08-01---1997-08-05) | 14:55:42
+Selecting data for 1997/08 | (1997-08-06---1997-08-10) | 14:56:05
+Selecting data for 1997/08 | (1997-08-11---1997-08-15) | 14:56:35
+Selecting data for 1997/08 | (1997-08-16---1997-08-20) | 14:56:48
+Selecting data for 1997/08 | (1997-08-21---1997-08-25) | 14:57:14
+Selecting data for 1997/08 | (1997-08-26---1997-08-31) | 14:57:54
+Selecting data for 1997/09 | (1997-09-01---1997-09-05) | 14:58:25
+Selecting data for 1997/09 | (1997-09-06---1997-09-10) | 14:58:35
+Selecting data for 1997/09 | (1997-09-11---1997-09-15) | 14:58:58
+Selecting data for 1997/09 | (1997-09-16---1997-09-20) | 14:59:23
+Selecting data for 1997/09 | (1997-09-21---1997-09-25) | 14:59:36
+Selecting data for 1997/09 | (1997-09-26---1997-09-31) | 15:00:21
+Selecting data for 1997/10 | (1997-10-01---1997-10-05) | 15:00:43
+Selecting data for 1997/10 | (1997-10-06---1997-10-10) | 15:01:12
+Selecting data for 1997/10 | (1997-10-11---1997-10-15) | 15:01:21
+Selecting data for 1997/10 | (1997-10-16---1997-10-20) | 15:01:43
+Selecting data for 1997/10 | (1997-10-21---1997-10-25) | 15:02:12
+Selecting data for 1997/10 | (1997-10-26---1997-10-31) | 15:02:53
+Selecting data for 1997/11 | (1997-11-01---1997-11-05) | 15:03:03
+Selecting data for 1997/11 | (1997-11-06---1997-11-10) | 15:03:23
+Selecting data for 1997/11 | (1997-11-11---1997-11-15) | 15:03:46
+Selecting data for 1997/11 | (1997-11-16---1997-11-20) | 15:03:58
+Selecting data for 1997/11 | (1997-11-21---1997-11-25) | 15:04:22
+Selecting data for 1997/11 | (1997-11-26---1997-11-31) | 15:04:58
+Selecting data for 1997/12 | (1997-12-01---1997-12-05) | 15:05:35
+Selecting data for 1997/12 | (1997-12-06---1997-12-10) | 15:05:46
+Selecting data for 1997/12 | (1997-12-11---1997-12-15) | 15:06:20
+Selecting data for 1997/12 | (1997-12-16---1997-12-20) | 15:06:58
+Selecting data for 1997/12 | (1997-12-21---1997-12-25) | 15:07:15
+Selecting data for 1997/12 | (1997-12-26---1997-12-31) | 15:07:19
+Selecting data for 1998/01 | (1998-01-01---1998-01-05) | 15:07:28
+Selecting data for 1998/01 | (1998-01-06---1998-01-10) | 15:07:48
+Selecting data for 1998/01 | (1998-01-11---1998-01-15) | 15:07:56
+Selecting data for 1998/01 | (1998-01-16---1998-01-20) | 15:08:14
+Selecting data for 1998/01 | (1998-01-21---1998-01-25) | 15:08:29
+Selecting data for 1998/01 | (1998-01-26---1998-01-31) | 15:09:01
+Selecting data for 1998/02 | (1998-02-01---1998-02-05) | 15:09:10
+Selecting data for 1998/02 | (1998-02-06---1998-02-10) | 15:09:25
+Selecting data for 1998/02 | (1998-02-11---1998-02-15) | 15:09:39
+Selecting data for 1998/02 | (1998-02-16---1998-02-20) | 15:10:06
+Selecting data for 1998/02 | (1998-02-21---1998-02-25) | 15:10:15
+Selecting data for 1998/02 | (1998-02-26---1998-02-31) | 15:10:46
+Selecting data for 1998/03 | (1998-03-01---1998-03-05) | 15:10:56
+Selecting data for 1998/03 | (1998-03-06---1998-03-10) | 15:11:17
+Selecting data for 1998/03 | (1998-03-11---1998-03-15) | 15:11:33
+Selecting data for 1998/03 | (1998-03-16---1998-03-20) | 15:11:59
+Selecting data for 1998/03 | (1998-03-21---1998-03-25) | 15:12:11
+Selecting data for 1998/03 | (1998-03-26---1998-03-31) | 15:12:56
+Selecting data for 1998/04 | (1998-04-01---1998-04-05) | 15:13:20
+Selecting data for 1998/04 | (1998-04-06---1998-04-10) | 15:13:51
+Selecting data for 1998/04 | (1998-04-11---1998-04-15) | 15:13:57
+Selecting data for 1998/04 | (1998-04-16---1998-04-20) | 15:14:19
+Selecting data for 1998/04 | (1998-04-21---1998-04-25) | 15:14:43
+Selecting data for 1998/04 | (1998-04-26---1998-04-31) | 15:15:16
+Selecting data for 1998/05 | (1998-05-01---1998-05-05) | 15:15:40
+Selecting data for 1998/05 | (1998-05-06---1998-05-10) | 15:16:00
+Selecting data for 1998/05 | (1998-05-11---1998-05-15) | 15:16:27
+Selecting data for 1998/05 | (1998-05-16---1998-05-20) | 15:16:37
+Selecting data for 1998/05 | (1998-05-21---1998-05-25) | 15:17:04
+Selecting data for 1998/05 | (1998-05-26---1998-05-31) | 15:17:43
+Selecting data for 1998/06 | (1998-06-01---1998-06-05) | 15:18:12
+Selecting data for 1998/06 | (1998-06-06---1998-06-10) | 15:18:21
+Selecting data for 1998/06 | (1998-06-11---1998-06-15) | 15:18:45
+Selecting data for 1998/06 | (1998-06-16---1998-06-20) | 15:19:14
+Selecting data for 1998/06 | (1998-06-21---1998-06-25) | 15:19:29
+Selecting data for 1998/06 | (1998-06-26---1998-06-31) | 15:20:21
+Selecting data for 1998/07 | (1998-07-01---1998-07-05) | 15:20:45
+Selecting data for 1998/07 | (1998-07-06---1998-07-10) | 15:21:18
+Selecting data for 1998/07 | (1998-07-11---1998-07-15) | 15:21:29
+Selecting data for 1998/07 | (1998-07-16---1998-07-20) | 15:21:55
+Selecting data for 1998/07 | (1998-07-21---1998-07-25) | 15:22:26
+Selecting data for 1998/07 | (1998-07-26---1998-07-31) | 15:23:17
+Selecting data for 1998/08 | (1998-08-01---1998-08-05) | 15:23:28
+Selecting data for 1998/08 | (1998-08-06---1998-08-10) | 15:23:52
+Selecting data for 1998/08 | (1998-08-11---1998-08-15) | 15:24:21
+Selecting data for 1998/08 | (1998-08-16---1998-08-20) | 15:24:36
+Selecting data for 1998/08 | (1998-08-21---1998-08-25) | 15:25:06
+Selecting data for 1998/08 | (1998-08-26---1998-08-31) | 15:25:48
+Selecting data for 1998/09 | (1998-09-01---1998-09-05) | 15:26:17
+Selecting data for 1998/09 | (1998-09-06---1998-09-10) | 15:26:30
+Selecting data for 1998/09 | (1998-09-11---1998-09-15) | 15:26:52
+Selecting data for 1998/09 | (1998-09-16---1998-09-20) | 15:27:16
+Selecting data for 1998/09 | (1998-09-21---1998-09-25) | 15:27:49
+Selecting data for 1998/09 | (1998-09-26---1998-09-31) | 15:28:17
+Selecting data for 1998/10 | (1998-10-01---1998-10-05) | 15:28:38
+Selecting data for 1998/10 | (1998-10-06---1998-10-10) | 15:29:01
+Selecting data for 1998/10 | (1998-10-11---1998-10-15) | 15:29:14
+Selecting data for 1998/10 | (1998-10-16---1998-10-20) | 15:29:36
+Selecting data for 1998/10 | (1998-10-21---1998-10-25) | 15:30:03
+Selecting data for 1998/10 | (1998-10-26---1998-10-31) | 15:30:51
+Selecting data for 1998/11 | (1998-11-01---1998-11-05) | 15:31:06
+Selecting data for 1998/11 | (1998-11-06---1998-11-10) | 15:31:26
+Selecting data for 1998/11 | (1998-11-11---1998-11-15) | 15:31:46
+Selecting data for 1998/11 | (1998-11-16---1998-11-20) | 15:32:20
+Selecting data for 1998/11 | (1998-11-21---1998-11-25) | 15:32:30
+Selecting data for 1998/11 | (1998-11-26---1998-11-31) | 15:33:13
+Selecting data for 1998/12 | (1998-12-01---1998-12-05) | 15:33:39
+Selecting data for 1998/12 | (1998-12-06---1998-12-10) | 15:33:55
+Selecting data for 1998/12 | (1998-12-11---1998-12-15) | 15:34:27
+Selecting data for 1998/12 | (1998-12-16---1998-12-20) | 15:35:06
+Selecting data for 1998/12 | (1998-12-21---1998-12-25) | 15:35:30
+Selecting data for 1998/12 | (1998-12-26---1998-12-31) | 15:35:34
+Selecting data for 1999/01 | (1999-01-01---1999-01-05) | 15:35:44
+Selecting data for 1999/01 | (1999-01-06---1999-01-10) | 15:36:06
+Selecting data for 1999/01 | (1999-01-11---1999-01-15) | 15:36:29
+Selecting data for 1999/01 | (1999-01-16---1999-01-20) | 15:36:36
+Selecting data for 1999/01 | (1999-01-21---1999-01-25) | 15:36:55
+Selecting data for 1999/01 | (1999-01-26---1999-01-31) | 15:37:30
+Selecting data for 1999/02 | (1999-02-01---1999-02-05) | 15:37:52
+Selecting data for 1999/02 | (1999-02-06---1999-02-10) | 15:37:59
+Selecting data for 1999/02 | (1999-02-11---1999-02-15) | 15:38:21
+Selecting data for 1999/02 | (1999-02-16---1999-02-20) | 15:38:42
+Selecting data for 1999/02 | (1999-02-21---1999-02-25) | 15:38:54
+Selecting data for 1999/02 | (1999-02-26---1999-02-31) | 15:39:22
+Selecting data for 1999/03 | (1999-03-01---1999-03-05) | 15:39:47
+Selecting data for 1999/03 | (1999-03-06---1999-03-10) | 15:39:55
+Selecting data for 1999/03 | (1999-03-11---1999-03-15) | 15:40:19
+Selecting data for 1999/03 | (1999-03-16---1999-03-20) | 15:40:45
+Selecting data for 1999/03 | (1999-03-21---1999-03-25) | 15:41:00
+Selecting data for 1999/03 | (1999-03-26---1999-03-31) | 15:41:55
+Selecting data for 1999/04 | (1999-04-01---1999-04-05) | 15:42:15
+Selecting data for 1999/04 | (1999-04-06---1999-04-10) | 15:42:39
+Selecting data for 1999/04 | (1999-04-11---1999-04-15) | 15:42:53
+Selecting data for 1999/04 | (1999-04-16---1999-04-20) | 15:43:18
+Selecting data for 1999/04 | (1999-04-21---1999-04-25) | 15:43:42
+Selecting data for 1999/04 | (1999-04-26---1999-04-31) | 15:44:35
+Selecting data for 1999/05 | (1999-05-01---1999-05-05) | 15:44:42
+Selecting data for 1999/05 | (1999-05-06---1999-05-10) | 15:45:10
+Selecting data for 1999/05 | (1999-05-11---1999-05-15) | 15:45:41
+Selecting data for 1999/05 | (1999-05-16---1999-05-20) | 15:45:56
+Selecting data for 1999/05 | (1999-05-21---1999-05-25) | 15:46:26
+Selecting data for 1999/05 | (1999-05-26---1999-05-31) | 15:47:14
+Selecting data for 1999/06 | (1999-06-01---1999-06-05) | 15:47:45
+Selecting data for 1999/06 | (1999-06-06---1999-06-10) | 15:47:59
+Selecting data for 1999/06 | (1999-06-11---1999-06-15) | 15:48:26
+Selecting data for 1999/06 | (1999-06-16---1999-06-20) | 15:48:54
+Selecting data for 1999/06 | (1999-06-21---1999-06-25) | 15:49:38
+Selecting data for 1999/06 | (1999-06-26---1999-06-31) | 15:50:11
+Selecting data for 1999/07 | (1999-07-01---1999-07-05) | 15:50:44
+Selecting data for 1999/07 | (1999-07-06---1999-07-10) | 15:51:18
+Selecting data for 1999/07 | (1999-07-11---1999-07-15) | 15:51:37
+Selecting data for 1999/07 | (1999-07-16---1999-07-20) | 15:52:09
+Selecting data for 1999/07 | (1999-07-21---1999-07-25) | 15:52:41
+Selecting data for 1999/07 | (1999-07-26---1999-07-31) | 15:53:41
+Selecting data for 1999/08 | (1999-08-01---1999-08-05) | 15:54:04
+Selecting data for 1999/08 | (1999-08-06---1999-08-10) | 15:54:35
+Selecting data for 1999/08 | (1999-08-11---1999-08-15) | 15:55:06
+Selecting data for 1999/08 | (1999-08-16---1999-08-20) | 15:55:53
+Selecting data for 1999/08 | (1999-08-21---1999-08-25) | 15:56:13
+Selecting data for 1999/08 | (1999-08-26---1999-08-31) | 15:57:01
+Selecting data for 1999/09 | (1999-09-01---1999-09-05) | 15:57:35
+Selecting data for 1999/09 | (1999-09-06---1999-09-10) | 15:58:14
+Selecting data for 1999/09 | (1999-09-11---1999-09-15) | 15:58:27
+Selecting data for 1999/09 | (1999-09-16---1999-09-20) | 15:58:56
+Selecting data for 1999/09 | (1999-09-21---1999-09-25) | 15:59:33
+Selecting data for 1999/09 | (1999-09-26---1999-09-31) | 16:00:11
+Selecting data for 1999/10 | (1999-10-01---1999-10-05) | 16:00:43
+Selecting data for 1999/10 | (1999-10-06---1999-10-10) | 16:01:14
+Selecting data for 1999/10 | (1999-10-11---1999-10-15) | 16:01:51
+Selecting data for 1999/10 | (1999-10-16---1999-10-20) | 16:02:08
+Selecting data for 1999/10 | (1999-10-21---1999-10-25) | 16:02:40
+Selecting data for 1999/10 | (1999-10-26---1999-10-31) | 16:03:29
+Selecting data for 1999/11 | (1999-11-01---1999-11-05) | 16:04:09
+Selecting data for 1999/11 | (1999-11-06---1999-11-10) | 16:04:21
+Selecting data for 1999/11 | (1999-11-11---1999-11-15) | 16:04:51
+Selecting data for 1999/11 | (1999-11-16---1999-11-20) | 16:05:28
+Selecting data for 1999/11 | (1999-11-21---1999-11-25) | 16:05:47
+Selecting data for 1999/11 | (1999-11-26---1999-11-31) | 16:06:38
+Selecting data for 1999/12 | (1999-12-01---1999-12-05) | 16:07:12
+Selecting data for 1999/12 | (1999-12-06---1999-12-10) | 16:07:58
+Selecting data for 1999/12 | (1999-12-11---1999-12-15) | 16:08:21
+Selecting data for 1999/12 | (1999-12-16---1999-12-20) | 16:09:12
+Selecting data for 1999/12 | (1999-12-21---1999-12-25) | 16:09:40
+Selecting data for 1999/12 | (1999-12-26---1999-12-31) | 16:09:41
+Selecting data for 2000/01 | (2000-01-01---2000-01-05) | 16:09:48
+Selecting data for 2000/01 | (2000-01-06---2000-01-10) | 16:10:14
+Selecting data for 2000/01 | (2000-01-11---2000-01-15) | 16:24:39
+Selecting data for 2000/01 | (2000-01-16---2000-01-20) | 16:32:18
+Selecting data for 2000/01 | (2000-01-21---2000-01-25) | 16:43:51
+Selecting data for 2000/01 | (2000-01-26---2000-01-31) | 17:07:25
+Selecting data for 2000/02 | (2000-02-01---2000-02-05) | 17:16:31
+Selecting data for 2000/02 | (2000-02-06---2000-02-10) | 17:22:20
+Selecting data for 2000/02 | (2000-02-11---2000-02-15) | 17:32:43
+Selecting data for 2000/02 | (2000-02-16---2000-02-20) | 17:39:28
+Selecting data for 2000/02 | (2000-02-21---2000-02-25) | 17:54:38
+Selecting data for 2000/02 | (2000-02-26---2000-02-31) | 18:03:09
+Selecting data for 2000/03 | (2000-03-01---2000-03-05) | 18:12:26
+Selecting data for 2000/03 | (2000-03-06---2000-03-10) | 18:22:46
+Selecting data for 2000/03 | (2000-03-11---2000-03-15) | 18:27:44
+Selecting data for 2000/03 | (2000-03-16---2000-03-20) | 18:38:28
+Selecting data for 2000/03 | (2000-03-21---2000-03-25) | 18:51:16
+Selecting data for 2000/03 | (2000-03-26---2000-03-31) | 19:13:30
+Selecting data for 2000/04 | (2000-04-01---2000-04-05) | 19:17:46
+Selecting data for 2000/04 | (2000-04-06---2000-04-10) | 19:28:22
+Selecting data for 2000/04 | (2000-04-11---2000-04-15) | 19:42:58
+Selecting data for 2000/04 | (2000-04-16---2000-04-20) | 19:59:47
+Selecting data for 2000/04 | (2000-04-21---2000-04-25) | 20:01:46
+Selecting data for 2000/04 | (2000-04-26---2000-04-31) | 20:18:21
+Selecting data for 2000/05 | (2000-05-01---2000-05-05) | 20:31:42
+Selecting data for 2000/05 | (2000-05-06---2000-05-10) | 20:37:07
+Selecting data for 2000/05 | (2000-05-11---2000-05-15) | 20:48:56
+Selecting data for 2000/05 | (2000-05-16---2000-05-20) | 21:03:12
+Selecting data for 2000/05 | (2000-05-21---2000-05-25) | 21:09:54
+Selecting data for 2000/05 | (2000-05-26---2000-05-31) | 21:32:12
+Selecting data for 2000/06 | (2000-06-01---2000-06-05) | 21:40:12
+Selecting data for 2000/06 | (2000-06-06---2000-06-10) | 21:53:08
+Selecting data for 2000/06 | (2000-06-11---2000-06-15) | 21:58:43
+Selecting data for 2000/06 | (2000-06-16---2000-06-20) | 22:09:14
+Selecting data for 2000/06 | (2000-06-21---2000-06-25) | 22:18:53
+Selecting data for 2000/06 | (2000-06-26---2000-06-31) | 22:41:37
+Selecting data for 2000/07 | (2000-07-01---2000-07-05) | 22:47:48
+Selecting data for 2000/07 | (2000-07-06---2000-07-10) | 22:57:25
+Selecting data for 2000/07 | (2000-07-11---2000-07-15) | 23:12:19
+Selecting data for 2000/07 | (2000-07-16---2000-07-20) | 23:17:34
+Selecting data for 2000/07 | (2000-07-21---2000-07-25) | 23:27:55
+Selecting data for 2000/07 | (2000-07-26---2000-07-31) | 23:48:13
+Selecting data for 2000/08 | (2000-08-01---2000-08-05) | 23:59:43
+Selecting data for 2000/08 | (2000-08-06---2000-08-10) | 00:07:38
+Selecting data for 2000/08 | (2000-08-11---2000-08-15) | 00:17:52
+Selecting data for 2000/08 | (2000-08-16---2000-08-20) | 00:27:57
+Selecting data for 2000/08 | (2000-08-21---2000-08-25) | 00:45:42
+Selecting data for 2000/08 | (2000-08-26---2000-08-31) | 01:02:43
+Selecting data for 2000/09 | (2000-09-01---2000-09-05) | 01:09:27
+Selecting data for 2000/09 | (2000-09-06---2000-09-10) | 01:16:21
+Selecting data for 2000/09 | (2000-09-11---2000-09-15) | 01:26:49
+Selecting data for 2000/09 | (2000-09-16---2000-09-20) | 01:32:22
+Selecting data for 2000/09 | (2000-09-21---2000-09-25) | 01:39:36
+Selecting data for 2000/09 | (2000-09-26---2000-09-31) | 01:56:13
+Selecting data for 2000/10 | (2000-10-01---2000-10-05) | 02:04:05
+Selecting data for 2000/10 | (2000-10-06---2000-10-10) | 02:13:58
+Selecting data for 2000/10 | (2000-10-11---2000-10-15) | 02:23:17
+Selecting data for 2000/10 | (2000-10-16---2000-10-20) | 02:37:23
+Selecting data for 2000/10 | (2000-10-21---2000-10-25) | 02:40:55
+Selecting data for 2000/10 | (2000-10-26---2000-10-31) | 02:59:18
+Selecting data for 2000/11 | (2000-11-01---2000-11-05) | 03:06:51
+Selecting data for 2000/11 | (2000-11-06---2000-11-10) | 03:22:52
+Selecting data for 2000/11 | (2000-11-11---2000-11-15) | 03:27:46
+Selecting data for 2000/11 | (2000-11-16---2000-11-20) | 03:39:53
+Selecting data for 2000/11 | (2000-11-21---2000-11-25) | 03:53:53
+Selecting data for 2000/11 | (2000-11-26---2000-11-31) | 04:07:49
+Selecting data for 2000/12 | (2000-12-01---2000-12-05) | 04:23:34
+Selecting data for 2000/12 | (2000-12-06---2000-12-10) | 04:37:23
+Selecting data for 2000/12 | (2000-12-11---2000-12-15) | 05:03:15
+Selecting data for 2000/12 | (2000-12-16---2000-12-20) | 05:15:24
+Selecting data for 2000/12 | (2000-12-21---2000-12-25) | 05:27:36
+Selecting data for 2000/12 | (2000-12-26---2000-12-31) | 05:27:48
+Selecting data for 2001/01 | (2001-01-01---2001-01-05) | 05:42:18
+Selecting data for 2001/01 | (2001-01-06---2001-01-10) | 05:48:01
+Selecting data for 2001/01 | (2001-01-11---2001-01-15) | 06:07:22
+Selecting data for 2001/01 | (2001-01-16---2001-01-20) | 06:26:04
+Selecting data for 2001/01 | (2001-01-21---2001-01-25) | 06:34:08
+Selecting data for 2001/01 | (2001-01-26---2001-01-31) | 06:58:46
+Selecting data for 2001/02 | (2001-02-01---2001-02-05) | 07:13:07
+Selecting data for 2001/02 | (2001-02-06---2001-02-10) | 07:27:48
+Selecting data for 2001/02 | (2001-02-11---2001-02-15) | 07:34:29
+Selecting data for 2001/02 | (2001-02-16---2001-02-20) | 07:47:50
+Selecting data for 2001/02 | (2001-02-21---2001-02-25) | 08:02:48
+Selecting data for 2001/02 | (2001-02-26---2001-02-31) | 08:13:49
+Selecting data for 2001/03 | (2001-03-01---2001-03-05) | 08:27:48
+Selecting data for 2001/03 | (2001-03-06---2001-03-10) | 08:39:51
+Selecting data for 2001/03 | (2001-03-11---2001-03-15) | 08:48:20
+Selecting data for 2001/03 | (2001-03-16---2001-03-20) | 08:59:23
+Selecting data for 2001/03 | (2001-03-21---2001-03-25) | 09:13:41
+Selecting data for 2001/03 | (2001-03-26---2001-03-31) | 09:40:52
+Selecting data for 2001/04 | (2001-04-01---2001-04-05) | 09:51:20
+Selecting data for 2001/04 | (2001-04-06---2001-04-10) | 10:07:15
+Selecting data for 2001/04 | (2001-04-11---2001-04-15) | 10:23:20
+Selecting data for 2001/04 | (2001-04-16---2001-04-20) | 10:38:12
+Selecting data for 2001/04 | (2001-04-21---2001-04-25) | 10:46:31
+Selecting data for 2001/04 | (2001-04-26---2001-04-31) | 11:08:37
+Selecting data for 2001/05 | (2001-05-01---2001-05-05) | 11:27:43
+Selecting data for 2001/05 | (2001-05-06---2001-05-10) | 11:33:59
+Selecting data for 2001/05 | (2001-05-11---2001-05-15) | 11:50:32
+Selecting data for 2001/05 | (2001-05-16---2001-05-20) | 12:08:28
+
+
+/////////// BREAK /////////////////////////////////////////////
+
+
+
+Selecting data for 2003/07 | (2003-07-16---2003-07-20) | 16:19:45
+Selecting data for 2003/07 | (2003-07-21---2003-07-25) | 16:20:45
+Selecting data for 2003/07 | (2003-07-26---2003-07-31) | 16:21:29
+Selecting data for 2003/08 | (2003-08-01---2003-08-05) | 16:22:05
+Selecting data for 2003/08 | (2003-08-06---2003-08-10) | 16:22:40
+Selecting data for 2003/08 | (2003-08-11---2003-08-15) | 16:23:32
+Selecting data for 2003/08 | (2003-08-16---2003-08-20) | 16:23:53
+Selecting data for 2003/08 | (2003-08-21---2003-08-25) | 16:24:31
+Selecting data for 2003/08 | (2003-08-26---2003-08-31) | 16:25:32
+Selecting data for 2003/09 | (2003-09-01---2003-09-05) | 16:26:24
+Selecting data for 2003/09 | (2003-09-06---2003-09-10) | 16:26:41
+Selecting data for 2003/09 | (2003-09-11---2003-09-15) | 16:27:20
+Selecting data for 2003/09 | (2003-09-16---2003-09-20) | 16:27:59
+Selecting data for 2003/09 | (2003-09-21---2003-09-25) | 16:28:26
+Selecting data for 2003/09 | (2003-09-26---2003-09-31) | 16:29:23
+Selecting data for 2003/10 | (2003-10-01---2003-10-05) | 16:29:57
+Selecting data for 2003/10 | (2003-10-06---2003-10-10) | 16:30:53
+Selecting data for 2003/10 | (2003-10-11---2003-10-15) | 16:31:15
+Selecting data for 2003/10 | (2003-10-16---2003-10-20) | 16:31:52
+Selecting data for 2003/10 | (2003-10-21---2003-10-25) | 16:32:38
+Selecting data for 2003/10 | (2003-10-26---2003-10-31) | 16:39:21
+Selecting data for 2003/11 | (2003-11-01---2003-11-05) | 16:50:53
+Selecting data for 2003/11 | (2003-11-06---2003-11-10) | 17:09:52
+Selecting data for 2003/11 | (2003-11-11---2003-11-15) | 17:32:22
+Selecting data for 2003/11 | (2003-11-16---2003-11-20) | 17:44:37
+Selecting data for 2003/11 | (2003-11-21---2003-11-25) | 18:07:47
+Traceback (most recent call last):
+  File "<stdin>", line 3, in <module>
+  File "<stdin>", line 7, in download_join
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 825, in _read_query_result
+    result.read()
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1206, in read
+    self._read_result_packet(first_packet)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1283, in _read_result_packet
+    self._read_rowdata_packet()
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1330, in _read_rowdata_packet
+    packet = self.connection._read_packet()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 763, in _read_packet
+    recv_data = self._read_bytes(bytes_to_read)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 782, in _read_bytes
+    data = self._rfile.read(num_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+>>> conn.close()
+>>> conn = fynesse.access.create_connection(username, password, url, 'ads_2024')
+Connection established with ads_2024!
+>>> download_join(conn, 2003, 11), download_join(conn, 2003, 12)
+Selecting data for 2003/11 | (2003-11-01---2003-11-05) | 18:36:20
+Selecting data for 2003/11 | (2003-11-06---2003-11-10) | 18:55:45
+Selecting data for 2003/11 | (2003-11-11---2003-11-15) | 19:19:35
+Selecting data for 2003/11 | (2003-11-16---2003-11-20) | 19:34:40
+Selecting data for 2003/11 | (2003-11-21---2003-11-25) | 19:58:28
+Selecting data for 2003/11 | (2003-11-26---2003-11-31) | 20:28:02
+Selecting data for 2003/12 | (2003-12-01---2003-12-05) | 20:59:41
+Selecting data for 2003/12 | (2003-12-06---2003-12-10) | 21:12:37
+Selecting data for 2003/12 | (2003-12-11---2003-12-15) | 21:39:57
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 7, in download_join
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 825, in _read_query_result
+    result.read()
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1206, in read
+    self._read_result_packet(first_packet)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1283, in _read_result_packet
+    self._read_rowdata_packet()
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1330, in _read_rowdata_packet
+    packet = self.connection._read_packet()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 763, in _read_packet
+    recv_data = self._read_bytes(bytes_to_read)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 782, in _read_bytes
+    data = self._rfile.read(num_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+>>> dd^Tdddddnnn
+  File "<stdin>", line 1
+    dd¶dddddnnn
+      ^
+SyntaxError: invalid non-printable character U+0014
+>>>
+>>> sss
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'sss' is not defined
+>>>
+>>>
+>>> conn.close()
+>>> conn = fynesse.access.create_connection(username, password, url, 'ads_2024')
+Connection established with ads_2024!
+>>> download_join(conn, 2003, 12)
+Selecting data for 2003/12 | (2003-12-01---2003-12-05) | 22:49:50
+Selecting data for 2003/12 | (2003-12-06---2003-12-10) | 23:02:33
+Selecting data for 2003/12 | (2003-12-11---2003-12-15) | 23:31:57
+Selecting data for 2003/12 | (2003-12-16---2003-12-20) | 00:13:08
+Selecting data for 2003/12 | (2003-12-21---2003-12-25) | 00:27:15
+Selecting data for 2003/12 | (2003-12-26---2003-12-31) | 00:28:11
+>>> for year in range(2003, 2010):
+...     for month in range(1,13):
+...             download_join(conn, year, month)
+...
+Selecting data for 2003/01 | (2003-01-01---2003-01-05) | 03:41:16
+Selecting data for 2003/01 | (2003-01-06---2003-01-10) | 03:41:44
+Selecting data for 2003/01 | (2003-01-11---2003-01-15) | 03:41:54
+Selecting data for 2003/01 | (2003-01-16---2003-01-20) | 03:42:20
+Selecting data for 2003/01 | (2003-01-21---2003-01-25) | 03:42:45
+Selecting data for 2003/01 | (2003-01-26---2003-01-31) | 03:43:30
+Selecting data for 2003/02 | (2003-02-01---2003-02-05) | 03:43:40
+Selecting data for 2003/02 | (2003-02-06---2003-02-10) | 03:44:04
+Selecting data for 2003/02 | (2003-02-11---2003-02-15) | 03:44:30
+Selecting data for 2003/02 | (2003-02-16---2003-02-20) | 03:44:44
+Selecting data for 2003/02 | (2003-02-21---2003-02-25) | 03:45:12
+Selecting data for 2003/02 | (2003-02-26---2003-02-31) | 03:45:48
+Selecting data for 2003/03 | (2003-03-01---2003-03-05) | 03:45:58
+Selecting data for 2003/03 | (2003-03-06---2003-03-10) | 03:46:22
+Selecting data for 2003/03 | (2003-03-11---2003-03-15) | 03:46:47
+Selecting data for 2003/03 | (2003-03-16---2003-03-20) | 03:47:03
+Selecting data for 2003/03 | (2003-03-21---2003-03-25) | 03:47:28
+Selecting data for 2003/03 | (2003-03-26---2003-03-31) | 03:48:14
+Selecting data for 2003/04 | (2003-04-01---2003-04-05) | 03:48:39
+Selecting data for 2003/04 | (2003-04-06---2003-04-10) | 03:48:55
+Selecting data for 2003/04 | (2003-04-11---2003-04-15) | 03:49:27
+Selecting data for 2003/04 | (2003-04-16---2003-04-20) | 03:49:51
+Selecting data for 2003/04 | (2003-04-21---2003-04-25) | 03:50:24
+Selecting data for 2003/04 | (2003-04-26---2003-04-31) | 03:50:47
+Selecting data for 2003/05 | (2003-05-01---2003-05-05) | 03:51:13
+Selecting data for 2003/05 | (2003-05-06---2003-05-10) | 03:51:40
+Selecting data for 2003/05 | (2003-05-11---2003-05-15) | 03:51:53
+Selecting data for 2003/05 | (2003-05-16---2003-05-20) | 03:52:21
+Selecting data for 2003/05 | (2003-05-21---2003-05-25) | 03:52:52
+Selecting data for 2003/05 | (2003-05-26---2003-05-31) | 03:53:33
+Selecting data for 2003/06 | (2003-06-01---2003-06-05) | 03:53:48
+Selecting data for 2003/06 | (2003-06-06---2003-06-10) | 03:54:13
+Selecting data for 2003/06 | (2003-06-11---2003-06-15) | 03:54:37
+Selecting data for 2003/06 | (2003-06-16---2003-06-20) | 03:55:19
+Selecting data for 2003/06 | (2003-06-21---2003-06-25) | 03:55:35
+Selecting data for 2003/06 | (2003-06-26---2003-06-31) | 03:56:24
+Selecting data for 2003/07 | (2003-07-01---2003-07-05) | 03:56:53
+Selecting data for 2003/07 | (2003-07-06---2003-07-10) | 03:57:14
+Selecting data for 2003/07 | (2003-07-11---2003-07-15) | 03:57:42
+Selecting data for 2003/07 | (2003-07-16---2003-07-20) | 03:58:14
+Selecting data for 2003/07 | (2003-07-21---2003-07-25) | 03:58:55
+Selecting data for 2003/07 | (2003-07-26---2003-07-31) | 03:59:28
+Selecting data for 2003/08 | (2003-08-01---2003-08-05) | 03:59:56
+Selecting data for 2003/08 | (2003-08-06---2003-08-10) | 04:00:34
+Selecting data for 2003/08 | (2003-08-11---2003-08-15) | 04:01:20
+Selecting data for 2003/08 | (2003-08-16---2003-08-20) | 04:01:37
+Selecting data for 2003/08 | (2003-08-21---2003-08-25) | 04:02:09
+Selecting data for 2003/08 | (2003-08-26---2003-08-31) | 04:02:52
+Selecting data for 2003/09 | (2003-09-01---2003-09-05) | 04:03:34
+Selecting data for 2003/09 | (2003-09-06---2003-09-10) | 04:03:48
+Selecting data for 2003/09 | (2003-09-11---2003-09-15) | 04:04:19
+Selecting data for 2003/09 | (2003-09-16---2003-09-20) | 04:04:51
+Selecting data for 2003/09 | (2003-09-21---2003-09-25) | 04:05:15
+Selecting data for 2003/09 | (2003-09-26---2003-09-31) | 04:06:02
+Selecting data for 2003/10 | (2003-10-01---2003-10-05) | 04:06:33
+Selecting data for 2003/10 | (2003-10-06---2003-10-10) | 04:07:12
+Selecting data for 2003/10 | (2003-10-11---2003-10-15) | 04:07:26
+Selecting data for 2003/10 | (2003-10-16---2003-10-20) | 04:07:57
+Selecting data for 2003/10 | (2003-10-21---2003-10-25) | 04:08:36
+Selecting data for 2003/10 | (2003-10-26---2003-10-31) | 04:09:31
+Selecting data for 2003/11 | (2003-11-01---2003-11-05) | 04:09:45
+Selecting data for 2003/11 | (2003-11-06---2003-11-10) | 04:10:18
+Selecting data for 2003/11 | (2003-11-11---2003-11-15) | 04:10:59
+Selecting data for 2003/11 | (2003-11-16---2003-11-20) | 04:11:22
+Selecting data for 2003/11 | (2003-11-21---2003-11-25) | 04:11:56
+Selecting data for 2003/11 | (2003-11-26---2003-11-31) | 04:12:47
+Selecting data for 2003/12 | (2003-12-01---2003-12-05) | 04:13:34
+Selecting data for 2003/12 | (2003-12-06---2003-12-10) | 04:13:52
+Selecting data for 2003/12 | (2003-12-11---2003-12-15) | 04:22:47
+Selecting data for 2003/12 | (2003-12-16---2003-12-20) | 04:47:29
+Selecting data for 2003/12 | (2003-12-21---2003-12-25) | 04:56:23
+Selecting data for 2003/12 | (2003-12-26---2003-12-31) | 04:57:21
+Selecting data for 2004/01 | (2004-01-01---2004-01-05) | 05:02:15
+Selecting data for 2004/01 | (2004-01-06---2004-01-10) | 05:19:25
+Selecting data for 2004/01 | (2004-01-11---2004-01-15) | 05:28:27
+Selecting data for 2004/01 | (2004-01-16---2004-01-20) | 05:43:23
+Selecting data for 2004/01 | (2004-01-21---2004-01-25) | 05:54:27
+Selecting data for 2004/01 | (2004-01-26---2004-01-31) | 06:14:42
+Selecting data for 2004/02 | (2004-02-01---2004-02-05) | 06:22:11
+Selecting data for 2004/02 | (2004-02-06---2004-02-10) | 06:32:21
+Selecting data for 2004/02 | (2004-02-11---2004-02-15) | 06:41:51
+Selecting data for 2004/02 | (2004-02-16---2004-02-20) | 06:57:00
+Selecting data for 2004/02 | (2004-02-21---2004-02-25) | 07:01:55
+Selecting data for 2004/02 | (2004-02-26---2004-02-31) | 07:11:35
+Selecting data for 2004/03 | (2004-03-01---2004-03-05) | 07:23:26
+Selecting data for 2004/03 | (2004-03-06---2004-03-10) | 07:27:33
+Selecting data for 2004/03 | (2004-03-11---2004-03-15) | 07:37:51
+Selecting data for 2004/03 | (2004-03-16---2004-03-20) | 07:51:56
+Selecting data for 2004/03 | (2004-03-21---2004-03-25) | 07:58:28
+Selecting data for 2004/03 | (2004-03-26---2004-03-31) | 08:17:23
+Selecting data for 2004/04 | (2004-04-01---2004-04-05) | 08:28:38
+Selecting data for 2004/04 | (2004-04-06---2004-04-10) | 08:42:33
+Selecting data for 2004/04 | (2004-04-11---2004-04-15) | 08:49:01
+Selecting data for 2004/04 | (2004-04-16---2004-04-20) | 08:59:59
+Selecting data for 2004/04 | (2004-04-21---2004-04-25) | 09:11:34
+Selecting data for 2004/04 | (2004-04-26---2004-04-31) | 09:32:14
+Selecting data for 2004/05 | (2004-05-01---2004-05-05) | 09:36:44
+Selecting data for 2004/05 | (2004-05-06---2004-05-10) | 09:47:22
+Selecting data for 2004/05 | (2004-05-11---2004-05-15) | 10:02:34
+Selecting data for 2004/05 | (2004-05-16---2004-05-20) | 10:09:32
+Selecting data for 2004/05 | (2004-05-21---2004-05-25) | 10:22:12
+Selecting data for 2004/05 | (2004-05-26---2004-05-31) | 10:41:46
+Selecting data for 2004/06 | (2004-06-01---2004-06-05) | 10:57:05
+Selecting data for 2004/06 | (2004-06-06---2004-06-10) | 11:03:53
+Selecting data for 2004/06 | (2004-06-11---2004-06-15) | 11:17:45
+Selecting data for 2004/06 | (2004-06-16---2004-06-20) | 11:30:58
+Selecting data for 2004/06 | (2004-06-21---2004-06-25) | 11:52:19
+Selecting data for 2004/06 | (2004-06-26---2004-06-31) | 12:06:41
+Selecting data for 2004/07 | (2004-07-01---2004-07-05) | 12:22:28
+Selecting data for 2004/07 | (2004-07-06---2004-07-10) | 12:36:00
+Selecting data for 2004/07 | (2004-07-11---2004-07-15) | 12:44:49
+Selecting data for 2004/07 | (2004-07-16---2004-07-20) | 13:01:38
+Selecting data for 2004/07 | (2004-07-21---2004-07-25) | 13:17:16
+Selecting data for 2004/07 | (2004-07-26---2004-07-31) | 13:43:11
+Selecting data for 2004/08 | (2004-08-01---2004-08-05) | 13:53:31
+Traceback (most recent call last):
+  File "<stdin>", line 3, in <module>
+  File "<stdin>", line 7, in download_join
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 825, in _read_query_result
+    result.read()
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1206, in read
+    self._read_result_packet(first_packet)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1283, in _read_result_packet
+    self._read_rowdata_packet()
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1330, in _read_rowdata_packet
+    packet = self.connection._read_packet()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 763, in _read_packet
+    recv_data = self._read_bytes(bytes_to_read)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 782, in _read_bytes
+    data = self._rfile.read(num_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+>>> dddddddddddd
+Exception ignored in: <module 'threading' from 'C:\\Program Files\\Python312\\Lib\\threading.py'>
+Traceback (most recent call last):
+  File "C:\Program Files\Python312\Lib\threading.py", line 1573, in _shutdown
+    def _shutdown():
+
+KeyboardInterrupt:
+^C
+D:\Cambridge\2\ADS\ab2886_ads_2024\notebooks>python
+Python 3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import fynesse
+>>> from datetime import datetime
+>>> import csv
+>>> def download_join(conn, year, month):
+...   for day_start, day_end in [(1,5),(6,10),(11,15),(16,20),(21,25),(26,31)]:
+...     start_date = f"{year}-{month:0>2}-{day_start:0>2}"
+...     end_date = f"{year}-{month:0>2}-{day_end:0>2}"
+...     cur = conn.cursor()
+...     sql = f'SELECT pp.price, pp.date_of_transfer, po.postcode, pp.property_type, pp.new_build_flag, pp.tenure_type, pp.locality, pp.town_city, pp.district, pp.county, po.country, po.latitude, po.longitude FROM (SELECT price, date_of_transfer, postcode, property_type, new_build_flag, tenure_type, locality, town_city, district, county FROM pp_data WHERE date_of_transfer BETWEEN "' + start_date + '" AND "' + end_date + '") AS pp INNER JOIN postcode_data AS po ON pp.postcode = po.postcode'
+...     cur.execute(sql)
+...     rows = cur.fetchall()
+...     csv_file_path = f'prices_coordinates_{start_date}.csv'
+...     # Write the rows to the CSV file
+...     with open(csv_file_path, 'w', newline='') as csvfile:
+...       csv_writer = csv.writer(csvfile)
+...       # Write the data rows
+...       csv_writer.writerows(rows)
+...
+...       print(f'Selecting data for {year}/{month:0>2} | ({start_date}---{end_date}) | {datetime.now().strftime("%H:%M:%S")}')
+...
+>>> import yaml
+>>> with open("credentials.yaml") as file:
+...   credentials = yaml.safe_load(file)
+...
+>>> username = credentials["username"]
+>>> password = credentials["password"]
+>>> url = credentials["url"]
+>>> port = credentials["port"]
+>>> import pymysql
+>>> conn = fynesse.access.create_connection(username, password, url, 'ads_2024')
+Connection established with ads_2024!
+>>>
+>>> for month in range(8,13):
+...     download_join(conn, 2004, month)
+...
+Selecting data for 2004/08 | (2004-08-01---2004-08-05) | 14:45:17
+Selecting data for 2004/08 | (2004-08-06---2004-08-10) | 14:45:53
+Selecting data for 2004/08 | (2004-08-11---2004-08-15) | 14:46:26
+Selecting data for 2004/08 | (2004-08-16---2004-08-20) | 14:47:20
+Selecting data for 2004/08 | (2004-08-21---2004-08-25) | 14:47:40
+Selecting data for 2004/08 | (2004-08-26---2004-08-31) | 14:48:27
+Selecting data for 2004/09 | (2004-09-01---2004-09-05) | 14:48:59
+Selecting data for 2004/09 | (2004-09-06---2004-09-10) | 14:49:38
+Selecting data for 2004/09 | (2004-09-11---2004-09-15) | 14:49:52
+Selecting data for 2004/09 | (2004-09-16---2004-09-20) | 14:50:25
+Selecting data for 2004/09 | (2004-09-21---2004-09-25) | 14:51:02
+Selecting data for 2004/09 | (2004-09-26---2004-09-31) | 14:51:33
+Selecting data for 2004/10 | (2004-10-01---2004-10-05) | 14:51:59
+Selecting data for 2004/10 | (2004-10-06---2004-10-10) | 14:52:26
+Selecting data for 2004/10 | (2004-10-11---2004-10-15) | 14:53:02
+Selecting data for 2004/10 | (2004-10-16---2004-10-20) | 14:53:17
+Selecting data for 2004/10 | (2004-10-21---2004-10-25) | 14:53:45
+Selecting data for 2004/10 | (2004-10-26---2004-10-31) | 14:54:27
+Selecting data for 2004/11 | (2004-11-01---2004-11-05) | 14:55:03
+Selecting data for 2004/11 | (2004-11-06---2004-11-10) | 14:55:16
+Selecting data for 2004/11 | (2004-11-11---2004-11-15) | 14:55:44
+Selecting data for 2004/11 | (2004-11-16---2004-11-20) | 14:56:15
+Selecting data for 2004/11 | (2004-11-21---2004-11-25) | 14:56:32
+Selecting data for 2004/11 | (2004-11-26---2004-11-31) | 14:57:10
+Selecting data for 2004/12 | (2004-12-01---2004-12-05) | 14:57:36
+Selecting data for 2004/12 | (2004-12-06---2004-12-10) | 14:58:17
+Selecting data for 2004/12 | (2004-12-11---2004-12-15) | 14:58:34
+Selecting data for 2004/12 | (2004-12-16---2004-12-20) | 14:59:17
+Selecting data for 2004/12 | (2004-12-21---2004-12-25) | 14:59:42
+Selecting data for 2004/12 | (2004-12-26---2004-12-31) | 14:59:44
+>>> for year in range(2004,2015):
+...     for month in range(1, 13):
+...             download_join(conn, year, month)
+...
+Selecting data for 2004/01 | (2004-01-01---2004-01-05) | 17:39:10
+Selecting data for 2004/01 | (2004-01-06---2004-01-10) | 17:39:42
+Selecting data for 2004/01 | (2004-01-11---2004-01-15) | 17:39:59
+Selecting data for 2004/01 | (2004-01-16---2004-01-20) | 17:40:33
+Selecting data for 2004/01 | (2004-01-21---2004-01-25) | 17:41:04
+Selecting data for 2004/01 | (2004-01-26---2004-01-31) | 17:41:55
+Selecting data for 2004/02 | (2004-02-01---2004-02-05) | 17:42:15
+Selecting data for 2004/02 | (2004-02-06---2004-02-10) | 17:42:44
+Selecting data for 2004/02 | (2004-02-11---2004-02-15) | 17:43:13
+Selecting data for 2004/02 | (2004-02-16---2004-02-20) | 17:43:54
+Selecting data for 2004/02 | (2004-02-21---2004-02-25) | 17:44:11
+Selecting data for 2004/02 | (2004-02-26---2004-02-31) | 17:44:45
+Selecting data for 2004/03 | (2004-03-01---2004-03-05) | 17:45:27
+Selecting data for 2004/03 | (2004-03-06---2004-03-10) | 17:45:41
+Selecting data for 2004/03 | (2004-03-11---2004-03-15) | 17:46:14
+Selecting data for 2004/03 | (2004-03-16---2004-03-20) | 17:46:46
+Selecting data for 2004/03 | (2004-03-21---2004-03-25) | 17:47:10
+Selecting data for 2004/03 | (2004-03-26---2004-03-31) | 17:48:08
+Selecting data for 2004/04 | (2004-04-01---2004-04-05) | 17:48:43
+Selecting data for 2004/04 | (2004-04-06---2004-04-10) | 17:49:23
+Selecting data for 2004/04 | (2004-04-11---2004-04-15) | 17:49:41
+Selecting data for 2004/04 | (2004-04-16---2004-04-20) | 17:50:16
+Selecting data for 2004/04 | (2004-04-21---2004-04-25) | 17:50:49
+Selecting data for 2004/04 | (2004-04-26---2004-04-31) | 17:51:51
+Selecting data for 2004/05 | (2004-05-01---2004-05-05) | 17:52:06
+Selecting data for 2004/05 | (2004-05-06---2004-05-10) | 17:52:37
+Selecting data for 2004/05 | (2004-05-11---2004-05-15) | 17:53:16
+Selecting data for 2004/05 | (2004-05-16---2004-05-20) | 17:53:38
+Selecting data for 2004/05 | (2004-05-21---2004-05-25) | 17:54:17
+Selecting data for 2004/05 | (2004-05-26---2004-05-31) | 17:55:13
+Selecting data for 2004/06 | (2004-06-01---2004-06-05) | 17:55:57
+Selecting data for 2004/06 | (2004-06-06---2004-06-10) | 17:56:21
+Selecting data for 2004/06 | (2004-06-11---2004-06-15) | 17:56:56
+Selecting data for 2004/06 | (2004-06-16---2004-06-20) | 17:57:32
+Selecting data for 2004/06 | (2004-06-21---2004-06-25) | 17:58:26
+Selecting data for 2004/06 | (2004-06-26---2004-06-31) | 17:59:01
+Selecting data for 2004/07 | (2004-07-01---2004-07-05) | 17:59:40
+Selecting data for 2004/07 | (2004-07-06---2004-07-10) | 18:00:26
+Selecting data for 2004/07 | (2004-07-11---2004-07-15) | 18:00:52
+Selecting data for 2004/07 | (2004-07-16---2004-07-20) | 18:01:32
+Selecting data for 2004/07 | (2004-07-21---2004-07-25) | 18:02:10
+Selecting data for 2004/07 | (2004-07-26---2004-07-31) | 18:03:15
+Selecting data for 2004/08 | (2004-08-01---2004-08-05) | 18:03:40
+Selecting data for 2004/08 | (2004-08-06---2004-08-10) | 18:04:16
+Selecting data for 2004/08 | (2004-08-11---2004-08-15) | 18:04:47
+Selecting data for 2004/08 | (2004-08-16---2004-08-20) | 18:05:44
+Selecting data for 2004/08 | (2004-08-21---2004-08-25) | 18:06:07
+Selecting data for 2004/08 | (2004-08-26---2004-08-31) | 18:06:53
+Selecting data for 2004/09 | (2004-09-01---2004-09-05) | 18:07:29
+Selecting data for 2004/09 | (2004-09-06---2004-09-10) | 18:08:09
+Selecting data for 2004/09 | (2004-09-11---2004-09-15) | 18:08:23
+Selecting data for 2004/09 | (2004-09-16---2004-09-20) | 18:08:52
+Selecting data for 2004/09 | (2004-09-21---2004-09-25) | 18:09:28
+Selecting data for 2004/09 | (2004-09-26---2004-09-31) | 18:09:58
+Selecting data for 2004/10 | (2004-10-01---2004-10-05) | 18:10:31
+Selecting data for 2004/10 | (2004-10-06---2004-10-10) | 18:10:59
+Selecting data for 2004/10 | (2004-10-11---2004-10-15) | 18:11:37
+Selecting data for 2004/10 | (2004-10-16---2004-10-20) | 18:11:50
+Selecting data for 2004/10 | (2004-10-21---2004-10-25) | 18:12:22
+Selecting data for 2004/10 | (2004-10-26---2004-10-31) | 18:13:05
+Selecting data for 2004/11 | (2004-11-01---2004-11-05) | 18:13:40
+Selecting data for 2004/11 | (2004-11-06---2004-11-10) | 18:13:51
+Selecting data for 2004/11 | (2004-11-11---2004-11-15) | 18:14:21
+Selecting data for 2004/11 | (2004-11-16---2004-11-20) | 18:14:50
+Selecting data for 2004/11 | (2004-11-21---2004-11-25) | 18:15:11
+Selecting data for 2004/11 | (2004-11-26---2004-11-31) | 18:15:50
+Selecting data for 2004/12 | (2004-12-01---2004-12-05) | 18:16:19
+Selecting data for 2004/12 | (2004-12-06---2004-12-10) | 18:16:58
+Selecting data for 2004/12 | (2004-12-11---2004-12-15) | 18:17:17
+Selecting data for 2004/12 | (2004-12-16---2004-12-20) | 18:17:58
+Selecting data for 2004/12 | (2004-12-21---2004-12-25) | 18:18:28
+Selecting data for 2004/12 | (2004-12-26---2004-12-31) | 18:18:29
+Selecting data for 2005/01 | (2005-01-01---2005-01-05) | 18:18:38
+Selecting data for 2005/01 | (2005-01-06---2005-01-10) | 18:18:59
+Selecting data for 2005/01 | (2005-01-11---2005-01-15) | 18:19:21
+Selecting data for 2005/01 | (2005-01-16---2005-01-20) | 18:19:32
+Selecting data for 2005/01 | (2005-01-21---2005-01-25) | 18:19:49
+Selecting data for 2005/01 | (2005-01-26---2005-01-31) | 18:20:25
+Selecting data for 2005/02 | (2005-02-01---2005-02-05) | 18:20:47
+Selecting data for 2005/02 | (2005-02-06---2005-02-10) | 18:20:59
+Selecting data for 2005/02 | (2005-02-11---2005-02-15) | 18:21:21
+Selecting data for 2005/02 | (2005-02-16---2005-02-20) | 18:21:39
+Selecting data for 2005/02 | (2005-02-21---2005-02-25) | 18:22:11
+Selecting data for 2005/02 | (2005-02-26---2005-02-31) | 18:22:20
+Selecting data for 2005/03 | (2005-03-01---2005-03-05) | 18:22:41
+Selecting data for 2005/03 | (2005-03-06---2005-03-10) | 18:22:52
+Selecting data for 2005/03 | (2005-03-11---2005-03-15) | 18:23:14
+Selecting data for 2005/03 | (2005-03-16---2005-03-20) | 18:23:36
+Selecting data for 2005/03 | (2005-03-21---2005-03-25) | 18:24:11
+Selecting data for 2005/03 | (2005-03-26---2005-03-31) | 18:24:31
+Selecting data for 2005/04 | (2005-04-01---2005-04-05) | 18:24:49
+Selecting data for 2005/04 | (2005-04-06---2005-04-10) | 18:25:15
+Selecting data for 2005/04 | (2005-04-11---2005-04-15) | 18:25:45
+Selecting data for 2005/04 | (2005-04-16---2005-04-20) | 18:25:55
+Selecting data for 2005/04 | (2005-04-21---2005-04-25) | 18:26:22
+Selecting data for 2005/04 | (2005-04-26---2005-04-31) | 18:27:07
+Selecting data for 2005/05 | (2005-05-01---2005-05-05) | 18:27:19
+Selecting data for 2005/05 | (2005-05-06---2005-05-10) | 18:27:42
+Selecting data for 2005/05 | (2005-05-11---2005-05-15) | 18:28:07
+Selecting data for 2005/05 | (2005-05-16---2005-05-20) | 18:28:41
+Selecting data for 2005/05 | (2005-05-21---2005-05-25) | 18:28:55
+Selecting data for 2005/05 | (2005-05-26---2005-05-31) | 18:29:38
+Selecting data for 2005/06 | (2005-06-01---2005-06-05) | 18:30:09
+Selecting data for 2005/06 | (2005-06-06---2005-06-10) | 18:30:44
+Selecting data for 2005/06 | (2005-06-11---2005-06-15) | 18:30:57
+Selecting data for 2005/06 | (2005-06-16---2005-06-20) | 18:31:27
+Selecting data for 2005/06 | (2005-06-21---2005-06-25) | 18:32:00
+Selecting data for 2005/06 | (2005-06-26---2005-06-31) | 18:32:36
+Selecting data for 2005/07 | (2005-07-01---2005-07-05) | 18:33:09
+Selecting data for 2005/07 | (2005-07-06---2005-07-10) | 18:33:34
+Selecting data for 2005/07 | (2005-07-11---2005-07-15) | 18:34:13
+Selecting data for 2005/07 | (2005-07-16---2005-07-20) | 18:34:27
+Selecting data for 2005/07 | (2005-07-21---2005-07-25) | 18:34:57
+Selecting data for 2005/07 | (2005-07-26---2005-07-31) | 18:35:45
+Selecting data for 2005/08 | (2005-08-01---2005-08-05) | 18:36:25
+Selecting data for 2005/08 | (2005-08-06---2005-08-10) | 18:36:40
+Selecting data for 2005/08 | (2005-08-11---2005-08-15) | 18:37:11
+Selecting data for 2005/08 | (2005-08-16---2005-08-20) | 18:37:43
+Selecting data for 2005/08 | (2005-08-21---2005-08-25) | 18:38:09
+Selecting data for 2005/08 | (2005-08-26---2005-08-31) | 18:38:49
+Selecting data for 2005/09 | (2005-09-01---2005-09-05) | 18:39:20
+Selecting data for 2005/09 | (2005-09-06---2005-09-10) | 18:39:50
+Selecting data for 2005/09 | (2005-09-11---2005-09-15) | 18:40:11
+Selecting data for 2005/09 | (2005-09-16---2005-09-20) | 18:40:40
+Selecting data for 2005/09 | (2005-09-21---2005-09-25) | 18:41:10
+Selecting data for 2005/09 | (2005-09-26---2005-09-31) | 18:41:58
+Selecting data for 2005/10 | (2005-10-01---2005-10-05) | 18:42:13
+Selecting data for 2005/10 | (2005-10-06---2005-10-10) | 18:42:39
+Selecting data for 2005/10 | (2005-10-11---2005-10-15) | 18:43:12
+Selecting data for 2005/10 | (2005-10-16---2005-10-20) | 18:43:30
+Selecting data for 2005/10 | (2005-10-21---2005-10-25) | 18:43:59
+Selecting data for 2005/10 | (2005-10-26---2005-10-31) | 18:44:45
+Selecting data for 2005/11 | (2005-11-01---2005-11-05) | 18:45:21
+Selecting data for 2005/11 | (2005-11-06---2005-11-10) | 18:45:39
+Selecting data for 2005/11 | (2005-11-11---2005-11-15) | 18:46:10
+Selecting data for 2005/11 | (2005-11-16---2005-11-20) | 18:46:37
+Selecting data for 2005/11 | (2005-11-21---2005-11-25) | 18:47:22
+Selecting data for 2005/11 | (2005-11-26---2005-11-31) | 18:47:44
+Selecting data for 2005/12 | (2005-12-01---2005-12-05) | 18:48:20
+Selecting data for 2005/12 | (2005-12-06---2005-12-10) | 18:48:59
+Selecting data for 2005/12 | (2005-12-11---2005-12-15) | 18:49:29
+Selecting data for 2005/12 | (2005-12-16---2005-12-20) | 18:50:22
+Selecting data for 2005/12 | (2005-12-21---2005-12-25) | 18:50:57
+Selecting data for 2005/12 | (2005-12-26---2005-12-31) | 18:50:59
+Selecting data for 2006/01 | (2006-01-01---2006-01-05) | 18:51:15
+Selecting data for 2006/01 | (2006-01-06---2006-01-10) | 18:51:41
+Selecting data for 2006/01 | (2006-01-11---2006-01-15) | 18:52:09
+Selecting data for 2006/01 | (2006-01-16---2006-01-20) | 18:52:44
+Selecting data for 2006/01 | (2006-01-21---2006-01-25) | 18:52:56
+Selecting data for 2006/01 | (2006-01-26---2006-01-31) | 18:53:44
+Selecting data for 2006/02 | (2006-02-01---2006-02-05) | 18:54:12
+Selecting data for 2006/02 | (2006-02-06---2006-02-10) | 18:54:46
+Selecting data for 2006/02 | (2006-02-11---2006-02-15) | 18:54:59
+Selecting data for 2006/02 | (2006-02-16---2006-02-20) | 18:55:33
+Selecting data for 2006/02 | (2006-02-21---2006-02-25) | 18:56:09
+Selecting data for 2006/02 | (2006-02-26---2006-02-31) | 18:56:27
+Selecting data for 2006/03 | (2006-03-01---2006-03-05) | 18:56:53
+Selecting data for 2006/03 | (2006-03-06---2006-03-10) | 18:57:32
+Selecting data for 2006/03 | (2006-03-11---2006-03-15) | 18:57:46
+Selecting data for 2006/03 | (2006-03-16---2006-03-20) | 18:58:17
+Selecting data for 2006/03 | (2006-03-21---2006-03-25) | 18:58:51
+Selecting data for 2006/03 | (2006-03-26---2006-03-31) | 18:59:48
+Selecting data for 2006/04 | (2006-04-01---2006-04-05) | 19:00:10
+Selecting data for 2006/04 | (2006-04-06---2006-04-10) | 19:00:50
+Selecting data for 2006/04 | (2006-04-11---2006-04-15) | 19:01:30
+Selecting data for 2006/04 | (2006-04-16---2006-04-20) | 19:01:47
+Selecting data for 2006/04 | (2006-04-21---2006-04-25) | 19:02:17
+Selecting data for 2006/04 | (2006-04-26---2006-04-31) | 19:03:03
+Selecting data for 2006/05 | (2006-05-01---2006-05-05) | 19:03:40
+Selecting data for 2006/05 | (2006-05-06---2006-05-10) | 19:03:55
+Selecting data for 2006/05 | (2006-05-11---2006-05-15) | 19:04:29
+Selecting data for 2006/05 | (2006-05-16---2006-05-20) | 19:05:10
+Selecting data for 2006/05 | (2006-05-21---2006-05-25) | 19:05:40
+Selecting data for 2006/05 | (2006-05-26---2006-05-31) | 19:06:31
+Selecting data for 2006/06 | (2006-06-01---2006-06-05) | 19:07:07
+Selecting data for 2006/06 | (2006-06-06---2006-06-10) | 19:07:43
+Selecting data for 2006/06 | (2006-06-11---2006-06-15) | 19:08:08
+Selecting data for 2006/06 | (2006-06-16---2006-06-20) | 19:08:43
+Selecting data for 2006/06 | (2006-06-21---2006-06-25) | 19:09:22
+Selecting data for 2006/06 | (2006-06-26---2006-06-31) | 19:10:35
+Selecting data for 2006/07 | (2006-07-01---2006-07-05) | 19:10:55
+Selecting data for 2006/07 | (2006-07-06---2006-07-10) | 19:11:33
+Selecting data for 2006/07 | (2006-07-11---2006-07-15) | 19:12:17
+Selecting data for 2006/07 | (2006-07-16---2006-07-20) | 19:12:42
+Selecting data for 2006/07 | (2006-07-21---2006-07-25) | 19:13:23
+Selecting data for 2006/07 | (2006-07-26---2006-07-31) | 19:14:25
+Selecting data for 2006/08 | (2006-08-01---2006-08-05) | 19:15:12
+Selecting data for 2006/08 | (2006-08-06---2006-08-10) | 19:15:41
+Selecting data for 2006/08 | (2006-08-11---2006-08-15) | 19:16:21
+Selecting data for 2006/08 | (2006-08-16---2006-08-20) | 19:16:58
+Selecting data for 2006/08 | (2006-08-21---2006-08-25) | 19:17:58
+Selecting data for 2006/08 | (2006-08-26---2006-08-31) | 19:18:34
+Selecting data for 2006/09 | (2006-09-01---2006-09-05) | 19:19:12
+Selecting data for 2006/09 | (2006-09-06---2006-09-10) | 19:19:45
+Selecting data for 2006/09 | (2006-09-11---2006-09-15) | 19:20:38
+Selecting data for 2006/09 | (2006-09-16---2006-09-20) | 19:20:59
+Selecting data for 2006/09 | (2006-09-21---2006-09-25) | 19:21:37
+Selecting data for 2006/09 | (2006-09-26---2006-09-31) | 19:22:32
+Selecting data for 2006/10 | (2006-10-01---2006-10-05) | 19:22:56
+Selecting data for 2006/10 | (2006-10-06---2006-10-10) | 19:23:33
+Selecting data for 2006/10 | (2006-10-11---2006-10-15) | 19:24:08
+Selecting data for 2006/10 | (2006-10-16---2006-10-20) | 19:25:01
+Selecting data for 2006/10 | (2006-10-21---2006-10-25) | 19:25:24
+Selecting data for 2006/10 | (2006-10-26---2006-10-31) | 19:26:26
+Selecting data for 2006/11 | (2006-11-01---2006-11-05) | 19:27:02
+Selecting data for 2006/11 | (2006-11-06---2006-11-10) | 19:27:50
+Selecting data for 2006/11 | (2006-11-11---2006-11-15) | 19:28:10
+Selecting data for 2006/11 | (2006-11-16---2006-11-20) | 19:28:49
+Selecting data for 2006/11 | (2006-11-21---2006-11-25) | 19:29:36
+Selecting data for 2006/11 | (2006-11-26---2006-11-31) | 19:30:22
+Selecting data for 2006/12 | (2006-12-01---2006-12-05) | 19:31:10
+Selecting data for 2006/12 | (2006-12-06---2006-12-10) | 19:49:50
+Selecting data for 2006/12 | (2006-12-11---2006-12-15) | 20:19:57
+Selecting data for 2006/12 | (2006-12-16---2006-12-20) | 20:41:45
+Selecting data for 2006/12 | (2006-12-21---2006-12-25) | 20:51:58
+Selecting data for 2006/12 | (2006-12-26---2006-12-31) | 20:53:25
+Selecting data for 2007/01 | (2007-01-01---2007-01-05) | 21:11:57
+Selecting data for 2007/01 | (2007-01-06---2007-01-10) | 21:22:52
+Selecting data for 2007/01 | (2007-01-11---2007-01-15) | 21:48:05
+Selecting data for 2007/01 | (2007-01-16---2007-01-20) | 22:12:22
+Selecting data for 2007/01 | (2007-01-21---2007-01-25) | 22:24:39
+Selecting data for 2007/01 | (2007-01-26---2007-01-31) | 22:50:13
+Selecting data for 2007/02 | (2007-02-01---2007-02-05) | 23:06:50
+Traceback (most recent call last):
+  File "<stdin>", line 3, in <module>
+  File "<stdin>", line 7, in download_join
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 825, in _read_query_result
+    result.read()
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1206, in read
+    self._read_result_packet(first_packet)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1283, in _read_result_packet
+    self._read_rowdata_packet()
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1330, in _read_rowdata_packet
+    packet = self.connection._read_packet()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 763, in _read_packet
+    recv_data = self._read_bytes(bytes_to_read)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 782, in _read_bytes
+    data = self._rfile.read(num_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+>>> for year in range(2007,2015):
+...     for month in range(1, 13):
+...             download_join(conn, year, month)
+...
+Exception ignored in: <function MySQLResult.__del__ at 0x000002485834D6C0>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 1193, in __del__
+    def __del__(self):
+
+KeyboardInterrupt:
+Traceback (most recent call last):
+  File "<stdin>", line 3, in <module>
+  File "<stdin>", line 7, in download_join
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 562, in query
+    self._execute_command(COMMAND.COM_QUERY, sql)
+  File "C:\Users\User\AppData\Roaming\Python\Python312\site-packages\pymysql\connections.py", line 843, in _execute_command
+    raise err.InterfaceError(0, "")
+pymysql.err.InterfaceError: (0, '')
+>>> conn.close()
+>>> conn = fynesse.access.create_connection(username, password, url, 'ads_2024')
+Connection established with ads_2024!
+>>> for year in range(2004,2015):
+...     for month in range(1, 13):
+  File "<stdin>", line 1
+    for year in range(2004,2015):
+object address  : 0000024855EAC180
+object refcount : 3
+object type     : 00007FF889F2FE30
+object type name: IndentationError
+object repr     : IndentationError("expected an indented block after 'for' statement on line 1", ('<stdin>', 1, 30, 'for year in range(2004,2015):', 1, -1))
+lost sys.stderr
+>>> for year in range(2007,2015):
+...     for month in range(1, 13):
+...             download_join(conn, year, month)
+...
+Selecting data for 2007/01 | (2007-01-01---2007-01-05) | 00:39:10
+Selecting data for 2007/01 | (2007-01-06---2007-01-10) | 00:39:24
+Selecting data for 2007/01 | (2007-01-11---2007-01-15) | 00:39:55
+Selecting data for 2007/01 | (2007-01-16---2007-01-20) | 00:40:35
+Selecting data for 2007/01 | (2007-01-21---2007-01-25) | 00:40:56
+Selecting data for 2007/01 | (2007-01-26---2007-01-31) | 00:41:47
+Selecting data for 2007/02 | (2007-02-01---2007-02-05) | 00:42:19
+Selecting data for 2007/02 | (2007-02-06---2007-02-10) | 00:42:52
+Selecting data for 2007/02 | (2007-02-11---2007-02-15) | 00:43:15
+Selecting data for 2007/02 | (2007-02-16---2007-02-20) | 00:43:43
+Selecting data for 2007/02 | (2007-02-21---2007-02-25) | 00:44:17
+Selecting data for 2007/02 | (2007-02-26---2007-02-31) | 00:44:41
+Selecting data for 2007/03 | (2007-03-01---2007-03-05) | 00:45:16
+Selecting data for 2007/03 | (2007-03-06---2007-03-10) | 00:45:50
+Selecting data for 2007/03 | (2007-03-11---2007-03-15) | 00:46:13
+Selecting data for 2007/03 | (2007-03-16---2007-03-20) | 00:46:42
+Selecting data for 2007/03 | (2007-03-21---2007-03-25) | 00:47:17
+Selecting data for 2007/03 | (2007-03-26---2007-03-31) | 00:48:19
+Selecting data for 2007/04 | (2007-04-01---2007-04-05) | 00:49:06
+Selecting data for 2007/04 | (2007-04-06---2007-04-10) | 00:49:12
+Selecting data for 2007/04 | (2007-04-11---2007-04-15) | 00:49:40
+Selecting data for 2007/04 | (2007-04-16---2007-04-20) | 00:50:31
+Selecting data for 2007/04 | (2007-04-21---2007-04-25) | 00:58:22
+Selecting data for 2007/04 | (2007-04-26---2007-04-31) | 01:14:39
+Selecting data for 2007/05 | (2007-05-01---2007-05-05) | 01:29:01
+Selecting data for 2007/05 | (2007-05-06---2007-05-10) | 01:33:50
+Selecting data for 2007/05 | (2007-05-11---2007-05-15) | 01:43:59
+Selecting data for 2007/05 | (2007-05-16---2007-05-20) | 01:53:36
+Selecting data for 2007/05 | (2007-05-21---2007-05-25) | 02:09:32
+Selecting data for 2007/05 | (2007-05-26---2007-05-31) | 02:19:48
+Selecting data for 2007/06 | (2007-06-01---2007-06-05) | 02:32:29
+Selecting data for 2007/06 | (2007-06-06---2007-06-10) | 02:43:12
+Selecting data for 2007/06 | (2007-06-11---2007-06-15) | 02:57:13
+Selecting data for 2007/06 | (2007-06-16---2007-06-20) | 03:03:35
+Selecting data for 2007/06 | (2007-06-21---2007-06-25) | 03:18:42
+Selecting data for 2007/06 | (2007-06-26---2007-06-31) | 03:40:37
+Selecting data for 2007/07 | (2007-07-01---2007-07-05) | 03:51:59
+Selecting data for 2007/07 | (2007-07-06---2007-07-10) | 04:07:57
+Selecting data for 2007/07 | (2007-07-11---2007-07-15) | 04:19:49
+Selecting data for 2007/07 | (2007-07-16---2007-07-20) | 04:42:35
+Selecting data for 2007/07 | (2007-07-21---2007-07-25) | 04:49:25
+Selecting data for 2007/07 | (2007-07-26---2007-07-31) | 05:13:28
+Selecting data for 2007/08 | (2007-08-01---2007-08-05) | 05:27:34
+Selecting data for 2007/08 | (2007-08-06---2007-08-10) | 05:47:27
+Selecting data for 2007/08 | (2007-08-11---2007-08-15) | 05:55:05
+Selecting data for 2007/08 | (2007-08-16---2007-08-20) | 06:12:00
+Selecting data for 2007/08 | (2007-08-21---2007-08-25) | 06:33:29
+Selecting data for 2007/08 | (2007-08-26---2007-08-31) | 06:52:28
+Selecting data for 2007/09 | (2007-09-01---2007-09-05) | 07:01:25
+Selecting data for 2007/09 | (2007-09-06---2007-09-10) | 07:13:38
+Selecting data for 2007/09 | (2007-09-11---2007-09-15) | 07:29:10
+Selecting data for 2007/09 | (2007-09-16---2007-09-20) | 07:41:01
+Selecting data for 2007/09 | (2007-09-21---2007-09-25) | 07:53:53
+Selecting data for 2007/09 | (2007-09-26---2007-09-31) | 08:13:11
+Selecting data for 2007/10 | (2007-10-01---2007-10-05) | 08:32:45
+Selecting data for 2007/10 | (2007-10-06---2007-10-10) | 08:37:45
+Selecting data for 2007/10 | (2007-10-11---2007-10-15) | 08:51:22
+Selecting data for 2007/10 | (2007-10-16---2007-10-20) | 09:07:40
+Selecting data for 2007/10 | (2007-10-21---2007-10-25) | 09:17:54
+Selecting data for 2007/10 | (2007-10-26---2007-10-31) | 09:41:51
+Selecting data for 2007/11 | (2007-11-01---2007-11-05) | 09:54:00
+Selecting data for 2007/11 | (2007-11-06---2007-11-10) | 10:10:39
+Selecting data for 2007/11 | (2007-11-11---2007-11-15) | 10:19:51
+Selecting data for 2007/11 | (2007-11-16---2007-11-20) | 10:36:20
+Selecting data for 2007/11 | (2007-11-21---2007-11-25) | 10:49:48
+Selecting data for 2007/11 | (2007-11-26---2007-11-31) | 11:17:52
+Selecting data for 2007/12 | (2007-12-01---2007-12-05) | 11:25:24
+Selecting data for 2007/12 | (2007-12-06---2007-12-10) | 11:44:08
+Selecting data for 2007/12 | (2007-12-11---2007-12-15) | 12:04:27
+Selecting data for 2007/12 | (2007-12-16---2007-12-20) | 12:27:44
+Selecting data for 2007/12 | (2007-12-21---2007-12-25) | 12:33:14
+Selecting data for 2007/12 | (2007-12-26---2007-12-31) | 12:33:15
+Selecting data for 2008/01 | (2008-01-01---2008-01-05) | 12:42:41
+Selecting data for 2008/01 | (2008-01-06---2008-01-10) | 12:48:30
+Selecting data for 2008/01 | (2008-01-11---2008-01-15) | 12:59:35
+Selecting data for 2008/01 | (2008-01-16---2008-01-20) | 13:09:26
+Selecting data for 2008/01 | (2008-01-21---2008-01-25) | 13:22:21
+Selecting data for 2008/01 | (2008-01-26---2008-01-31) | 13:32:49
+Selecting data for 2008/02 | (2008-02-01---2008-02-05) | 13:41:37
+Selecting data for 2008/02 | (2008-02-06---2008-02-10) | 13:47:49
+Selecting data for 2008/02 | (2008-02-11---2008-02-15) | 13:57:57
+Selecting data for 2008/02 | (2008-02-16---2008-02-20) | 14:02:08
+Selecting data for 2008/02 | (2008-02-21---2008-02-25) | 14:08:39
+Selecting data for 2008/02 | (2008-02-26---2008-02-31) | 14:21:11
+Selecting data for 2008/03 | (2008-03-01---2008-03-05) | 14:23:52
+Selecting data for 2008/03 | (2008-03-06---2008-03-10) | 14:27:55
+Selecting data for 2008/03 | (2008-03-11---2008-03-15) | 14:37:50
+Selecting data for 2008/03 | (2008-03-16---2008-03-20) | 14:48:26
+Selecting data for 2008/03 | (2008-03-21---2008-03-25) | 14:49:49
+Selecting data for 2008/03 | (2008-03-26---2008-03-31) | 15:00:00
+Selecting data for 2008/04 | (2008-04-01---2008-04-05) | 15:07:35
+Selecting data for 2008/04 | (2008-04-06---2008-04-10) | 15:13:11
+Selecting data for 2008/04 | (2008-04-11---2008-04-15) | 15:19:24
+Selecting data for 2008/04 | (2008-04-16---2008-04-20) | 15:26:26
+Selecting data for 2008/04 | (2008-04-21---2008-04-25) | 15:37:20
+Selecting data for 2008/04 | (2008-04-26---2008-04-31) | 15:42:49
+Selecting data for 2008/05 | (2008-05-01---2008-05-05) | 15:52:17
+Selecting data for 2008/05 | (2008-05-06---2008-05-10) | 15:57:51
+Selecting data for 2008/05 | (2008-05-11---2008-05-15) | 16:00:00
+Selecting data for 2008/05 | (2008-05-16---2008-05-20) | 16:08:21
+Selecting data for 2008/05 | (2008-05-21---2008-05-25) | 16:17:53
+Selecting data for 2008/05 | (2008-05-26---2008-05-31) | 16:29:05
+Selecting data for 2008/06 | (2008-06-01---2008-06-05) | 16:34:36
+Selecting data for 2008/06 | (2008-06-06---2008-06-10) | 16:40:19
+Selecting data for 2008/06 | (2008-06-11---2008-06-15) | 16:44:59
+Selecting data for 2008/06 | (2008-06-16---2008-06-20) | 16:54:24
+Selecting data for 2008/06 | (2008-06-21---2008-06-25) | 16:57:53
+Selecting data for 2008/06 | (2008-06-26---2008-06-31) | 17:07:51
+Selecting data for 2008/07 | (2008-07-01---2008-07-05) | 17:15:58
+Selecting data for 2008/07 | (2008-07-06---2008-07-10) | 17:19:37
+Selecting data for 2008/07 | (2008-07-11---2008-07-15) | 17:23:49
+Selecting data for 2008/07 | (2008-07-16---2008-07-20) | 17:32:53
+Selecting data for 2008/07 | (2008-07-21---2008-07-25) | 17:39:17
+Selecting data for 2008/07 | (2008-07-26---2008-07-31) | 17:39:30
+Selecting data for 2008/08 | (2008-08-01---2008-08-05) | 17:39:42
+Selecting data for 2008/08 | (2008-08-06---2008-08-10) | 17:39:52
+Selecting data for 2008/08 | (2008-08-11---2008-08-15) | 17:40:13
+Selecting data for 2008/08 | (2008-08-16---2008-08-20) | 17:40:19
+Selecting data for 2008/08 | (2008-08-21---2008-08-25) | 17:40:32
+Selecting data for 2008/08 | (2008-08-26---2008-08-31) | 17:40:51
+Selecting data for 2008/09 | (2008-09-01---2008-09-05) | 17:41:10
+Selecting data for 2008/09 | (2008-09-06---2008-09-10) | 17:41:15
+Selecting data for 2008/09 | (2008-09-11---2008-09-15) | 17:41:25
+Selecting data for 2008/09 | (2008-09-16---2008-09-20) | 17:41:36
+Selecting data for 2008/09 | (2008-09-21---2008-09-25) | 17:41:44
+Selecting data for 2008/09 | (2008-09-26---2008-09-31) | 17:42:00
+Selecting data for 2008/10 | (2008-10-01---2008-10-05) | 17:42:13
+Selecting data for 2008/10 | (2008-10-06---2008-10-10) | 17:42:25
+Selecting data for 2008/10 | (2008-10-11---2008-10-15) | 17:42:29
+Selecting data for 2008/10 | (2008-10-16---2008-10-20) | 17:42:39
+Selecting data for 2008/10 | (2008-10-21---2008-10-25) | 17:42:51
+Selecting data for 2008/10 | (2008-10-26---2008-10-31) | 17:43:12
+Selecting data for 2008/11 | (2008-11-01---2008-11-05) | 17:43:17
+Selecting data for 2008/11 | (2008-11-06---2008-11-10) | 17:43:26
+Selecting data for 2008/11 | (2008-11-11---2008-11-15) | 17:43:36
+Selecting data for 2008/11 | (2008-11-16---2008-11-20) | 17:43:42
+Selecting data for 2008/11 | (2008-11-21---2008-11-25) | 17:43:50
+Selecting data for 2008/11 | (2008-11-26---2008-11-31) | 17:44:08
+Selecting data for 2008/12 | (2008-12-01---2008-12-05) | 17:44:21
+Selecting data for 2008/12 | (2008-12-06---2008-12-10) | 17:44:26
+Selecting data for 2008/12 | (2008-12-11---2008-12-15) | 17:44:38
+Selecting data for 2008/12 | (2008-12-16---2008-12-20) | 17:44:56
+Selecting data for 2008/12 | (2008-12-21---2008-12-25) | 17:45:07
+Selecting data for 2008/12 | (2008-12-26---2008-12-31) | 17:45:09
+Selecting data for 2009/01 | (2009-01-01---2009-01-05) | 17:45:13
+Selecting data for 2009/01 | (2009-01-06---2009-01-10) | 17:45:24
+Selecting data for 2009/01 | (2009-01-11---2009-01-15) | 17:45:32
+Selecting data for 2009/01 | (2009-01-16---2009-01-20) | 17:45:40
+Selecting data for 2009/01 | (2009-01-21---2009-01-25) | 17:45:46
+Selecting data for 2009/01 | (2009-01-26---2009-01-31) | 17:45:57
+Selecting data for 2009/02 | (2009-02-01---2009-02-05) | 17:46:00
+Selecting data for 2009/02 | (2009-02-06---2009-02-10) | 17:46:10
+Selecting data for 2009/02 | (2009-02-11---2009-02-15) | 17:46:16
+Selecting data for 2009/02 | (2009-02-16---2009-02-20) | 17:46:25
+Selecting data for 2009/02 | (2009-02-21---2009-02-25) | 17:46:28
+Selecting data for 2009/02 | (2009-02-26---2009-02-31) | 17:46:38
+Selecting data for 2009/03 | (2009-03-01---2009-03-05) | 17:46:42
+Selecting data for 2009/03 | (2009-03-06---2009-03-10) | 17:46:49
+Selecting data for 2009/03 | (2009-03-11---2009-03-15) | 17:46:57
+Selecting data for 2009/03 | (2009-03-16---2009-03-20) | 17:47:12
+Selecting data for 2009/03 | (2009-03-21---2009-03-25) | 17:47:16
+Selecting data for 2009/03 | (2009-03-26---2009-03-31) | 17:47:30
+Selecting data for 2009/04 | (2009-04-01---2009-04-05) | 17:47:39
+Selecting data for 2009/04 | (2009-04-06---2009-04-10) | 17:47:51
+Selecting data for 2009/04 | (2009-04-11---2009-04-15) | 17:47:54
+Selecting data for 2009/04 | (2009-04-16---2009-04-20) | 17:48:04
+Selecting data for 2009/04 | (2009-04-21---2009-04-25) | 17:48:17
+Selecting data for 2009/04 | (2009-04-26---2009-04-31) | 17:48:27
+Selecting data for 2009/05 | (2009-05-01---2009-05-05) | 17:48:36
+Selecting data for 2009/05 | (2009-05-06---2009-05-10) | 17:48:44
+Selecting data for 2009/05 | (2009-05-11---2009-05-15) | 17:48:56
+Selecting data for 2009/05 | (2009-05-16---2009-05-20) | 17:49:00
+Selecting data for 2009/05 | (2009-05-21---2009-05-25) | 17:49:15
+Selecting data for 2009/05 | (2009-05-26---2009-05-31) | 17:49:31
+Selecting data for 2009/06 | (2009-06-01---2009-06-05) | 17:49:44
+Selecting data for 2009/06 | (2009-06-06---2009-06-10) | 17:49:49
+Selecting data for 2009/06 | (2009-06-11---2009-06-15) | 17:50:00
+Selecting data for 2009/06 | (2009-06-16---2009-06-20) | 17:50:19
+Selecting data for 2009/06 | (2009-06-21---2009-06-25) | 17:50:31
+Selecting data for 2009/06 | (2009-06-26---2009-06-31) | 17:50:50
+Selecting data for 2009/07 | (2009-07-01---2009-07-05) | 17:51:08
+Selecting data for 2009/07 | (2009-07-06---2009-07-10) | 17:51:24
+Selecting data for 2009/07 | (2009-07-11---2009-07-15) | 17:51:31
+Selecting data for 2009/07 | (2009-07-16---2009-07-20) | 17:51:44
+Selecting data for 2009/07 | (2009-07-21---2009-07-25) | 17:51:59
+Selecting data for 2009/07 | (2009-07-26---2009-07-31) | 17:52:26
+Selecting data for 2009/08 | (2009-08-01---2009-08-05) | 17:52:33
+Selecting data for 2009/08 | (2009-08-06---2009-08-10) | 17:52:45
+Selecting data for 2009/08 | (2009-08-11---2009-08-15) | 17:53:01
+Selecting data for 2009/08 | (2009-08-16---2009-08-20) | 17:53:15
+Selecting data for 2009/08 | (2009-08-21---2009-08-25) | 17:53:29
+Selecting data for 2009/08 | (2009-08-26---2009-08-31) | 17:53:48
+Selecting data for 2009/09 | (2009-09-01---2009-09-05) | 17:54:07
+Selecting data for 2009/09 | (2009-09-06---2009-09-10) | 17:54:15
+Selecting data for 2009/09 | (2009-09-11---2009-09-15) | 17:54:29
+Selecting data for 2009/09 | (2009-09-16---2009-09-20) | 17:54:41
+Selecting data for 2009/09 | (2009-09-21---2009-09-25) | 17:55:01
+Selecting data for 2009/09 | (2009-09-26---2009-09-31) | 17:55:19
+Selecting data for 2009/10 | (2009-10-01---2009-10-05) | 17:55:35
+Selecting data for 2009/10 | (2009-10-06---2009-10-10) | 17:55:50
+Selecting data for 2009/10 | (2009-10-11---2009-10-15) | 17:55:59
+Selecting data for 2009/10 | (2009-10-16---2009-10-20) | 17:56:16
+Selecting data for 2009/10 | (2009-10-21---2009-10-25) | 17:56:32
+Selecting data for 2009/10 | (2009-10-26---2009-10-31) | 17:56:56
+Selecting data for 2009/11 | (2009-11-01---2009-11-05) | 17:57:09
+Selecting data for 2009/11 | (2009-11-06---2009-11-10) | 17:57:21
+Selecting data for 2009/11 | (2009-11-11---2009-11-15) | 17:57:33
+Selecting data for 2009/11 | (2009-11-16---2009-11-20) | 17:57:53
+Selecting data for 2009/11 | (2009-11-21---2009-11-25) | 17:58:00
+Selecting data for 2009/11 | (2009-11-26---2009-11-31) | 17:58:25
+Selecting data for 2009/12 | (2009-12-01---2009-12-05) | 17:58:43
+Selecting data for 2009/12 | (2009-12-06---2009-12-10) | 17:58:55
+Selecting data for 2009/12 | (2009-12-11---2009-12-15) | 17:59:19
+Selecting data for 2009/12 | (2009-12-16---2009-12-20) | 17:59:46
+Selecting data for 2009/12 | (2009-12-21---2009-12-25) | 18:00:15
+Selecting data for 2009/12 | (2009-12-26---2009-12-31) | 18:00:17
+Selecting data for 2010/01 | (2010-01-01---2010-01-05) | 18:00:25
+Selecting data for 2010/01 | (2010-01-06---2010-01-10) | 18:00:38
+Selecting data for 2010/01 | (2010-01-11---2010-01-15) | 18:00:51
+Selecting data for 2010/01 | (2010-01-16---2010-01-20) | 18:00:54
+Selecting data for 2010/01 | (2010-01-21---2010-01-25) | 18:01:10
+Selecting data for 2010/01 | (2010-01-26---2010-01-31) | 18:01:26
+Selecting data for 2010/02 | (2010-02-01---2010-02-05) | 18:01:39
+Selecting data for 2010/02 | (2010-02-06---2010-02-10) | 18:01:44
+Selecting data for 2010/02 | (2010-02-11---2010-02-15) | 18:01:56
+Selecting data for 2010/02 | (2010-02-16---2010-02-20) | 18:02:12
+Selecting data for 2010/02 | (2010-02-21---2010-02-25) | 18:02:20
+Selecting data for 2010/02 | (2010-02-26---2010-02-31) | 18:02:31
+Selecting data for 2010/03 | (2010-03-01---2010-03-05) | 18:02:45
+Selecting data for 2010/03 | (2010-03-06---2010-03-10) | 18:02:49
+Selecting data for 2010/03 | (2010-03-11---2010-03-15) | 18:03:00
+Selecting data for 2010/03 | (2010-03-16---2010-03-20) | 18:03:16
+Selecting data for 2010/03 | (2010-03-21---2010-03-25) | 18:03:25
+Selecting data for 2010/03 | (2010-03-26---2010-03-31) | 18:03:47
+Selecting data for 2010/04 | (2010-04-01---2010-04-05) | 18:03:55
+Selecting data for 2010/04 | (2010-04-06---2010-04-10) | 18:04:11
+Selecting data for 2010/04 | (2010-04-11---2010-04-15) | 18:04:19
+Selecting data for 2010/04 | (2010-04-16---2010-04-20) | 18:04:30
+Selecting data for 2010/04 | (2010-04-21---2010-04-25) | 18:04:41
+Selecting data for 2010/04 | (2010-04-26---2010-04-31) | 18:05:11
+Selecting data for 2010/05 | (2010-05-01---2010-05-05) | 18:05:15
+Selecting data for 2010/05 | (2010-05-06---2010-05-10) | 18:05:32
+Selecting data for 2010/05 | (2010-05-11---2010-05-15) | 18:05:48
+Selecting data for 2010/05 | (2010-05-16---2010-05-20) | 18:05:56
+Selecting data for 2010/05 | (2010-05-21---2010-05-25) | 18:06:13
+Selecting data for 2010/05 | (2010-05-26---2010-05-31) | 18:06:35
+Selecting data for 2010/06 | (2010-06-01---2010-06-05) | 18:06:51
+Selecting data for 2010/06 | (2010-06-06---2010-06-10) | 18:07:01
+Selecting data for 2010/06 | (2010-06-11---2010-06-15) | 18:07:18
+Selecting data for 2010/06 | (2010-06-16---2010-06-20) | 18:07:32
+Selecting data for 2010/06 | (2010-06-21---2010-06-25) | 18:07:54
+Selecting data for 2010/06 | (2010-06-26---2010-06-31) | 18:08:11
+Selecting data for 2010/07 | (2010-07-01---2010-07-05) | 18:08:25
+Selecting data for 2010/07 | (2010-07-06---2010-07-10) | 18:08:41
+Selecting data for 2010/07 | (2010-07-11---2010-07-15) | 18:08:51
+Selecting data for 2010/07 | (2010-07-16---2010-07-20) | 18:09:10
+Selecting data for 2010/07 | (2010-07-21---2010-07-25) | 18:09:25
+Selecting data for 2010/07 | (2010-07-26---2010-07-31) | 18:09:51
+Selecting data for 2010/08 | (2010-08-01---2010-08-05) | 18:10:03
+Selecting data for 2010/08 | (2010-08-06---2010-08-10) | 18:10:23
+Selecting data for 2010/08 | (2010-08-11---2010-08-15) | 18:10:41
+Selecting data for 2010/08 | (2010-08-16---2010-08-20) | 18:11:07
+Selecting data for 2010/08 | (2010-08-21---2010-08-25) | 18:11:16
+Selecting data for 2010/08 | (2010-08-26---2010-08-31) | 18:11:37
+Selecting data for 2010/09 | (2010-09-01---2010-09-05) | 18:11:51
+Selecting data for 2010/09 | (2010-09-06---2010-09-10) | 18:12:12
+Selecting data for 2010/09 | (2010-09-11---2010-09-15) | 18:12:18
+Selecting data for 2010/09 | (2010-09-16---2010-09-20) | 18:12:33
+Selecting data for 2010/09 | (2010-09-21---2010-09-25) | 18:12:50
+Selecting data for 2010/09 | (2010-09-26---2010-09-31) | 18:13:10
+Selecting data for 2010/10 | (2010-10-01---2010-10-05) | 18:13:22
+Selecting data for 2010/10 | (2010-10-06---2010-10-10) | 18:13:35
+Selecting data for 2010/10 | (2010-10-11---2010-10-15) | 18:13:52
+Selecting data for 2010/10 | (2010-10-16---2010-10-20) | 18:13:59
+Selecting data for 2010/10 | (2010-10-21---2010-10-25) | 18:14:17
+Selecting data for 2010/10 | (2010-10-26---2010-10-31) | 18:14:38
+Selecting data for 2010/11 | (2010-11-01---2010-11-05) | 18:14:55
+Selecting data for 2010/11 | (2010-11-06---2010-11-10) | 18:15:02
+Selecting data for 2010/11 | (2010-11-11---2010-11-15) | 18:15:23
+Selecting data for 2010/11 | (2010-11-16---2010-11-20) | 18:15:42
+Selecting data for 2010/11 | (2010-11-21---2010-11-25) | 18:15:51
+Selecting data for 2010/11 | (2010-11-26---2010-11-31) | 18:16:15
+Selecting data for 2010/12 | (2010-12-01---2010-12-05) | 18:16:29
+Selecting data for 2010/12 | (2010-12-06---2010-12-10) | 18:16:50
+Selecting data for 2010/12 | (2010-12-11---2010-12-15) | 18:17:00
+Selecting data for 2010/12 | (2010-12-16---2010-12-20) | 18:17:26
+Selecting data for 2010/12 | (2010-12-21---2010-12-25) | 18:17:40
+Selecting data for 2010/12 | (2010-12-26---2010-12-31) | 18:17:41
+Selecting data for 2011/01 | (2011-01-01---2011-01-05) | 18:17:46
+Selecting data for 2011/01 | (2011-01-06---2011-01-10) | 18:17:59
+Selecting data for 2011/01 | (2011-01-11---2011-01-15) | 18:18:13
+Selecting data for 2011/01 | (2011-01-16---2011-01-20) | 18:18:18
+Selecting data for 2011/01 | (2011-01-21---2011-01-25) | 18:18:26
+Selecting data for 2011/01 | (2011-01-26---2011-01-31) | 18:18:42
+Selecting data for 2011/02 | (2011-02-01---2011-02-05) | 18:18:53
+Selecting data for 2011/02 | (2011-02-06---2011-02-10) | 18:18:58
+Selecting data for 2011/02 | (2011-02-11---2011-02-15) | 18:19:12
+Selecting data for 2011/02 | (2011-02-16---2011-02-20) | 18:19:22
+Selecting data for 2011/02 | (2011-02-21---2011-02-25) | 18:19:38
+Selecting data for 2011/02 | (2011-02-26---2011-02-31) | 18:19:42
+Selecting data for 2011/03 | (2011-03-01---2011-03-05) | 18:19:53
+Selecting data for 2011/03 | (2011-03-06---2011-03-10) | 18:19:59
+Selecting data for 2011/03 | (2011-03-11---2011-03-15) | 18:20:14
+Selecting data for 2011/03 | (2011-03-16---2011-03-20) | 18:20:24
+Selecting data for 2011/03 | (2011-03-21---2011-03-25) | 18:20:45
+Selecting data for 2011/03 | (2011-03-26---2011-03-31) | 18:21:01
+Selecting data for 2011/04 | (2011-04-01---2011-04-05) | 18:21:16
+Selecting data for 2011/04 | (2011-04-06---2011-04-10) | 18:21:27
+Selecting data for 2011/04 | (2011-04-11---2011-04-15) | 18:21:44
+Selecting data for 2011/04 | (2011-04-16---2011-04-20) | 18:21:53
+Selecting data for 2011/04 | (2011-04-21---2011-04-25) | 18:22:03
+Selecting data for 2011/04 | (2011-04-26---2011-04-31) | 18:22:21
+Selecting data for 2011/05 | (2011-05-01---2011-05-05) | 18:22:27
+Selecting data for 2011/05 | (2011-05-06---2011-05-10) | 18:22:38
+Selecting data for 2011/05 | (2011-05-11---2011-05-15) | 18:22:48
+Selecting data for 2011/05 | (2011-05-16---2011-05-20) | 18:23:08
+Selecting data for 2011/05 | (2011-05-21---2011-05-25) | 18:23:15
+Selecting data for 2011/05 | (2011-05-26---2011-05-31) | 18:23:35
+Selecting data for 2011/06 | (2011-06-01---2011-06-05) | 18:23:47
+Selecting data for 2011/06 | (2011-06-06---2011-06-10) | 18:24:04
+Selecting data for 2011/06 | (2011-06-11---2011-06-15) | 18:24:12
+Selecting data for 2011/06 | (2011-06-16---2011-06-20) | 18:24:25
+Selecting data for 2011/06 | (2011-06-21---2011-06-25) | 18:24:42
+Selecting data for 2011/06 | (2011-06-26---2011-06-31) | 18:24:59
+Selecting data for 2011/07 | (2011-07-01---2011-07-05) | 18:25:17
+Selecting data for 2011/07 | (2011-07-06---2011-07-10) | 18:25:34
+Selecting data for 2011/07 | (2011-07-11---2011-07-15) | 18:25:53
+Selecting data for 2011/07 | (2011-07-16---2011-07-20) | 18:26:01
+Selecting data for 2011/07 | (2011-07-21---2011-07-25) | 18:26:20
+Selecting data for 2011/07 | (2011-07-26---2011-07-31) | 18:26:41
+Selecting data for 2011/08 | (2011-08-01---2011-08-05) | 18:27:01
+Selecting data for 2011/08 | (2011-08-06---2011-08-10) | 18:27:13
+Selecting data for 2011/08 | (2011-08-11---2011-08-15) | 18:27:28
+Selecting data for 2011/08 | (2011-08-16---2011-08-20) | 18:27:45
+Selecting data for 2011/08 | (2011-08-21---2011-08-25) | 18:27:57
+Selecting data for 2011/08 | (2011-08-26---2011-08-31) | 18:28:20
+Selecting data for 2011/09 | (2011-09-01---2011-09-05) | 18:28:34
+Selecting data for 2011/09 | (2011-09-06---2011-09-10) | 18:28:50
+Selecting data for 2011/09 | (2011-09-11---2011-09-15) | 18:28:58
+Selecting data for 2011/09 | (2011-09-16---2011-09-20) | 18:29:15
+Selecting data for 2011/09 | (2011-09-21---2011-09-25) | 18:29:29
+Selecting data for 2011/09 | (2011-09-26---2011-09-31) | 18:29:55
+Selecting data for 2011/10 | (2011-10-01---2011-10-05) | 18:30:03
+Selecting data for 2011/10 | (2011-10-06---2011-10-10) | 18:30:22
+Selecting data for 2011/10 | (2011-10-11---2011-10-15) | 18:30:43
+Selecting data for 2011/10 | (2011-10-16---2011-10-20) | 18:30:53
+Selecting data for 2011/10 | (2011-10-21---2011-10-25) | 18:31:13
+Selecting data for 2011/10 | (2011-10-26---2011-10-31) | 18:31:36
+Selecting data for 2011/11 | (2011-11-01---2011-11-05) | 18:31:52
+Selecting data for 2011/11 | (2011-11-06---2011-11-10) | 18:32:01
+Selecting data for 2011/11 | (2011-11-11---2011-11-15) | 18:32:18
+Selecting data for 2011/11 | (2011-11-16---2011-11-20) | 18:32:32
+Selecting data for 2011/11 | (2011-11-21---2011-11-25) | 18:32:54
+Selecting data for 2011/11 | (2011-11-26---2011-11-31) | 18:33:10
+Selecting data for 2011/12 | (2011-12-01---2011-12-05) | 18:33:26
+Selecting data for 2011/12 | (2011-12-06---2011-12-10) | 18:33:46
+Selecting data for 2011/12 | (2011-12-11---2011-12-15) | 18:34:00
+Selecting data for 2011/12 | (2011-12-16---2011-12-20) | 18:34:27
+Selecting data for 2011/12 | (2011-12-21---2011-12-25) | 18:34:41
+Selecting data for 2011/12 | (2011-12-26---2011-12-31) | 18:34:42
+Selecting data for 2012/01 | (2012-01-01---2012-01-05) | 18:34:51
+Selecting data for 2012/01 | (2012-01-06---2012-01-10) | 18:35:08
+Selecting data for 2012/01 | (2012-01-11---2012-01-15) | 18:35:19
+Selecting data for 2012/01 | (2012-01-16---2012-01-20) | 18:35:36
+Selecting data for 2012/01 | (2012-01-21---2012-01-25) | 18:35:41
+Selecting data for 2012/01 | (2012-01-26---2012-01-31) | 18:35:59
+Selecting data for 2012/02 | (2012-02-01---2012-02-05) | 18:36:14
+Selecting data for 2012/02 | (2012-02-06---2012-02-10) | 18:36:28
+Selecting data for 2012/02 | (2012-02-11---2012-02-15) | 18:36:34
+Selecting data for 2012/02 | (2012-02-16---2012-02-20) | 18:36:45
+Selecting data for 2012/02 | (2012-02-21---2012-02-25) | 18:36:58
+Selecting data for 2012/02 | (2012-02-26---2012-02-31) | 18:37:11
+Selecting data for 2012/03 | (2012-03-01---2012-03-05) | 18:37:22
+Selecting data for 2012/03 | (2012-03-06---2012-03-10) | 18:37:34
+Selecting data for 2012/03 | (2012-03-11---2012-03-15) | 18:37:41
+Selecting data for 2012/03 | (2012-03-16---2012-03-20) | 18:37:54
+Selecting data for 2012/03 | (2012-03-21---2012-03-25) | 18:38:20
+Selecting data for 2012/03 | (2012-03-26---2012-03-31) | 18:38:41
+Selecting data for 2012/04 | (2012-04-01---2012-04-05) | 18:38:56
+Selecting data for 2012/04 | (2012-04-06---2012-04-10) | 18:38:58
+Selecting data for 2012/04 | (2012-04-11---2012-04-15) | 18:39:12
+Selecting data for 2012/04 | (2012-04-16---2012-04-20) | 18:39:26
+Selecting data for 2012/04 | (2012-04-21---2012-04-25) | 18:39:33
+Selecting data for 2012/04 | (2012-04-26---2012-04-31) | 18:39:49
+Selecting data for 2012/05 | (2012-05-01---2012-05-05) | 18:40:07
+Selecting data for 2012/05 | (2012-05-06---2012-05-10) | 18:40:14
+Selecting data for 2012/05 | (2012-05-11---2012-05-15) | 18:40:28
+Selecting data for 2012/05 | (2012-05-16---2012-05-20) | 18:40:41
+Selecting data for 2012/05 | (2012-05-21---2012-05-25) | 18:41:02
+Selecting data for 2012/05 | (2012-05-26---2012-05-31) | 18:41:20
+Selecting data for 2012/06 | (2012-06-01---2012-06-05) | 18:41:31
+Selecting data for 2012/06 | (2012-06-06---2012-06-10) | 18:41:43
+Selecting data for 2012/06 | (2012-06-11---2012-06-15) | 18:41:59
+Selecting data for 2012/06 | (2012-06-16---2012-06-20) | 18:42:09
+Selecting data for 2012/06 | (2012-06-21---2012-06-25) | 18:42:22
+Selecting data for 2012/06 | (2012-06-26---2012-06-31) | 18:42:47
+Selecting data for 2012/07 | (2012-07-01---2012-07-05) | 18:42:56
+Selecting data for 2012/07 | (2012-07-06---2012-07-10) | 18:43:13
+Selecting data for 2012/07 | (2012-07-11---2012-07-15) | 18:43:26
+Selecting data for 2012/07 | (2012-07-16---2012-07-20) | 18:43:45
+Selecting data for 2012/07 | (2012-07-21---2012-07-25) | 18:43:52
+Selecting data for 2012/07 | (2012-07-26---2012-07-31) | 18:44:19
+Selecting data for 2012/08 | (2012-08-01---2012-08-05) | 18:44:33
+Selecting data for 2012/08 | (2012-08-06---2012-08-10) | 18:44:50
+Selecting data for 2012/08 | (2012-08-11---2012-08-15) | 18:44:57
+Selecting data for 2012/08 | (2012-08-16---2012-08-20) | 18:45:19
+Selecting data for 2012/08 | (2012-08-21---2012-08-25) | 18:45:41
+Selecting data for 2012/08 | (2012-08-26---2012-08-31) | 18:46:01
+Selecting data for 2012/09 | (2012-09-01---2012-09-05) | 18:46:12
+Selecting data for 2012/09 | (2012-09-06---2012-09-10) | 18:46:25
+Selecting data for 2012/09 | (2012-09-11---2012-09-15) | 18:46:40
+Selecting data for 2012/09 | (2012-09-16---2012-09-20) | 18:46:48
+Selecting data for 2012/09 | (2012-09-21---2012-09-25) | 18:47:03
+Selecting data for 2012/09 | (2012-09-26---2012-09-31) | 18:47:25
+Selecting data for 2012/10 | (2012-10-01---2012-10-05) | 18:47:42
+Selecting data for 2012/10 | (2012-10-06---2012-10-10) | 18:47:48
+Selecting data for 2012/10 | (2012-10-11---2012-10-15) | 18:48:01
+Selecting data for 2012/10 | (2012-10-16---2012-10-20) | 18:48:20
+Selecting data for 2012/10 | (2012-10-21---2012-10-25) | 18:48:30
+Selecting data for 2012/10 | (2012-10-26---2012-10-31) | 18:48:53
+Selecting data for 2012/11 | (2012-11-01---2012-11-05) | 18:49:10
+Selecting data for 2012/11 | (2012-11-06---2012-11-10) | 18:49:25
+Selecting data for 2012/11 | (2012-11-11---2012-11-15) | 18:49:33
+Selecting data for 2012/11 | (2012-11-16---2012-11-20) | 18:49:47
+Selecting data for 2012/11 | (2012-11-21---2012-11-25) | 18:50:01
+Selecting data for 2012/11 | (2012-11-26---2012-11-31) | 18:50:37
+Selecting data for 2012/12 | (2012-12-01---2012-12-05) | 18:50:46
+Selecting data for 2012/12 | (2012-12-06---2012-12-10) | 18:51:08
+Selecting data for 2012/12 | (2012-12-11---2012-12-15) | 18:51:31
+Selecting data for 2012/12 | (2012-12-16---2012-12-20) | 18:51:56
+Selecting data for 2012/12 | (2012-12-21---2012-12-25) | 18:52:01
+Selecting data for 2012/12 | (2012-12-26---2012-12-31) | 18:52:03
+Selecting data for 2013/01 | (2013-01-01---2013-01-05) | 18:52:19
+Selecting data for 2013/01 | (2013-01-06---2013-01-10) | 18:52:28
+Selecting data for 2013/01 | (2013-01-11---2013-01-15) | 18:52:39
+Selecting data for 2013/01 | (2013-01-16---2013-01-20) | 18:52:51
+Selecting data for 2013/01 | (2013-01-21---2013-01-25) | 18:53:12
+Selecting data for 2013/01 | (2013-01-26---2013-01-31) | 18:53:26
+Selecting data for 2013/02 | (2013-02-01---2013-02-05) | 18:53:37
+Selecting data for 2013/02 | (2013-02-06---2013-02-10) | 18:53:49
+Selecting data for 2013/02 | (2013-02-11---2013-02-15) | 18:54:10
+Selecting data for 2013/02 | (2013-02-16---2013-02-20) | 18:54:17
+Selecting data for 2013/02 | (2013-02-21---2013-02-25) | 18:54:31
+Selecting data for 2013/02 | (2013-02-26---2013-02-31) | 18:54:42
+Selecting data for 2013/03 | (2013-03-01---2013-03-05) | 18:54:55
+Selecting data for 2013/03 | (2013-03-06---2013-03-10) | 18:55:13
+Selecting data for 2013/03 | (2013-03-11---2013-03-15) | 18:55:34
+Selecting data for 2013/03 | (2013-03-16---2013-03-20) | 18:55:40
+Selecting data for 2013/03 | (2013-03-21---2013-03-25) | 18:55:57
+Selecting data for 2013/03 | (2013-03-26---2013-03-31) | 18:56:25
+Selecting data for 2013/04 | (2013-04-01---2013-04-05) | 18:56:41
+Selecting data for 2013/04 | (2013-04-06---2013-04-10) | 18:56:47
+Selecting data for 2013/04 | (2013-04-11---2013-04-15) | 18:57:01
+Selecting data for 2013/04 | (2013-04-16---2013-04-20) | 18:57:20
+Selecting data for 2013/04 | (2013-04-21---2013-04-25) | 18:57:30
+Selecting data for 2013/04 | (2013-04-26---2013-04-31) | 18:57:51
+Selecting data for 2013/05 | (2013-05-01---2013-05-05) | 18:58:12
+Selecting data for 2013/05 | (2013-05-06---2013-05-10) | 18:58:30
+Selecting data for 2013/05 | (2013-05-11---2013-05-15) | 18:58:38
+Selecting data for 2013/05 | (2013-05-16---2013-05-20) | 18:58:54
+Selecting data for 2013/05 | (2013-05-21---2013-05-25) | 18:59:21
+Selecting data for 2013/05 | (2013-05-26---2013-05-31) | 18:59:47
+Selecting data for 2013/06 | (2013-06-01---2013-06-05) | 18:59:55
+Selecting data for 2013/06 | (2013-06-06---2013-06-10) | 19:00:20
+Selecting data for 2013/06 | (2013-06-11---2013-06-15) | 19:00:43
+Selecting data for 2013/06 | (2013-06-16---2013-06-20) | 19:00:57
+Selecting data for 2013/06 | (2013-06-21---2013-06-25) | 19:01:21
+Selecting data for 2013/06 | (2013-06-26---2013-06-31) | 19:01:49
+Selecting data for 2013/07 | (2013-07-01---2013-07-05) | 19:02:18
+Selecting data for 2013/07 | (2013-07-06---2013-07-10) | 19:02:28
+Selecting data for 2013/07 | (2013-07-11---2013-07-15) | 19:02:47
+Selecting data for 2013/07 | (2013-07-16---2013-07-20) | 19:03:13
+Selecting data for 2013/07 | (2013-07-21---2013-07-25) | 19:03:27
+Selecting data for 2013/07 | (2013-07-26---2013-07-31) | 19:03:57
+Selecting data for 2013/08 | (2013-08-01---2013-08-05) | 19:04:20
+Selecting data for 2013/08 | (2013-08-06---2013-08-10) | 19:04:42
+Selecting data for 2013/08 | (2013-08-11---2013-08-15) | 19:04:57
+Selecting data for 2013/08 | (2013-08-16---2013-08-20) | 19:05:22
+Selecting data for 2013/08 | (2013-08-21---2013-08-25) | 19:05:50
+Selecting data for 2013/08 | (2013-08-26---2013-08-31) | 19:06:24
+Selecting data for 2013/09 | (2013-09-01---2013-09-05) | 19:06:38
+Selecting data for 2013/09 | (2013-09-06---2013-09-10) | 19:06:57
+Selecting data for 2013/09 | (2013-09-11---2013-09-15) | 19:07:19
+Selecting data for 2013/09 | (2013-09-16---2013-09-20) | 19:07:47
+Selecting data for 2013/09 | (2013-09-21---2013-09-25) | 19:07:57
+Selecting data for 2013/09 | (2013-09-26---2013-09-31) | 19:08:30
+Selecting data for 2013/10 | (2013-10-01---2013-10-05) | 19:08:53
+Selecting data for 2013/10 | (2013-10-06---2013-10-10) | 19:09:11
+Selecting data for 2013/10 | (2013-10-11---2013-10-15) | 19:09:31
+Selecting data for 2013/10 | (2013-10-16---2013-10-20) | 19:09:53
+Selecting data for 2013/10 | (2013-10-21---2013-10-25) | 19:10:32
+Selecting data for 2013/10 | (2013-10-26---2013-10-31) | 19:10:59
+Selecting data for 2013/11 | (2013-11-01---2013-11-05) | 19:11:23
+Selecting data for 2013/11 | (2013-11-06---2013-11-10) | 19:11:43
+Selecting data for 2013/11 | (2013-11-11---2013-11-15) | 19:12:16
+Selecting data for 2013/11 | (2013-11-16---2013-11-20) | 19:12:28
+Selecting data for 2013/11 | (2013-11-21---2013-11-25) | 19:12:52
+Selecting data for 2013/11 | (2013-11-26---2013-11-31) | 19:13:31
+Selecting data for 2013/12 | (2013-12-01---2013-12-05) | 19:13:49
+Selecting data for 2013/12 | (2013-12-06---2013-12-10) | 19:14:20
+Selecting data for 2013/12 | (2013-12-11---2013-12-15) | 19:14:50
+Selecting data for 2013/12 | (2013-12-16---2013-12-20) | 19:15:57
+Selecting data for 2013/12 | (2013-12-21---2013-12-25) | 19:16:00
+Selecting data for 2013/12 | (2013-12-26---2013-12-31) | 19:16:01
+Selecting data for 2014/01 | (2014-01-01---2014-01-05) | 19:16:16
+Selecting data for 2014/01 | (2014-01-06---2014-01-10) | 19:16:43
+Selecting data for 2014/01 | (2014-01-11---2014-01-15) | 19:16:52
+Selecting data for 2014/01 | (2014-01-16---2014-01-20) | 19:17:17
+Selecting data for 2014/01 | (2014-01-21---2014-01-25) | 19:17:41
+Selecting data for 2014/01 | (2014-01-26---2014-01-31) | 19:18:21
+Selecting data for 2014/02 | (2014-02-01---2014-02-05) | 19:18:32
+Selecting data for 2014/02 | (2014-02-06---2014-02-10) | 19:18:53
+Selecting data for 2014/02 | (2014-02-11---2014-02-15) | 19:19:22
+Selecting data for 2014/02 | (2014-02-16---2014-02-20) | 19:19:38
+Selecting data for 2014/02 | (2014-02-21---2014-02-25) | 19:19:59
+Selecting data for 2014/02 | (2014-02-26---2014-02-31) | 19:20:37
+Selecting data for 2014/03 | (2014-03-01---2014-03-05) | 19:20:48
+Selecting data for 2014/03 | (2014-03-06---2014-03-10) | 19:21:14
+Selecting data for 2014/03 | (2014-03-11---2014-03-15) | 19:21:38
+Selecting data for 2014/03 | (2014-03-16---2014-03-20) | 19:21:53
+Selecting data for 2014/03 | (2014-03-21---2014-03-25) | 19:22:18
+Selecting data for 2014/03 | (2014-03-26---2014-03-31) | 19:22:57
+Selecting data for 2014/04 | (2014-04-01---2014-04-05) | 19:23:25
+Selecting data for 2014/04 | (2014-04-06---2014-04-10) | 19:23:40
+Selecting data for 2014/04 | (2014-04-11---2014-04-15) | 19:24:08
+Selecting data for 2014/04 | (2014-04-16---2014-04-20) | 19:24:30
+Selecting data for 2014/04 | (2014-04-21---2014-04-25) | 19:24:58
+Selecting data for 2014/04 | (2014-04-26---2014-04-31) | 19:25:20
+Selecting data for 2014/05 | (2014-05-01---2014-05-05) | 19:25:44
+Selecting data for 2014/05 | (2014-05-06---2014-05-10) | 19:26:13
+Selecting data for 2014/05 | (2014-05-11---2014-05-15) | 19:26:27
+Selecting data for 2014/05 | (2014-05-16---2014-05-20) | 19:26:49
+Selecting data for 2014/05 | (2014-05-21---2014-05-25) | 19:27:21
+Selecting data for 2014/05 | (2014-05-26---2014-05-31) | 19:27:57
+Selecting data for 2014/06 | (2014-06-01---2014-06-05) | 19:28:16
+Selecting data for 2014/06 | (2014-06-06---2014-06-10) | 19:28:39
+Selecting data for 2014/06 | (2014-06-11---2014-06-15) | 19:29:01
+Selecting data for 2014/06 | (2014-06-16---2014-06-20) | 19:32:29
+Selecting data for 2014/06 | (2014-06-21---2014-06-25) | 19:38:23
+Selecting data for 2014/06 | (2014-06-26---2014-06-31) | 20:03:38
+Selecting data for 2014/07 | (2014-07-01---2014-07-05) | 20:17:20
+Selecting data for 2014/07 | (2014-07-06---2014-07-10) | 20:26:32
+Selecting data for 2014/07 | (2014-07-11---2014-07-15) | 20:39:53
+Selecting data for 2014/07 | (2014-07-16---2014-07-20) | 20:52:52
+Selecting data for 2014/07 | (2014-07-21---2014-07-25) | 21:12:13
+Selecting data for 2014/07 | (2014-07-26---2014-07-31) | 21:26:59
+Selecting data for 2014/08 | (2014-08-01---2014-08-05) | 21:38:30
+Selecting data for 2014/08 | (2014-08-06---2014-08-10) | 21:51:52
+Selecting data for 2014/08 | (2014-08-11---2014-08-15) | 22:09:28
+Selecting data for 2014/08 | (2014-08-16---2014-08-20) | 22:17:20
+Selecting data for 2014/08 | (2014-08-21---2014-08-25) | 22:27:13
+Selecting data for 2014/08 | (2014-08-26---2014-08-31) | 22:43:29
+Selecting data for 2014/09 | (2014-09-01---2014-09-05) | 22:58:52
+Selecting data for 2014/09 | (2014-09-06---2014-09-10) | 23:03:23
+Selecting data for 2014/09 | (2014-09-11---2014-09-15) | 23:14:53
+Selecting data for 2014/09 | (2014-09-16---2014-09-20) | 23:27:18
+Selecting data for 2014/09 | (2014-09-21---2014-09-25) | 23:37:05
+Selecting data for 2014/09 | (2014-09-26---2014-09-31) | 23:51:31
+Selecting data for 2014/10 | (2014-10-01---2014-10-05) | 00:01:34
+Selecting data for 2014/10 | (2014-10-06---2014-10-10) | 00:15:06
+Selecting data for 2014/10 | (2014-10-11---2014-10-15) | 00:20:16
+Selecting data for 2014/10 | (2014-10-16---2014-10-20) | 00:29:37
+Selecting data for 2014/10 | (2014-10-21---2014-10-25) | 00:43:19
+Selecting data for 2014/10 | (2014-10-26---2014-10-31) | 01:02:12
+Selecting data for 2014/11 | (2014-11-01---2014-11-05) | 01:07:15
+Selecting data for 2014/11 | (2014-11-06---2014-11-10) | 01:11:44
+Selecting data for 2014/11 | (2014-11-11---2014-11-15) | 01:18:34
+Selecting data for 2014/11 | (2014-11-16---2014-11-20) | 01:22:39
+Selecting data for 2014/11 | (2014-11-21---2014-11-25) | 01:29:28
+Selecting data for 2014/11 | (2014-11-26---2014-11-31) | 01:38:03
+Selecting data for 2014/12 | (2014-12-01---2014-12-05) | 01:48:32
+Selecting data for 2014/12 | (2014-12-06---2014-12-10) | 01:51:50
+Selecting data for 2014/12 | (2014-12-11---2014-12-15) | 02:02:22
+Selecting data for 2014/12 | (2014-12-16---2014-12-20) | 02:14:35
+Selecting data for 2014/12 | (2014-12-21---2014-12-25) | 02:19:21
+Selecting data for 2014/12 | (2014-12-26---2014-12-31) | 02:19:22
+>>> for year in range(2015,2025):
+...     for month in range(1, 13):
+... for year in range(2007,2015):^Z
+  File "<stdin>", line 3
+    for year in range(2007,2015):→
+IndentationError: expected an indented block after 'for' statement on line 2
+>>> conn.close()
+>>> conn = fynesse.access.create_connection(username, password, url, 'ads_2024')
+Connection established with ads_2024!
+>>> for year in range(2015,2025):
+...     for month in range(1, 13):
+...             download_join(conn, year, month)
+...
+Selecting data for 2015/01 | (2015-01-01---2015-01-05) | 13:17:49
+Selecting data for 2015/01 | (2015-01-06---2015-01-10) | 13:18:13
+Selecting data for 2015/01 | (2015-01-11---2015-01-15) | 13:18:21
+Selecting data for 2015/01 | (2015-01-16---2015-01-20) | 13:18:34
+Selecting data for 2015/01 | (2015-01-21---2015-01-25) | 13:18:48
+Selecting data for 2015/01 | (2015-01-26---2015-01-31) | 13:19:15
+Selecting data for 2015/02 | (2015-02-01---2015-02-05) | 13:19:24
+Selecting data for 2015/02 | (2015-02-06---2015-02-10) | 13:19:37
+Selecting data for 2015/02 | (2015-02-11---2015-02-15) | 13:19:50
+Selecting data for 2015/02 | (2015-02-16---2015-02-20) | 13:20:14
+Selecting data for 2015/02 | (2015-02-21---2015-02-25) | 13:20:22
+Selecting data for 2015/02 | (2015-02-26---2015-02-31) | 13:20:41
+Selecting data for 2015/03 | (2015-03-01---2015-03-05) | 13:20:52
+Selecting data for 2015/03 | (2015-03-06---2015-03-10) | 13:21:09
+Selecting data for 2015/03 | (2015-03-11---2015-03-15) | 13:21:22
+Selecting data for 2015/03 | (2015-03-16---2015-03-20) | 13:21:43
+Selecting data for 2015/03 | (2015-03-21---2015-03-25) | 13:21:50
+Selecting data for 2015/03 | (2015-03-26---2015-03-31) | 13:22:22
+Selecting data for 2015/04 | (2015-04-01---2015-04-05) | 13:22:36
+Selecting data for 2015/04 | (2015-04-06---2015-04-10) | 13:22:53
+Selecting data for 2015/04 | (2015-04-11---2015-04-15) | 13:22:59
+Selecting data for 2015/04 | (2015-04-16---2015-04-20) | 13:23:17
+Selecting data for 2015/04 | (2015-04-21---2015-04-25) | 13:23:35
+Selecting data for 2015/04 | (2015-04-26---2015-04-31) | 13:23:53
+Selecting data for 2015/05 | (2015-05-01---2015-05-05) | 13:24:10
+Selecting data for 2015/05 | (2015-05-06---2015-05-10) | 13:24:27
+Selecting data for 2015/05 | (2015-05-11---2015-05-15) | 13:24:48
+Selecting data for 2015/05 | (2015-05-16---2015-05-20) | 13:24:56
+Selecting data for 2015/05 | (2015-05-21---2015-05-25) | 13:25:17
+Selecting data for 2015/05 | (2015-05-26---2015-05-31) | 13:25:48
+Selecting data for 2015/06 | (2015-06-01---2015-06-05) | 13:26:17
+Selecting data for 2015/06 | (2015-06-06---2015-06-10) | 13:26:25
+Selecting data for 2015/06 | (2015-06-11---2015-06-15) | 13:26:43
+Selecting data for 2015/06 | (2015-06-16---2015-06-20) | 13:27:07
+Selecting data for 2015/06 | (2015-06-21---2015-06-25) | 13:27:21
+Selecting data for 2015/06 | (2015-06-26---2015-06-31) | 13:27:51
+Selecting data for 2015/07 | (2015-07-01---2015-07-05) | 13:28:13
+Selecting data for 2015/07 | (2015-07-06---2015-07-10) | 13:28:38
+Selecting data for 2015/07 | (2015-07-11---2015-07-15) | 13:28:49
+Selecting data for 2015/07 | (2015-07-16---2015-07-20) | 13:29:11
+Selecting data for 2015/07 | (2015-07-21---2015-07-25) | 13:29:35
+Selecting data for 2015/07 | (2015-07-26---2015-07-31) | 13:30:16
+Selecting data for 2015/08 | (2015-08-01---2015-08-05) | 13:30:27
+Selecting data for 2015/08 | (2015-08-06---2015-08-10) | 13:30:51
+Selecting data for 2015/08 | (2015-08-11---2015-08-15) | 13:31:19
+Selecting data for 2015/08 | (2015-08-16---2015-08-20) | 13:31:36
+Selecting data for 2015/08 | (2015-08-21---2015-08-25) | 13:31:58
+Selecting data for 2015/08 | (2015-08-26---2015-08-31) | 13:32:32
+Selecting data for 2015/09 | (2015-09-01---2015-09-05) | 13:32:56
+Selecting data for 2015/09 | (2015-09-06---2015-09-10) | 13:33:12
+Selecting data for 2015/09 | (2015-09-11---2015-09-15) | 13:33:30
+Selecting data for 2015/09 | (2015-09-16---2015-09-20) | 13:33:48
+Selecting data for 2015/09 | (2015-09-21---2015-09-25) | 13:34:13
+Selecting data for 2015/09 | (2015-09-26---2015-09-31) | 13:34:23
+Selecting data for 2015/10 | (2015-10-01---2015-10-05) | 13:34:34
+Selecting data for 2015/10 | (2015-10-06---2015-10-10) | 13:34:45
+Selecting data for 2015/10 | (2015-10-11---2015-10-15) | 13:34:52
+Selecting data for 2015/10 | (2015-10-16---2015-10-20) | 13:35:08
+Selecting data for 2015/10 | (2015-10-21---2015-10-25) | 13:35:22
+Selecting data for 2015/10 | (2015-10-26---2015-10-31) | 13:35:47
+Selecting data for 2015/11 | (2015-11-01---2015-11-05) | 13:35:54
+Selecting data for 2015/11 | (2015-11-06---2015-11-10) | 13:36:07
+Selecting data for 2015/11 | (2015-11-11---2015-11-15) | 13:36:17
+Selecting data for 2015/11 | (2015-11-16---2015-11-20) | 13:36:30
+Selecting data for 2015/11 | (2015-11-21---2015-11-25) | 13:36:35
+Selecting data for 2015/11 | (2015-11-26---2015-11-31) | 13:36:50
+Selecting data for 2015/12 | (2015-12-01---2015-12-05) | 13:37:01
+Selecting data for 2015/12 | (2015-12-06---2015-12-10) | 13:37:11
+Selecting data for 2015/12 | (2015-12-11---2015-12-15) | 13:37:21
+Selecting data for 2015/12 | (2015-12-16---2015-12-20) | 13:37:34
+Selecting data for 2015/12 | (2015-12-21---2015-12-25) | 13:37:41
+Selecting data for 2015/12 | (2015-12-26---2015-12-31) | 13:37:41
+Selecting data for 2016/01 | (2016-01-01---2016-01-05) | 13:37:46
+Selecting data for 2016/01 | (2016-01-06---2016-01-10) | 13:37:55
+Selecting data for 2016/01 | (2016-01-11---2016-01-15) | 13:38:11
+Selecting data for 2016/01 | (2016-01-16---2016-01-20) | 13:38:15
+Selecting data for 2016/01 | (2016-01-21---2016-01-25) | 13:38:24
+Selecting data for 2016/01 | (2016-01-26---2016-01-31) | 13:38:39
+Selecting data for 2016/02 | (2016-02-01---2016-02-05) | 13:38:52
+Selecting data for 2016/02 | (2016-02-06---2016-02-10) | 13:38:56
+Selecting data for 2016/02 | (2016-02-11---2016-02-15) | 13:39:11
+Selecting data for 2016/02 | (2016-02-16---2016-02-20) | 13:39:22
+Selecting data for 2016/02 | (2016-02-21---2016-02-25) | 13:39:30
+Selecting data for 2016/02 | (2016-02-26---2016-02-31) | 13:39:43
+Selecting data for 2016/03 | (2016-03-01---2016-03-05) | 13:39:55
+Selecting data for 2016/03 | (2016-03-06---2016-03-10) | 13:40:03
+Selecting data for 2016/03 | (2016-03-11---2016-03-15) | 13:40:21
+Selecting data for 2016/03 | (2016-03-16---2016-03-20) | 13:40:39
+Selecting data for 2016/03 | (2016-03-21---2016-03-25) | 13:41:15
+Selecting data for 2016/03 | (2016-03-26---2016-03-31) | 13:41:59
+Selecting data for 2016/04 | (2016-04-01---2016-04-05) | 13:42:10
+Selecting data for 2016/04 | (2016-04-06---2016-04-10) | 13:42:17
+Selecting data for 2016/04 | (2016-04-11---2016-04-15) | 13:42:27
+Selecting data for 2016/04 | (2016-04-16---2016-04-20) | 13:42:31
+Selecting data for 2016/04 | (2016-04-21---2016-04-25) | 13:42:39
+Selecting data for 2016/04 | (2016-04-26---2016-04-31) | 13:42:53
+Selecting data for 2016/05 | (2016-05-01---2016-05-05) | 13:42:58
+Selecting data for 2016/05 | (2016-05-06---2016-05-10) | 13:43:08
+Selecting data for 2016/05 | (2016-05-11---2016-05-15) | 13:43:15
+Selecting data for 2016/05 | (2016-05-16---2016-05-20) | 13:43:27
+Selecting data for 2016/05 | (2016-05-21---2016-05-25) | 13:43:32
+Selecting data for 2016/05 | (2016-05-26---2016-05-31) | 13:43:47
+Selecting data for 2016/06 | (2016-06-01---2016-06-05) | 13:43:57
+Selecting data for 2016/06 | (2016-06-06---2016-06-10) | 13:44:13
+Selecting data for 2016/06 | (2016-06-11---2016-06-15) | 13:44:18
+Selecting data for 2016/06 | (2016-06-16---2016-06-20) | 13:44:28
+Selecting data for 2016/06 | (2016-06-21---2016-06-25) | 13:44:43
+Selecting data for 2016/06 | (2016-06-26---2016-06-31) | 13:44:58
+Selecting data for 2016/07 | (2016-07-01---2016-07-05) | 13:45:15
+Selecting data for 2016/07 | (2016-07-06---2016-07-10) | 13:45:25
+Selecting data for 2016/07 | (2016-07-11---2016-07-15) | 13:45:41
+Selecting data for 2016/07 | (2016-07-16---2016-07-20) | 13:45:47
+Selecting data for 2016/07 | (2016-07-21---2016-07-25) | 13:46:00
+Selecting data for 2016/07 | (2016-07-26---2016-07-31) | 13:46:21
+Selecting data for 2016/08 | (2016-08-01---2016-08-05) | 13:46:37
+Selecting data for 2016/08 | (2016-08-06---2016-08-10) | 13:46:43
+Selecting data for 2016/08 | (2016-08-11---2016-08-15) | 13:46:56
+Selecting data for 2016/08 | (2016-08-16---2016-08-20) | 13:47:14
+Selecting data for 2016/08 | (2016-08-21---2016-08-25) | 13:47:24
+Selecting data for 2016/08 | (2016-08-26---2016-08-31) | 13:47:41
+Selecting data for 2016/09 | (2016-09-01---2016-09-05) | 13:47:51
+Selecting data for 2016/09 | (2016-09-06---2016-09-10) | 13:48:02
+Selecting data for 2016/09 | (2016-09-11---2016-09-15) | 13:48:13
+Selecting data for 2016/09 | (2016-09-16---2016-09-20) | 13:48:23
+Selecting data for 2016/09 | (2016-09-21---2016-09-25) | 13:48:35
+Selecting data for 2016/09 | (2016-09-26---2016-09-31) | 13:48:56
+Selecting data for 2016/10 | (2016-10-01---2016-10-05) | 13:49:01
+Selecting data for 2016/10 | (2016-10-06---2016-10-10) | 13:49:15
+Selecting data for 2016/10 | (2016-10-11---2016-10-15) | 13:49:26
+Selecting data for 2016/10 | (2016-10-16---2016-10-20) | 13:49:33
+Selecting data for 2016/10 | (2016-10-21---2016-10-25) | 13:49:44
+Selecting data for 2016/10 | (2016-10-26---2016-10-31) | 13:49:59
+Selecting data for 2016/11 | (2016-11-01---2016-11-05) | 13:50:15
+Selecting data for 2016/11 | (2016-11-06---2016-11-10) | 13:50:21
+Selecting data for 2016/11 | (2016-11-11---2016-11-15) | 13:50:35
+Selecting data for 2016/11 | (2016-11-16---2016-11-20) | 13:50:45
+Selecting data for 2016/11 | (2016-11-21---2016-11-25) | 13:51:02
+Selecting data for 2016/11 | (2016-11-26---2016-11-31) | 13:51:13
+Selecting data for 2016/12 | (2016-12-01---2016-12-05) | 13:51:23
+Selecting data for 2016/12 | (2016-12-06---2016-12-10) | 13:51:33
+Selecting data for 2016/12 | (2016-12-11---2016-12-15) | 13:51:41
+Selecting data for 2016/12 | (2016-12-16---2016-12-20) | 13:51:54
+Selecting data for 2016/12 | (2016-12-21---2016-12-25) | 13:52:01
+Selecting data for 2016/12 | (2016-12-26---2016-12-31) | 13:52:02
+Selecting data for 2017/01 | (2017-01-01---2017-01-05) | 13:52:12
+Selecting data for 2017/01 | (2017-01-06---2017-01-10) | 13:52:22
+Selecting data for 2017/01 | (2017-01-11---2017-01-15) | 13:52:29
+Selecting data for 2017/01 | (2017-01-16---2017-01-20) | 13:52:42
+Selecting data for 2017/01 | (2017-01-21---2017-01-25) | 13:52:46
+Selecting data for 2017/01 | (2017-01-26---2017-01-31) | 13:53:01
+Selecting data for 2017/02 | (2017-02-01---2017-02-05) | 13:53:14
+Selecting data for 2017/02 | (2017-02-06---2017-02-10) | 13:53:27
+Selecting data for 2017/02 | (2017-02-11---2017-02-15) | 13:53:33
+Selecting data for 2017/02 | (2017-02-16---2017-02-20) | 13:53:43
+Selecting data for 2017/02 | (2017-02-21---2017-02-25) | 13:53:56
+Selecting data for 2017/02 | (2017-02-26---2017-02-31) | 13:54:02
+Selecting data for 2017/03 | (2017-03-01---2017-03-05) | 13:54:15
+Selecting data for 2017/03 | (2017-03-06---2017-03-10) | 13:54:27
+Selecting data for 2017/03 | (2017-03-11---2017-03-15) | 13:54:31
+Selecting data for 2017/03 | (2017-03-16---2017-03-20) | 13:54:41
+Selecting data for 2017/03 | (2017-03-21---2017-03-25) | 13:54:54
+Selecting data for 2017/03 | (2017-03-26---2017-03-31) | 13:55:21
+Selecting data for 2017/04 | (2017-04-01---2017-04-05) | 13:55:32
+Selecting data for 2017/04 | (2017-04-06---2017-04-10) | 13:55:44
+Selecting data for 2017/04 | (2017-04-11---2017-04-15) | 13:55:56
+Selecting data for 2017/04 | (2017-04-16---2017-04-20) | 13:56:02
+Selecting data for 2017/04 | (2017-04-21---2017-04-25) | 13:56:15
+Selecting data for 2017/04 | (2017-04-26---2017-04-31) | 13:56:31
+Selecting data for 2017/05 | (2017-05-01---2017-05-05) | 13:56:43
+Selecting data for 2017/05 | (2017-05-06---2017-05-10) | 13:56:48
+Selecting data for 2017/05 | (2017-05-11---2017-05-15) | 13:56:59
+Selecting data for 2017/05 | (2017-05-16---2017-05-20) | 13:57:16
+Selecting data for 2017/05 | (2017-05-21---2017-05-25) | 13:57:25
+Selecting data for 2017/05 | (2017-05-26---2017-05-31) | 13:57:43
+Selecting data for 2017/06 | (2017-06-01---2017-06-05) | 13:57:54
+Selecting data for 2017/06 | (2017-06-06---2017-06-10) | 13:58:10
+Selecting data for 2017/06 | (2017-06-11---2017-06-15) | 13:58:18
+Selecting data for 2017/06 | (2017-06-16---2017-06-20) | 13:58:30
+Selecting data for 2017/06 | (2017-06-21---2017-06-25) | 13:58:44
+Selecting data for 2017/06 | (2017-06-26---2017-06-31) | 13:59:14
+Selecting data for 2017/07 | (2017-07-01---2017-07-05) | 13:59:21
+Selecting data for 2017/07 | (2017-07-06---2017-07-10) | 13:59:33
+Selecting data for 2017/07 | (2017-07-11---2017-07-15) | 13:59:47
+Selecting data for 2017/07 | (2017-07-16---2017-07-20) | 13:59:56
+Selecting data for 2017/07 | (2017-07-21---2017-07-25) | 14:00:16
+Selecting data for 2017/07 | (2017-07-26---2017-07-31) | 14:00:42
+Selecting data for 2017/08 | (2017-08-01---2017-08-05) | 14:00:59
+Selecting data for 2017/08 | (2017-08-06---2017-08-10) | 14:01:12
+Selecting data for 2017/08 | (2017-08-11---2017-08-15) | 14:01:25
+Selecting data for 2017/08 | (2017-08-16---2017-08-20) | 14:01:38
+Selecting data for 2017/08 | (2017-08-21---2017-08-25) | 14:02:00
+Selecting data for 2017/08 | (2017-08-26---2017-08-31) | 14:02:16
+Selecting data for 2017/09 | (2017-09-01---2017-09-05) | 14:02:28
+Selecting data for 2017/09 | (2017-09-06---2017-09-10) | 14:02:39
+Selecting data for 2017/09 | (2017-09-11---2017-09-15) | 14:02:55
+Selecting data for 2017/09 | (2017-09-16---2017-09-20) | 14:03:01
+Selecting data for 2017/09 | (2017-09-21---2017-09-25) | 14:03:19
+Selecting data for 2017/09 | (2017-09-26---2017-09-31) | 14:03:39
+Selecting data for 2017/10 | (2017-10-01---2017-10-05) | 14:03:47
+Selecting data for 2017/10 | (2017-10-06---2017-10-10) | 14:03:58
+Selecting data for 2017/10 | (2017-10-11---2017-10-15) | 14:04:13
+Selecting data for 2017/10 | (2017-10-16---2017-10-20) | 14:04:30
+Selecting data for 2017/10 | (2017-10-21---2017-10-25) | 14:04:37
+Selecting data for 2017/10 | (2017-10-26---2017-10-31) | 14:04:55
+Selecting data for 2017/11 | (2017-11-01---2017-11-05) | 14:05:09
+Selecting data for 2017/11 | (2017-11-06---2017-11-10) | 14:05:27
+Selecting data for 2017/11 | (2017-11-11---2017-11-15) | 14:05:34
+Selecting data for 2017/11 | (2017-11-16---2017-11-20) | 14:05:46
+Selecting data for 2017/11 | (2017-11-21---2017-11-25) | 14:06:00
+Selecting data for 2017/11 | (2017-11-26---2017-11-31) | 14:06:16
+Selecting data for 2017/12 | (2017-12-01---2017-12-05) | 14:06:25
+Selecting data for 2017/12 | (2017-12-06---2017-12-10) | 14:06:35
+Selecting data for 2017/12 | (2017-12-11---2017-12-15) | 14:06:50
+Selecting data for 2017/12 | (2017-12-16---2017-12-20) | 14:07:00
+Selecting data for 2017/12 | (2017-12-21---2017-12-25) | 14:07:08
+Selecting data for 2017/12 | (2017-12-26---2017-12-31) | 14:07:09
+Selecting data for 2018/01 | (2018-01-01---2018-01-05) | 14:07:20
+Selecting data for 2018/01 | (2018-01-06---2018-01-10) | 14:07:25
+Selecting data for 2018/01 | (2018-01-11---2018-01-15) | 14:07:33
+Selecting data for 2018/01 | (2018-01-16---2018-01-20) | 14:07:43
+Selecting data for 2018/01 | (2018-01-21---2018-01-25) | 14:07:49
+Selecting data for 2018/01 | (2018-01-26---2018-01-31) | 14:08:07
+Selecting data for 2018/02 | (2018-02-01---2018-02-05) | 14:08:17
+Selecting data for 2018/02 | (2018-02-06---2018-02-10) | 14:08:26
+Selecting data for 2018/02 | (2018-02-11---2018-02-15) | 14:08:32
+Selecting data for 2018/02 | (2018-02-16---2018-02-20) | 14:08:42
+Selecting data for 2018/02 | (2018-02-21---2018-02-25) | 14:08:52
+Selecting data for 2018/02 | (2018-02-26---2018-02-31) | 14:09:01
+Selecting data for 2018/03 | (2018-03-01---2018-03-05) | 14:09:13
+Selecting data for 2018/03 | (2018-03-06---2018-03-10) | 14:09:22
+Selecting data for 2018/03 | (2018-03-11---2018-03-15) | 14:09:28
+Selecting data for 2018/03 | (2018-03-16---2018-03-20) | 14:09:38
+Selecting data for 2018/03 | (2018-03-21---2018-03-25) | 14:09:49
+Selecting data for 2018/03 | (2018-03-26---2018-03-31) | 14:10:16
+Selecting data for 2018/04 | (2018-04-01---2018-04-05) | 14:10:22
+Selecting data for 2018/04 | (2018-04-06---2018-04-10) | 14:10:34
+Selecting data for 2018/04 | (2018-04-11---2018-04-15) | 14:10:44
+Selecting data for 2018/04 | (2018-04-16---2018-04-20) | 14:10:59
+Selecting data for 2018/04 | (2018-04-21---2018-04-25) | 14:11:08
+Selecting data for 2018/04 | (2018-04-26---2018-04-31) | 14:11:24
+Selecting data for 2018/05 | (2018-05-01---2018-05-05) | 14:11:38
+Selecting data for 2018/05 | (2018-05-06---2018-05-10) | 14:11:43
+Selecting data for 2018/05 | (2018-05-11---2018-05-15) | 14:11:52
+Selecting data for 2018/05 | (2018-05-16---2018-05-20) | 14:12:03
+Selecting data for 2018/05 | (2018-05-21---2018-05-25) | 14:12:23
+Selecting data for 2018/05 | (2018-05-26---2018-05-31) | 14:12:34
+Selecting data for 2018/06 | (2018-06-01---2018-06-05) | 14:12:43
+Selecting data for 2018/06 | (2018-06-06---2018-06-10) | 14:12:53
+Selecting data for 2018/06 | (2018-06-11---2018-06-15) | 14:13:12
+Selecting data for 2018/06 | (2018-06-16---2018-06-20) | 14:13:18
+Selecting data for 2018/06 | (2018-06-21---2018-06-25) | 14:13:31
+Selecting data for 2018/06 | (2018-06-26---2018-06-31) | 14:13:53
+Selecting data for 2018/07 | (2018-07-01---2018-07-05) | 14:14:02
+Selecting data for 2018/07 | (2018-07-06---2018-07-10) | 14:14:16
+Selecting data for 2018/07 | (2018-07-11---2018-07-15) | 14:14:27
+Selecting data for 2018/07 | (2018-07-16---2018-07-20) | 14:14:45
+Selecting data for 2018/07 | (2018-07-21---2018-07-25) | 14:14:52
+Selecting data for 2018/07 | (2018-07-26---2018-07-31) | 14:15:17
+Selecting data for 2018/08 | (2018-08-01---2018-08-05) | 14:15:31
+Selecting data for 2018/08 | (2018-08-06---2018-08-10) | 14:15:49
+Selecting data for 2018/08 | (2018-08-11---2018-08-15) | 14:15:55
+Selecting data for 2018/08 | (2018-08-16---2018-08-20) | 14:16:12
+Selecting data for 2018/08 | (2018-08-21---2018-08-25) | 14:16:29
+Selecting data for 2018/08 | (2018-08-26---2018-08-31) | 14:16:49
+Selecting data for 2018/09 | (2018-09-01---2018-09-05) | 14:16:55
+Selecting data for 2018/09 | (2018-09-06---2018-09-10) | 14:17:11
+Selecting data for 2018/09 | (2018-09-11---2018-09-15) | 14:17:24
+Selecting data for 2018/09 | (2018-09-16---2018-09-20) | 14:17:32
+Selecting data for 2018/09 | (2018-09-21---2018-09-25) | 14:17:45
+Selecting data for 2018/09 | (2018-09-26---2018-09-31) | 14:18:02
+Selecting data for 2018/10 | (2018-10-01---2018-10-05) | 14:18:19
+Selecting data for 2018/10 | (2018-10-06---2018-10-10) | 14:18:24
+Selecting data for 2018/10 | (2018-10-11---2018-10-15) | 14:18:36
+Selecting data for 2018/10 | (2018-10-16---2018-10-20) | 14:18:50
+Selecting data for 2018/10 | (2018-10-21---2018-10-25) | 14:18:59
+Selecting data for 2018/10 | (2018-10-26---2018-10-31) | 14:19:19
+Selecting data for 2018/11 | (2018-11-01---2018-11-05) | 14:19:29
+Selecting data for 2018/11 | (2018-11-06---2018-11-10) | 14:19:40
+Selecting data for 2018/11 | (2018-11-11---2018-11-15) | 14:19:47
+Selecting data for 2018/11 | (2018-11-16---2018-11-20) | 14:19:57
+Selecting data for 2018/11 | (2018-11-21---2018-11-25) | 14:20:14
+Selecting data for 2018/11 | (2018-11-26---2018-11-31) | 14:20:37
+Selecting data for 2018/12 | (2018-12-01---2018-12-05) | 14:20:44
+Selecting data for 2018/12 | (2018-12-06---2018-12-10) | 14:20:55
+Selecting data for 2018/12 | (2018-12-11---2018-12-15) | 14:21:13
+Selecting data for 2018/12 | (2018-12-16---2018-12-20) | 14:21:27
+Selecting data for 2018/12 | (2018-12-21---2018-12-25) | 14:21:29
+Selecting data for 2018/12 | (2018-12-26---2018-12-31) | 14:21:29
+Selecting data for 2019/01 | (2019-01-01---2019-01-05) | 14:21:38
+Selecting data for 2019/01 | (2019-01-06---2019-01-10) | 14:21:44
+Selecting data for 2019/01 | (2019-01-11---2019-01-15) | 14:21:52
+Selecting data for 2019/01 | (2019-01-16---2019-01-20) | 14:22:00
+Selecting data for 2019/01 | (2019-01-21---2019-01-25) | 14:22:17
+Selecting data for 2019/01 | (2019-01-26---2019-01-31) | 14:22:26
+Selecting data for 2019/02 | (2019-02-01---2019-02-05) | 14:22:35
+Selecting data for 2019/02 | (2019-02-06---2019-02-10) | 14:22:43
+Selecting data for 2019/02 | (2019-02-11---2019-02-15) | 14:22:56
+Selecting data for 2019/02 | (2019-02-16---2019-02-20) | 14:23:01
+Selecting data for 2019/02 | (2019-02-21---2019-02-25) | 14:23:15
+Selecting data for 2019/02 | (2019-02-26---2019-02-31) | 14:23:23
+Selecting data for 2019/03 | (2019-03-01---2019-03-05) | 14:23:31
+Selecting data for 2019/03 | (2019-03-06---2019-03-10) | 14:23:40
+Selecting data for 2019/03 | (2019-03-11---2019-03-15) | 14:23:52
+Selecting data for 2019/03 | (2019-03-16---2019-03-20) | 14:23:57
+Selecting data for 2019/03 | (2019-03-21---2019-03-25) | 14:24:10
+Selecting data for 2019/03 | (2019-03-26---2019-03-31) | 14:24:29
+Selecting data for 2019/04 | (2019-04-01---2019-04-05) | 14:24:42
+Selecting data for 2019/04 | (2019-04-06---2019-04-10) | 14:24:47
+Selecting data for 2019/04 | (2019-04-11---2019-04-15) | 14:24:57
+Selecting data for 2019/04 | (2019-04-16---2019-04-20) | 14:25:12
+Selecting data for 2019/04 | (2019-04-21---2019-04-25) | 14:25:18
+Selecting data for 2019/04 | (2019-04-26---2019-04-31) | 14:25:33
+Selecting data for 2019/05 | (2019-05-01---2019-05-05) | 14:25:43
+Selecting data for 2019/05 | (2019-05-06---2019-05-10) | 14:25:53
+Selecting data for 2019/05 | (2019-05-11---2019-05-15) | 14:25:57
+Selecting data for 2019/05 | (2019-05-16---2019-05-20) | 14:26:10
+Selecting data for 2019/05 | (2019-05-21---2019-05-25) | 14:26:23
+Selecting data for 2019/05 | (2019-05-26---2019-05-31) | 14:26:40
+Selecting data for 2019/06 | (2019-06-01---2019-06-05) | 14:26:45
+Selecting data for 2019/06 | (2019-06-06---2019-06-10) | 14:26:55
+Selecting data for 2019/06 | (2019-06-11---2019-06-15) | 14:27:11
+Selecting data for 2019/06 | (2019-06-16---2019-06-20) | 14:27:18
+Selecting data for 2019/06 | (2019-06-21---2019-06-25) | 14:27:30
+Selecting data for 2019/06 | (2019-06-26---2019-06-31) | 14:27:49
+Selecting data for 2019/07 | (2019-07-01---2019-07-05) | 14:28:08
+Selecting data for 2019/07 | (2019-07-06---2019-07-10) | 14:28:14
+Selecting data for 2019/07 | (2019-07-11---2019-07-15) | 14:28:26
+Selecting data for 2019/07 | (2019-07-16---2019-07-20) | 14:28:39
+Selecting data for 2019/07 | (2019-07-21---2019-07-25) | 14:28:49
+Selecting data for 2019/07 | (2019-07-26---2019-07-31) | 14:29:10
+Selecting data for 2019/08 | (2019-08-01---2019-08-05) | 14:29:24
+Selecting data for 2019/08 | (2019-08-06---2019-08-10) | 14:29:37
+Selecting data for 2019/08 | (2019-08-11---2019-08-15) | 14:29:45
+Selecting data for 2019/08 | (2019-08-16---2019-08-20) | 14:29:57
+Selecting data for 2019/08 | (2019-08-21---2019-08-25) | 14:30:18
+Selecting data for 2019/08 | (2019-08-26---2019-08-31) | 14:30:40
+Selecting data for 2019/09 | (2019-09-01---2019-09-05) | 14:30:48
+Selecting data for 2019/09 | (2019-09-06---2019-09-10) | 14:31:00
+Selecting data for 2019/09 | (2019-09-11---2019-09-15) | 14:31:13
+Selecting data for 2019/09 | (2019-09-16---2019-09-20) | 14:31:28
+Selecting data for 2019/09 | (2019-09-21---2019-09-25) | 14:31:34
+Selecting data for 2019/09 | (2019-09-26---2019-09-31) | 14:31:51
+Selecting data for 2019/10 | (2019-10-01---2019-10-05) | 14:32:03
+Selecting data for 2019/10 | (2019-10-06---2019-10-10) | 14:32:13
+Selecting data for 2019/10 | (2019-10-11---2019-10-15) | 14:32:23
+Selecting data for 2019/10 | (2019-10-16---2019-10-20) | 14:32:35
+Selecting data for 2019/10 | (2019-10-21---2019-10-25) | 14:32:51
+Selecting data for 2019/10 | (2019-10-26---2019-10-31) | 14:33:03
+Selecting data for 2019/11 | (2019-11-01---2019-11-05) | 14:33:15
+Selecting data for 2019/11 | (2019-11-06---2019-11-10) | 14:33:24
+Selecting data for 2019/11 | (2019-11-11---2019-11-15) | 14:33:37
+Selecting data for 2019/11 | (2019-11-16---2019-11-20) | 14:33:42
+Selecting data for 2019/11 | (2019-11-21---2019-11-25) | 14:33:53
+Selecting data for 2019/11 | (2019-11-26---2019-11-31) | 14:34:11
+Selecting data for 2019/12 | (2019-12-01---2019-12-05) | 14:34:18
+Selecting data for 2019/12 | (2019-12-06---2019-12-10) | 14:34:27
+Selecting data for 2019/12 | (2019-12-11---2019-12-15) | 14:34:36
+Selecting data for 2019/12 | (2019-12-16---2019-12-20) | 14:34:52
+Selecting data for 2019/12 | (2019-12-21---2019-12-25) | 14:34:53
+Selecting data for 2019/12 | (2019-12-26---2019-12-31) | 14:34:53
+Selecting data for 2020/01 | (2020-01-01---2020-01-05) | 14:34:58
+Selecting data for 2020/01 | (2020-01-06---2020-01-10) | 14:35:17
+Selecting data for 2020/01 | (2020-01-11---2020-01-15) | 14:35:21
+Selecting data for 2020/01 | (2020-01-16---2020-01-20) | 14:35:29
+Selecting data for 2020/01 | (2020-01-21---2020-01-25) | 14:35:41
+Selecting data for 2020/01 | (2020-01-26---2020-01-31) | 14:35:58
+Selecting data for 2020/02 | (2020-02-01---2020-02-05) | 14:36:03
+Selecting data for 2020/02 | (2020-02-06---2020-02-10) | 14:36:15
+Selecting data for 2020/02 | (2020-02-11---2020-02-15) | 14:36:25
+Selecting data for 2020/02 | (2020-02-16---2020-02-20) | 14:36:33
+Selecting data for 2020/02 | (2020-02-21---2020-02-25) | 14:36:42
+Selecting data for 2020/02 | (2020-02-26---2020-02-31) | 14:36:58
+Selecting data for 2020/03 | (2020-03-01---2020-03-05) | 14:37:08
+Selecting data for 2020/03 | (2020-03-06---2020-03-10) | 14:37:17
+Selecting data for 2020/03 | (2020-03-11---2020-03-15) | 14:37:26
+Selecting data for 2020/03 | (2020-03-16---2020-03-20) | 14:37:40
+Selecting data for 2020/03 | (2020-03-21---2020-03-25) | 14:37:45
+Selecting data for 2020/03 | (2020-03-26---2020-03-31) | 14:38:00
+Selecting data for 2020/04 | (2020-04-01---2020-04-05) | 14:38:09
+Selecting data for 2020/04 | (2020-04-06---2020-04-10) | 14:38:15
+Selecting data for 2020/04 | (2020-04-11---2020-04-15) | 14:38:17
+Selecting data for 2020/04 | (2020-04-16---2020-04-20) | 14:38:21
+Selecting data for 2020/04 | (2020-04-21---2020-04-25) | 14:38:25
+Selecting data for 2020/04 | (2020-04-26---2020-04-31) | 14:38:30
+Selecting data for 2020/05 | (2020-05-01---2020-05-05) | 14:38:34
+Selecting data for 2020/05 | (2020-05-06---2020-05-10) | 14:38:37
+Selecting data for 2020/05 | (2020-05-11---2020-05-15) | 14:38:43
+Selecting data for 2020/05 | (2020-05-16---2020-05-20) | 14:38:46
+Selecting data for 2020/05 | (2020-05-21---2020-05-25) | 14:38:51
+Selecting data for 2020/05 | (2020-05-26---2020-05-31) | 14:39:01
+Selecting data for 2020/06 | (2020-06-01---2020-06-05) | 14:39:14
+Selecting data for 2020/06 | (2020-06-06---2020-06-10) | 14:39:17
+Selecting data for 2020/06 | (2020-06-11---2020-06-15) | 14:39:25
+Selecting data for 2020/06 | (2020-06-16---2020-06-20) | 14:39:33
+Selecting data for 2020/06 | (2020-06-21---2020-06-25) | 14:39:39
+Selecting data for 2020/06 | (2020-06-26---2020-06-31) | 14:39:50
+Selecting data for 2020/07 | (2020-07-01---2020-07-05) | 14:40:00
+Selecting data for 2020/07 | (2020-07-06---2020-07-10) | 14:40:14
+Selecting data for 2020/07 | (2020-07-11---2020-07-15) | 14:40:18
+Selecting data for 2020/07 | (2020-07-16---2020-07-20) | 14:40:28
+Selecting data for 2020/07 | (2020-07-21---2020-07-25) | 14:40:41
+Selecting data for 2020/07 | (2020-07-26---2020-07-31) | 14:40:59
+Selecting data for 2020/08 | (2020-08-01---2020-08-05) | 14:41:07
+Selecting data for 2020/08 | (2020-08-06---2020-08-10) | 14:41:17
+Selecting data for 2020/08 | (2020-08-11---2020-08-15) | 14:41:28
+Selecting data for 2020/08 | (2020-08-16---2020-08-20) | 14:41:35
+Selecting data for 2020/08 | (2020-08-21---2020-08-25) | 14:41:46
+Selecting data for 2020/08 | (2020-08-26---2020-08-31) | 14:42:01
+Selecting data for 2020/09 | (2020-09-01---2020-09-05) | 14:42:16
+Selecting data for 2020/09 | (2020-09-06---2020-09-10) | 14:42:23
+Selecting data for 2020/09 | (2020-09-11---2020-09-15) | 14:42:32
+Selecting data for 2020/09 | (2020-09-16---2020-09-20) | 14:42:44
+Selecting data for 2020/09 | (2020-09-21---2020-09-25) | 14:43:03
+Selecting data for 2020/09 | (2020-09-26---2020-09-31) | 14:43:17
+Selecting data for 2020/10 | (2020-10-01---2020-10-05) | 14:43:28
+Selecting data for 2020/10 | (2020-10-06---2020-10-10) | 14:43:42
+Selecting data for 2020/10 | (2020-10-11---2020-10-15) | 14:43:51
+Selecting data for 2020/10 | (2020-10-16---2020-10-20) | 14:44:08
+Selecting data for 2020/10 | (2020-10-21---2020-10-25) | 14:44:23
+Selecting data for 2020/10 | (2020-10-26---2020-10-31) | 14:44:48
+Selecting data for 2020/11 | (2020-11-01---2020-11-05) | 14:44:58
+Selecting data for 2020/11 | (2020-11-06---2020-11-10) | 14:45:18
+Selecting data for 2020/11 | (2020-11-11---2020-11-15) | 14:45:34
+Selecting data for 2020/11 | (2020-11-16---2020-11-20) | 14:45:55
+Selecting data for 2020/11 | (2020-11-21---2020-11-25) | 14:46:04
+Selecting data for 2020/11 | (2020-11-26---2020-11-31) | 14:46:27
+Selecting data for 2020/12 | (2020-12-01---2020-12-05) | 14:46:46
+Selecting data for 2020/12 | (2020-12-06---2020-12-10) | 14:46:59
+Selecting data for 2020/12 | (2020-12-11---2020-12-15) | 14:47:22
+Selecting data for 2020/12 | (2020-12-16---2020-12-20) | 14:47:47
+Selecting data for 2020/12 | (2020-12-21---2020-12-25) | 14:47:56
+Selecting data for 2020/12 | (2020-12-26---2020-12-31) | 14:47:57
+Selecting data for 2021/01 | (2021-01-01---2021-01-05) | 14:48:04
+Selecting data for 2021/01 | (2021-01-06---2021-01-10) | 14:48:22
+Selecting data for 2021/01 | (2021-01-11---2021-01-15) | 14:48:42
+Selecting data for 2021/01 | (2021-01-16---2021-01-20) | 14:48:50
+Selecting data for 2021/01 | (2021-01-21---2021-01-25) | 14:49:11
+Selecting data for 2021/01 | (2021-01-26---2021-01-31) | 14:49:38
+Selecting data for 2021/02 | (2021-02-01---2021-02-05) | 14:50:03
+Selecting data for 2021/02 | (2021-02-06---2021-02-10) | 14:50:17
+Selecting data for 2021/02 | (2021-02-11---2021-02-15) | 14:50:41
+Selecting data for 2021/02 | (2021-02-16---2021-02-20) | 14:51:12
+Selecting data for 2021/02 | (2021-02-21---2021-02-25) | 14:51:32
+Selecting data for 2021/02 | (2021-02-26---2021-02-31) | 14:51:53
+Selecting data for 2021/03 | (2021-03-01---2021-03-05) | 14:52:32
+Selecting data for 2021/03 | (2021-03-06---2021-03-10) | 14:52:45
+Selecting data for 2021/03 | (2021-03-11---2021-03-15) | 14:53:16
+Selecting data for 2021/03 | (2021-03-16---2021-03-20) | 14:53:50
+Selecting data for 2021/03 | (2021-03-21---2021-03-25) | 14:54:18
+Selecting data for 2021/03 | (2021-03-26---2021-03-31) | 14:55:20
+Selecting data for 2021/04 | (2021-04-01---2021-04-05) | 14:55:36
+Selecting data for 2021/04 | (2021-04-06---2021-04-10) | 14:56:03
+Selecting data for 2021/04 | (2021-04-11---2021-04-15) | 14:56:22
+Selecting data for 2021/04 | (2021-04-16---2021-04-20) | 14:56:40
+Selecting data for 2021/04 | (2021-04-21---2021-04-25) | 14:57:01
+Selecting data for 2021/04 | (2021-04-26---2021-04-31) | 14:57:40
+Selecting data for 2021/05 | (2021-05-01---2021-05-05) | 14:57:47
+Selecting data for 2021/05 | (2021-05-06---2021-05-10) | 14:58:08
+Selecting data for 2021/05 | (2021-05-11---2021-05-15) | 14:58:31
+Selecting data for 2021/05 | (2021-05-16---2021-05-20) | 14:58:45
+Selecting data for 2021/05 | (2021-05-21---2021-05-25) | 14:59:09
+Selecting data for 2021/05 | (2021-05-26---2021-05-31) | 14:59:41
+Selecting data for 2021/06 | (2021-06-01---2021-06-05) | 15:00:12
+Selecting data for 2021/06 | (2021-06-06---2021-06-10) | 15:00:32
+Selecting data for 2021/06 | (2021-06-11---2021-06-15) | 15:01:00
+Selecting data for 2021/06 | (2021-06-16---2021-06-20) | 15:01:37
+Selecting data for 2021/06 | (2021-06-21---2021-06-25) | 15:22:29
+Selecting data for 2021/06 | (2021-06-26---2021-06-31) | 15:53:23
+Selecting data for 2021/07 | (2021-07-01---2021-07-05) | 15:57:50
+Selecting data for 2021/07 | (2021-07-06---2021-07-10) | 16:04:02
+Selecting data for 2021/07 | (2021-07-11---2021-07-15) | 16:08:38
+Selecting data for 2021/07 | (2021-07-16---2021-07-20) | 16:14:53
+Selecting data for 2021/07 | (2021-07-21---2021-07-25) | 16:23:36
+Selecting data for 2021/07 | (2021-07-26---2021-07-31) | 16:36:19
+Selecting data for 2021/08 | (2021-08-01---2021-08-05) | 16:41:51
+Selecting data for 2021/08 | (2021-08-06---2021-08-10) | 16:48:59
+Selecting data for 2021/08 | (2021-08-11---2021-08-15) | 16:57:39
+Selecting data for 2021/08 | (2021-08-16---2021-08-20) | 17:09:48
+Selecting data for 2021/08 | (2021-08-21---2021-08-25) | 17:17:48
+Selecting data for 2021/08 | (2021-08-26---2021-08-31) | 17:29:19
+Selecting data for 2021/09 | (2021-09-01---2021-09-05) | 17:38:32
+Selecting data for 2021/09 | (2021-09-06---2021-09-10) | 17:39:37
+Selecting data for 2021/09 | (2021-09-11---2021-09-15) | 17:39:49
+Selecting data for 2021/09 | (2021-09-16---2021-09-20) | 17:40:18
+Selecting data for 2021/09 | (2021-09-21---2021-09-25) | 17:41:00
+Selecting data for 2021/09 | (2021-09-26---2021-09-31) | 17:42:12
+Selecting data for 2021/10 | (2021-10-01---2021-10-05) | 17:42:21
+Selecting data for 2021/10 | (2021-10-06---2021-10-10) | 17:42:32
+Selecting data for 2021/10 | (2021-10-11---2021-10-15) | 17:42:51
+Selecting data for 2021/10 | (2021-10-16---2021-10-20) | 17:42:59
+Selecting data for 2021/10 | (2021-10-21---2021-10-25) | 17:43:18
+Selecting data for 2021/10 | (2021-10-26---2021-10-31) | 17:43:43
+Selecting data for 2021/11 | (2021-11-01---2021-11-05) | 17:44:08
+Selecting data for 2021/11 | (2021-11-06---2021-11-10) | 17:44:16
+Selecting data for 2021/11 | (2021-11-11---2021-11-15) | 17:44:33
+Selecting data for 2021/11 | (2021-11-16---2021-11-20) | 17:44:52
+Selecting data for 2021/11 | (2021-11-21---2021-11-25) | 17:45:11
+Selecting data for 2021/11 | (2021-11-26---2021-11-31) | 17:45:39
+Selecting data for 2021/12 | (2021-12-01---2021-12-05) | 17:45:59
+Selecting data for 2021/12 | (2021-12-06---2021-12-10) | 17:46:31
+Selecting data for 2021/12 | (2021-12-11---2021-12-15) | 17:46:47
+Selecting data for 2021/12 | (2021-12-16---2021-12-20) | 17:47:22
+Selecting data for 2021/12 | (2021-12-21---2021-12-25) | 17:47:36
+Selecting data for 2021/12 | (2021-12-26---2021-12-31) | 17:47:36
+Selecting data for 2022/01 | (2022-01-01---2022-01-05) | 17:47:43
+Selecting data for 2022/01 | (2022-01-06---2022-01-10) | 17:48:00
+Selecting data for 2022/01 | (2022-01-11---2022-01-15) | 17:48:18
+Selecting data for 2022/01 | (2022-01-16---2022-01-20) | 17:48:28
+Selecting data for 2022/01 | (2022-01-21---2022-01-25) | 17:48:43
+Selecting data for 2022/01 | (2022-01-26---2022-01-31) | 17:49:13
+Selecting data for 2022/02 | (2022-02-01---2022-02-05) | 17:49:29
+Selecting data for 2022/02 | (2022-02-06---2022-02-10) | 17:49:40
+Selecting data for 2022/02 | (2022-02-11---2022-02-15) | 17:49:55
+Selecting data for 2022/02 | (2022-02-16---2022-02-20) | 17:50:15
+Selecting data for 2022/02 | (2022-02-21---2022-02-25) | 17:50:46
+Selecting data for 2022/02 | (2022-02-26---2022-02-31) | 17:50:53
+Selecting data for 2022/03 | (2022-03-01---2022-03-05) | 17:51:16
+Selecting data for 2022/03 | (2022-03-06---2022-03-10) | 17:51:28
+Selecting data for 2022/03 | (2022-03-11---2022-03-15) | 17:51:44
+Selecting data for 2022/03 | (2022-03-16---2022-03-20) | 17:52:02
+Selecting data for 2022/03 | (2022-03-21---2022-03-25) | 17:52:32
+Selecting data for 2022/03 | (2022-03-26---2022-03-31) | 17:52:57
+Selecting data for 2022/04 | (2022-04-01---2022-04-05) | 17:53:17
+Selecting data for 2022/04 | (2022-04-06---2022-04-10) | 17:53:35
+Selecting data for 2022/04 | (2022-04-11---2022-04-15) | 17:53:56
+Selecting data for 2022/04 | (2022-04-16---2022-04-20) | 17:54:02
+Selecting data for 2022/04 | (2022-04-21---2022-04-25) | 17:54:20
+Selecting data for 2022/04 | (2022-04-26---2022-04-31) | 17:54:47
+Selecting data for 2022/05 | (2022-05-01---2022-05-05) | 17:54:57
+Selecting data for 2022/05 | (2022-05-06---2022-05-10) | 17:55:17
+Selecting data for 2022/05 | (2022-05-11---2022-05-15) | 17:55:35
+Selecting data for 2022/05 | (2022-05-16---2022-05-20) | 17:55:59
+Selecting data for 2022/05 | (2022-05-21---2022-05-25) | 17:56:12
+Selecting data for 2022/05 | (2022-05-26---2022-05-31) | 17:56:45
+Selecting data for 2022/06 | (2022-06-01---2022-06-05) | 17:56:52
+Selecting data for 2022/06 | (2022-06-06---2022-06-10) | 17:57:19
+Selecting data for 2022/06 | (2022-06-11---2022-06-15) | 17:57:29
+Selecting data for 2022/06 | (2022-06-16---2022-06-20) | 17:57:46
+Selecting data for 2022/06 | (2022-06-21---2022-06-25) | 17:58:11
+Selecting data for 2022/06 | (2022-06-26---2022-06-31) | 17:58:37
+Selecting data for 2022/07 | (2022-07-01---2022-07-05) | 17:58:53
+Selecting data for 2022/07 | (2022-07-06---2022-07-10) | 17:59:13
+Selecting data for 2022/07 | (2022-07-11---2022-07-15) | 17:59:36
+Selecting data for 2022/07 | (2022-07-16---2022-07-20) | 17:59:46
+Selecting data for 2022/07 | (2022-07-21---2022-07-25) | 18:00:10
+Selecting data for 2022/07 | (2022-07-26---2022-07-31) | 18:00:41
+Selecting data for 2022/08 | (2022-08-01---2022-08-05) | 18:01:12
+Selecting data for 2022/08 | (2022-08-06---2022-08-10) | 18:01:22
+Selecting data for 2022/08 | (2022-08-11---2022-08-15) | 18:01:41
+Selecting data for 2022/08 | (2022-08-16---2022-08-20) | 18:02:04
+Selecting data for 2022/08 | (2022-08-21---2022-08-25) | 18:02:22
+Selecting data for 2022/08 | (2022-08-26---2022-08-31) | 18:02:48
+Selecting data for 2022/09 | (2022-09-01---2022-09-05) | 18:03:04
+Selecting data for 2022/09 | (2022-09-06---2022-09-10) | 18:03:25
+Selecting data for 2022/09 | (2022-09-11---2022-09-15) | 18:03:39
+Selecting data for 2022/09 | (2022-09-16---2022-09-20) | 18:03:54
+Selecting data for 2022/09 | (2022-09-21---2022-09-25) | 18:04:14
+Selecting data for 2022/09 | (2022-09-26---2022-09-31) | 18:04:46
+Selecting data for 2022/10 | (2022-10-01---2022-10-05) | 18:04:55
+Selecting data for 2022/10 | (2022-10-06---2022-10-10) | 18:05:17
+Selecting data for 2022/10 | (2022-10-11---2022-10-15) | 18:05:38
+Selecting data for 2022/10 | (2022-10-16---2022-10-20) | 18:05:51
+Selecting data for 2022/10 | (2022-10-21---2022-10-25) | 18:06:11
+Selecting data for 2022/10 | (2022-10-26---2022-10-31) | 18:06:37
+Selecting data for 2022/11 | (2022-11-01---2022-11-05) | 18:06:54
+Selecting data for 2022/11 | (2022-11-06---2022-11-10) | 18:07:09
+Selecting data for 2022/11 | (2022-11-11---2022-11-15) | 18:07:24
+Selecting data for 2022/11 | (2022-11-16---2022-11-20) | 18:07:39
+Selecting data for 2022/11 | (2022-11-21---2022-11-25) | 18:08:00
+Selecting data for 2022/11 | (2022-11-26---2022-11-31) | 18:08:16
+Selecting data for 2022/12 | (2022-12-01---2022-12-05) | 18:08:28
+Selecting data for 2022/12 | (2022-12-06---2022-12-10) | 18:08:44
+Selecting data for 2022/12 | (2022-12-11---2022-12-15) | 18:08:56
+Selecting data for 2022/12 | (2022-12-16---2022-12-20) | 18:09:19
+Selecting data for 2022/12 | (2022-12-21---2022-12-25) | 18:09:28
+Selecting data for 2022/12 | (2022-12-26---2022-12-31) | 18:09:28
+Selecting data for 2023/01 | (2023-01-01---2023-01-05) | 18:09:36
+Selecting data for 2023/01 | (2023-01-06---2023-01-10) | 18:09:47
+Selecting data for 2023/01 | (2023-01-11---2023-01-15) | 18:09:56
+Selecting data for 2023/01 | (2023-01-16---2023-01-20) | 18:10:15
+Selecting data for 2023/01 | (2023-01-21---2023-01-25) | 18:10:21
+Selecting data for 2023/01 | (2023-01-26---2023-01-31) | 18:10:44
+Selecting data for 2023/02 | (2023-02-01---2023-02-05) | 18:10:54
+Selecting data for 2023/02 | (2023-02-06---2023-02-10) | 18:11:13
+Selecting data for 2023/02 | (2023-02-11---2023-02-15) | 18:11:19
+Selecting data for 2023/02 | (2023-02-16---2023-02-20) | 18:11:29
+Selecting data for 2023/02 | (2023-02-21---2023-02-25) | 18:11:42
+Selecting data for 2023/02 | (2023-02-26---2023-02-31) | 18:11:49
+Selecting data for 2023/03 | (2023-03-01---2023-03-05) | 18:11:58
+Selecting data for 2023/03 | (2023-03-06---2023-03-10) | 18:12:13
+Selecting data for 2023/03 | (2023-03-11---2023-03-15) | 18:12:19
+Selecting data for 2023/03 | (2023-03-16---2023-03-20) | 18:12:29
+Selecting data for 2023/03 | (2023-03-21---2023-03-25) | 18:12:40
+Selecting data for 2023/03 | (2023-03-26---2023-03-31) | 18:13:02
+Selecting data for 2023/04 | (2023-04-01---2023-04-05) | 18:13:13
+Selecting data for 2023/04 | (2023-04-06---2023-04-10) | 18:13:18
+Selecting data for 2023/04 | (2023-04-11---2023-04-15) | 18:13:27
+Selecting data for 2023/04 | (2023-04-16---2023-04-20) | 18:13:33
+Selecting data for 2023/04 | (2023-04-21---2023-04-25) | 18:13:41
+Selecting data for 2023/04 | (2023-04-26---2023-04-31) | 18:13:54
+Selecting data for 2023/05 | (2023-05-01---2023-05-05) | 18:14:05
+Selecting data for 2023/05 | (2023-05-06---2023-05-10) | 18:14:10
+Selecting data for 2023/05 | (2023-05-11---2023-05-15) | 18:14:18
+Selecting data for 2023/05 | (2023-05-16---2023-05-20) | 18:14:27
+Selecting data for 2023/05 | (2023-05-21---2023-05-25) | 18:14:35
+Selecting data for 2023/05 | (2023-05-26---2023-05-31) | 18:14:48
+Selecting data for 2023/06 | (2023-06-01---2023-06-05) | 18:14:56
+Selecting data for 2023/06 | (2023-06-06---2023-06-10) | 18:15:12
+Selecting data for 2023/06 | (2023-06-11---2023-06-15) | 18:15:19
+Selecting data for 2023/06 | (2023-06-16---2023-06-20) | 18:15:29
+Selecting data for 2023/06 | (2023-06-21---2023-06-25) | 18:15:41
+Selecting data for 2023/06 | (2023-06-26---2023-06-31) | 18:16:00
+Selecting data for 2023/07 | (2023-07-01---2023-07-05) | 18:16:09
+Selecting data for 2023/07 | (2023-07-06---2023-07-10) | 18:16:19
+Selecting data for 2023/07 | (2023-07-11---2023-07-15) | 18:16:30
+Selecting data for 2023/07 | (2023-07-16---2023-07-20) | 18:16:37
+Selecting data for 2023/07 | (2023-07-21---2023-07-25) | 18:16:47
+Selecting data for 2023/07 | (2023-07-26---2023-07-31) | 18:17:04
+Selecting data for 2023/08 | (2023-08-01---2023-08-05) | 18:17:18
+Selecting data for 2023/08 | (2023-08-06---2023-08-10) | 18:17:25
+Selecting data for 2023/08 | (2023-08-11---2023-08-15) | 18:17:35
+Selecting data for 2023/08 | (2023-08-16---2023-08-20) | 18:17:44
+Selecting data for 2023/08 | (2023-08-21---2023-08-25) | 18:18:00
+Selecting data for 2023/08 | (2023-08-26---2023-08-31) | 18:18:14
+Selecting data for 2023/09 | (2023-09-01---2023-09-05) | 18:18:22
+Selecting data for 2023/09 | (2023-09-06---2023-09-10) | 18:18:30
+Selecting data for 2023/09 | (2023-09-11---2023-09-15) | 18:18:42
+Selecting data for 2023/09 | (2023-09-16---2023-09-20) | 18:18:47
+Selecting data for 2023/09 | (2023-09-21---2023-09-25) | 18:18:56
+Selecting data for 2023/09 | (2023-09-26---2023-09-31) | 18:19:14
+Selecting data for 2023/10 | (2023-10-01---2023-10-05) | 18:19:21
+Selecting data for 2023/10 | (2023-10-06---2023-10-10) | 18:19:28
+Selecting data for 2023/10 | (2023-10-11---2023-10-15) | 18:19:36
+Selecting data for 2023/10 | (2023-10-16---2023-10-20) | 18:19:48
+Selecting data for 2023/10 | (2023-10-21---2023-10-25) | 18:19:53
+Selecting data for 2023/10 | (2023-10-26---2023-10-31) | 18:20:11
+Selecting data for 2023/11 | (2023-11-01---2023-11-05) | 18:20:21
+Selecting data for 2023/11 | (2023-11-06---2023-11-10) | 18:20:33
+Selecting data for 2023/11 | (2023-11-11---2023-11-15) | 18:20:37
+Selecting data for 2023/11 | (2023-11-16---2023-11-20) | 18:20:46
+Selecting data for 2023/11 | (2023-11-21---2023-11-25) | 18:20:56
+Selecting data for 2023/11 | (2023-11-26---2023-11-31) | 18:21:10
+Selecting data for 2023/12 | (2023-12-01---2023-12-05) | 18:21:17
+Selecting data for 2023/12 | (2023-12-06---2023-12-10) | 18:21:24
+Selecting data for 2023/12 | (2023-12-11---2023-12-15) | 18:21:37
+Selecting data for 2023/12 | (2023-12-16---2023-12-20) | 18:21:46
+Selecting data for 2023/12 | (2023-12-21---2023-12-25) | 18:21:48
+Selecting data for 2023/12 | (2023-12-26---2023-12-31) | 18:21:48
+Selecting data for 2024/01 | (2024-01-01---2024-01-05) | 18:21:58
+Selecting data for 2024/01 | (2024-01-06---2024-01-10) | 18:22:01
+Selecting data for 2024/01 | (2024-01-11---2024-01-15) | 18:22:11
+Selecting data for 2024/01 | (2024-01-16---2024-01-20) | 18:22:16
+Selecting data for 2024/01 | (2024-01-21---2024-01-25) | 18:22:20
+Selecting data for 2024/01 | (2024-01-26---2024-01-31) | 18:22:27
+Selecting data for 2024/02 | (2024-02-01---2024-02-05) | 18:22:31
+Selecting data for 2024/02 | (2024-02-06---2024-02-10) | 18:22:36
+Selecting data for 2024/02 | (2024-02-11---2024-02-15) | 18:22:40
+Selecting data for 2024/02 | (2024-02-16---2024-02-20) | 18:22:45
+Selecting data for 2024/02 | (2024-02-21---2024-02-25) | 18:22:49
+Selecting data for 2024/02 | (2024-02-26---2024-02-31) | 18:22:55
+Selecting data for 2024/03 | (2024-03-01---2024-03-05) | 18:22:59
+Selecting data for 2024/03 | (2024-03-06---2024-03-10) | 18:23:07
+Selecting data for 2024/03 | (2024-03-11---2024-03-15) | 18:23:14
+Selecting data for 2024/03 | (2024-03-16---2024-03-20) | 18:23:16
+Selecting data for 2024/03 | (2024-03-21---2024-03-25) | 18:23:22
+Selecting data for 2024/03 | (2024-03-26---2024-03-31) | 18:23:30
+Selecting data for 2024/04 | (2024-04-01---2024-04-05) | 18:23:35
+Selecting data for 2024/04 | (2024-04-06---2024-04-10) | 18:23:38
+Selecting data for 2024/04 | (2024-04-11---2024-04-15) | 18:23:43
+Selecting data for 2024/04 | (2024-04-16---2024-04-20) | 18:23:48
+Selecting data for 2024/04 | (2024-04-21---2024-04-25) | 18:23:51
+Selecting data for 2024/04 | (2024-04-26---2024-04-31) | 18:23:58
+Selecting data for 2024/05 | (2024-05-01---2024-05-05) | 18:24:02
+Selecting data for 2024/05 | (2024-05-06---2024-05-10) | 18:24:11
+Selecting data for 2024/05 | (2024-05-11---2024-05-15) | 18:24:13
+Selecting data for 2024/05 | (2024-05-16---2024-05-20) | 18:24:17
+Selecting data for 2024/05 | (2024-05-21---2024-05-25) | 18:24:22
+Selecting data for 2024/05 | (2024-05-26---2024-05-31) | 18:24:28
+Selecting data for 2024/06 | (2024-06-01---2024-06-05) | 18:24:30
+Selecting data for 2024/06 | (2024-06-06---2024-06-10) | 18:24:33
+Selecting data for 2024/06 | (2024-06-11---2024-06-15) | 18:24:37
+Selecting data for 2024/06 | (2024-06-16---2024-06-20) | 18:24:39
+Selecting data for 2024/06 | (2024-06-21---2024-06-25) | 18:24:42
+Selecting data for 2024/06 | (2024-06-26---2024-06-31) | 18:24:47
+Selecting data for 2024/07 | (2024-07-01---2024-07-05) | 18:24:50
+Selecting data for 2024/07 | (2024-07-06---2024-07-10) | 18:24:52
+Selecting data for 2024/07 | (2024-07-11---2024-07-15) | 18:24:54
+Selecting data for 2024/07 | (2024-07-16---2024-07-20) | 18:24:57
+Selecting data for 2024/07 | (2024-07-21---2024-07-25) | 18:24:59
+Selecting data for 2024/07 | (2024-07-26---2024-07-31) | 18:25:04
+Selecting data for 2024/08 | (2024-08-01---2024-08-05) | 18:25:11
+Selecting data for 2024/08 | (2024-08-06---2024-08-10) | 18:25:14
+Selecting data for 2024/08 | (2024-08-11---2024-08-15) | 18:25:17
+Selecting data for 2024/08 | (2024-08-16---2024-08-20) | 18:25:20
+Selecting data for 2024/08 | (2024-08-21---2024-08-25) | 18:25:22
+Selecting data for 2024/08 | (2024-08-26---2024-08-31) | 18:25:26
+Selecting data for 2024/09 | (2024-09-01---2024-09-05) | 18:25:27
+Selecting data for 2024/09 | (2024-09-06---2024-09-10) | 18:25:29
+Selecting data for 2024/09 | (2024-09-11---2024-09-15) | 18:25:31
+Selecting data for 2024/09 | (2024-09-16---2024-09-20) | 18:25:35
+Selecting data for 2024/09 | (2024-09-21---2024-09-25) | 18:25:35
+Selecting data for 2024/09 | (2024-09-26---2024-09-31) | 18:25:36
+Selecting data for 2024/10 | (2024-10-01---2024-10-05) | 18:25:36
+Selecting data for 2024/10 | (2024-10-06---2024-10-10) | 18:25:36
+Selecting data for 2024/10 | (2024-10-11---2024-10-15) | 18:25:36
+Selecting data for 2024/10 | (2024-10-16---2024-10-20) | 18:25:36
+Selecting data for 2024/10 | (2024-10-21---2024-10-25) | 18:25:36
+Selecting data for 2024/10 | (2024-10-26---2024-10-31) | 18:25:36
+Selecting data for 2024/11 | (2024-11-01---2024-11-05) | 18:25:36
+Selecting data for 2024/11 | (2024-11-06---2024-11-10) | 18:25:36
+Selecting data for 2024/11 | (2024-11-11---2024-11-15) | 18:25:36
+Selecting data for 2024/11 | (2024-11-16---2024-11-20) | 18:25:36
+Selecting data for 2024/11 | (2024-11-21---2024-11-25) | 18:25:36
+Selecting data for 2024/11 | (2024-11-26---2024-11-31) | 18:25:36
+Selecting data for 2024/12 | (2024-12-01---2024-12-05) | 18:25:36
+Selecting data for 2024/12 | (2024-12-06---2024-12-10) | 18:25:36
+Selecting data for 2024/12 | (2024-12-11---2024-12-15) | 18:25:36
+Selecting data for 2024/12 | (2024-12-16---2024-12-20) | 18:25:36
+Selecting data for 2024/12 | (2024-12-21---2024-12-25) | 18:25:36
+Selecting data for 2024/12 | (2024-12-26---2024-12-31) | 18:25:36

@@ -1,4 +1,5 @@
 from .config import *
+from .utils import logString
 import requests
 import zipfile
 import io
@@ -73,13 +74,59 @@ def create_connection(user, password, host, database, port=3306):
         print(f"Error connecting to the MariaDB '{database}' Server: {e}")
     return conn
 
+def upload_data(conn, file, table_name):
+  executeCommand(conn, f"LOAD DATA LOCAL INFILE '{file}' INTO TABLE `{table_name}` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED by '\"' LINES STARTING BY '' TERMINATED BY '\n';")
+
 def housing_upload_join_data(conn, year):
   start_date = str(year) + "-01-01"
   end_date = str(year) + "-12-31"
 
   cur = conn.cursor()
   print('Selecting data for year: ' + str(year))
-  cur.execute(f'SELECT pp.price, pp.date_of_transfer, po.postcode, pp.property_type, pp.new_build_flag, pp.tenure_type, pp.locality, pp.town_city, pp.district, pp.county, po.country, po.latitude, po.longitude FROM (SELECT price, date_of_transfer, postcode, property_type, new_build_flag, tenure_type, locality, town_city, district, county FROM pp_data WHERE date_of_transfer BETWEEN "' + start_date + '" AND "' + end_date + '") AS pp INNER JOIN postcode_data AS po ON pp.postcode = po.postcode')
+  # cur.execute(f'SELECT pp.price, pp.date_of_transfer, po.postcode, pp.property_type, pp.new_build_flag, pp.tenure_type, pp.locality, pp.town_city, pp.district, pp.county, po.country, po.latitude, po.longitude FROM (SELECT price, date_of_transfer, postcode, property_type, new_build_flag, tenure_type, locality, town_city, district, county FROM pp_data WHERE date_of_transfer BETWEEN "' + start_date + '" AND "' + end_date + '") AS pp INNER JOIN postcode_data AS po ON pp.postcode = po.postcode')
+  # cur.execute(f'SELECT pp.price, pp.date_of_transfer, po.postcode, pp.property_type, pp.new_build_flag, pp.tenure_type, pp.locality, pp.town_city, pp.district, pp.county, po.country, po.latitude, po.longitude 
+  #   FROM (
+  #     SELECT price, date_of_transfer, postcode, property_type, new_build_flag, tenure_type, locality, town_city, district, county 
+  #     FROM pp_data 
+  #     WHERE date_of_transfer BETWEEN "' + start_date + '" AND "' + end_date + '"
+  #   ) AS pp 
+  #   INNER JOIN postcode_data AS po 
+  #   ON pp.postcode = po.postcode')
+  # 
+  # cur.execute(f"""
+  #   WITH pp AS (
+  #     SELECT price, date_of_transfer, postcode, property_type, new_build_flag, tenure_type, locality, town_city, district, county 
+  #     FROM pp_data 
+  #     WHERE date_of_transfer BETWEEN "{start_date}" AND "{end_date}"
+  #   ),
+  #   po AS (
+  #     SELECT country, latitude, longitude, postcode  
+  #     FROM postcode_data 
+  #     WHERE date_of_transfer BETWEEN "{start_date}" AND "{end_date}"
+  #   )
+  
+# cur.execute(f'SELECT pp.price, pp.date_of_transfer, po.postcode, pp.property_type, pp.new_build_flag, pp.tenure_type, pp.locality, pp.town_city, pp.district, pp.county, po.country, po.latitude, po.longitude 
+#     FROM (
+#       SELECT price, date_of_transfer, postcode, property_type, new_build_flag, tenure_type, locality, town_city, district, county 
+#       FROM pp_data 
+#       WHERE date_of_transfer BETWEEN "' + start_date + '" AND "' + end_date + '"
+#     ) AS pp 
+#     INNER JOIN postcode_data AS po 
+#     ON pp.postcode = po.postcode')
+
+  cur.execute(f"""
+    INSERT INTO prices_coordinates_data (price, date_of_transfer, postcode, property_type, new_build_flag, tenure_type, locality, town_city, district, county, country, latitude, longitude)
+    SELECT pp.price, pp.date_of_transfer, po.postcode, pp.property_type, pp.new_build_flag, pp.tenure_type, pp.locality, pp.town_city, pp.district, pp.county, po.country, po.latitude, po.longitude 
+    FROM (
+      SELECT price, date_of_transfer, postcode, property_type, new_build_flag, tenure_type, locality, town_city, district, county 
+      FROM pp_data 
+      WHERE date_of_transfer BETWEEN "{start_date}" AND "{end_date}"
+    ) AS pp
+    INNER JOIN (
+      SELECT country, latitude, longitude, postcode  
+      FROM postcode_data   
+    ) AS po
+    ON pp.postcode = po.postcode""")
   rows = cur.fetchall()
 
   csv_file_path = 'output_file.csv'
@@ -93,6 +140,16 @@ def housing_upload_join_data(conn, year):
   cur.execute(f"LOAD DATA LOCAL INFILE '" + csv_file_path + "' INTO TABLE `prices_coordinates_data` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED by '\"' LINES STARTING BY '' TERMINATED BY '\n';")
   print('Data stored for year: ' + str(year))
 
+def executeCommand(conn, sql, log=False):
+  if log: print(logString("Executing SQL command:", sql))
+  cur = conn.cursor()
+  try:
+    cur.execute(sql)
+  except:
+    print("Error executing SQL command")
+    cur.rollback()
+  else:
+    cur.commit()
 
 def geo():
     tags = {
