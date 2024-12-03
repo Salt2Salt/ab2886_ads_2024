@@ -3,3 +3,4 @@ notebooks/credentials.yaml
 notebooks/output_file.csv
 */__pycache__/*
 *.csv
+datasets/*
