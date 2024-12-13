@@ -74,8 +74,8 @@ def create_connection(user, password, host, database, port=3306):
         print(f"Error connecting to the MariaDB '{database}' Server: {e}")
     return conn
 
-def upload_data(conn, file, table_name):
-  executeCommand(conn, f"LOAD DATA LOCAL INFILE '{file}' INTO TABLE `{table_name}` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED by '\"' LINES STARTING BY '' TERMINATED BY '\n';")
+def upload_data(conn, file, table_name, log=False):
+  executeCommand(conn, f"LOAD DATA LOCAL INFILE '{file}' INTO TABLE `{table_name}` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED by '\"' LINES STARTING BY '' TERMINATED BY '\n';", log)
 
 def housing_upload_join_data(conn, year):
   start_date = str(year) + "-01-01"
@@ -138,6 +138,7 @@ def housing_upload_join_data(conn, year):
     csv_writer.writerows(rows)
   print('Storing data for year: ' + str(year))
   cur.execute(f"LOAD DATA LOCAL INFILE '" + csv_file_path + "' INTO TABLE `prices_coordinates_data` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED by '\"' LINES STARTING BY '' TERMINATED BY '\n';")
+  cur.commit()
   print('Data stored for year: ' + str(year))
 
 def executeCommand(conn, sql, log=False):
@@ -147,9 +148,9 @@ def executeCommand(conn, sql, log=False):
     cur.execute(sql)
   except:
     print("Error executing SQL command")
-    cur.rollback()
+    conn.rollback()
   else:
-    cur.commit()
+    conn.commit()
 
 def geo():
     tags = {
