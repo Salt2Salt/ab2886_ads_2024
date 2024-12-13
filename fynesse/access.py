@@ -152,6 +152,9 @@ def executeCommand(conn, sql, log=False):
   else:
     conn.commit()
 
+def createIndex(conn, column, table):
+  cur.execute(f"CREATE INDEX idx_{column} ON {table}({column})")
+
 def geo():
     tags = {
         "amenity": True,

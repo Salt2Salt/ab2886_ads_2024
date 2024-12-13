@@ -18,7 +18,9 @@ import scipy.stats"""
 
 """Address a particular question that arises from the data"""
 
-# Use this box for any code you need
+#import numpy as np
+from geopy.distance import distance
+
 def getBoundingBox(location, side_length_km):
   """Returns the northeastern point of the bounding box (numerically larger) and the southwestern point (numerically smaller).
   Doesn't hold true if the side_length gets too big."""
@@ -27,29 +29,27 @@ def getBoundingBox(location, side_length_km):
   return (northeast_point.latitude, northeast_point.longitude), (southwest_point.latitude, southwest_point.longitude)
 
 def count_pois_near_coordinates(latitude: float, longitude: float, tags: dict, distance_km: float = 1.0) -> dict:
-    """
-    Count Points of Interest (POIs) near a given pair of coordinates within a specified distance.
-    Args:
-        latitude (float): Latitude of the location.
-        longitude (float): Longitude of the location.
-        tags (dict): A dictionary of OSM tags to filter the POIs (e.g., {'amenity': True, 'tourism': True}).
-        distance_km (float): The distance around the location in kilometers. Default is 1 km.
-    Returns:
-        dict: A dictionary where keys are the OSM tags and values are the counts of POIs for each tag.
-    """
-    # ChatGPT told me that I could use geopy to get the distance between two points specified by coordinates, and gave me an example that I used.
-    # kmPerDegree = 111
-    (north, east), (south,west) = getBoundingBox((latitude, longitude), distance_km*2)
-    places_of_interest = ox.geometries_from_bbox(north, south, east, west, tags)
-    origin = (latitude, longitude)
-    def isWithinDistance(row):
-      if isinstance(row.geometry, Point):
-        poi_loc = (row.geometry.x, row.geometry.y)
-        print(f"Is {poi_loc} near {origin}?")
-        return distance(origin, poi_loc).km < distance_km
-      else:
-        return False
-    return len(places_of_interest.loc[isWithinDistance])
+  """
+  Count Points of Interest (POIs) near a given pair of coordinates within a specified distance.
+  Args:
+    latitude (float): Latitude of the location.
+    longitude (float): Longitude of the location.
+    tags (dict): A dictionary of OSM tags to filter the POIs (e.g., {'amenity': True, 'tourism': True}).
+    distance_km (float): The distance around the location in kilometers. Default is 1 km.
+  Returns:
+    dict: A dictionary where keys are the OSM tags and values are the counts of POIs for each tag.
+  """
+  # ChatGPT told me that I could use geopy to get the distance between two points specified by coordinates, and gave me an example that I used.
+  # kmPerDegree = 111
+  (north, east), (south,west) = getBoundingBox((latitude, longitude), distance_km+0.5) #add margin to ensure all places get discovered 
+  places_of_interest = ox.geometries_from_bbox(north, south, east, west, tags).loc['node']
+  origin = (latitude, longitude)
+  def isWithinDistance(row):
+    poi_loc = (row.geometry.y, row.geometry.x)
+    return distance(origin, poi_loc).km < distance_km
+  nearby_pois = places_of_interest.apply(isWithinDistance, axis=1)
+  return len(places_of_interest.loc[nearby_pois])
+
 
 if __name__ == "__main__":
   print("Test")
